@@ -1,0 +1,1065 @@
+{
+  "id": "4cd43b99-b765-5443-980e-255fecfceab5",
+  "url": "/alex-braine/javascript/full-course-for-beginners",
+  "title": "JavaScript in 3 hours",
+  "cards": 134,
+  "createdAt": 1544451220,
+  "author": "freeCodeCamp.org",
+  "source": "https://www.youtube.com/watch?v=PkZNo7MFNFg",
+  "youtubeId": "PkZNo7MFNFg",
+  "children": [
+    {
+      "title": "JavaScript",
+      "children": [
+        {
+          "title": "Course",
+          "children": [
+            {
+              "title": "For Beginners",
+              "children": [
+                {
+                  "title": "Introduction",
+                  "children": [
+                    {
+                      "id": "41848fd2-6778-549e-baeb-cfaf65ed1856",
+                      "title": "Introduction",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 0,
+                      "stop": 84
+                    },
+                    {
+                      "id": "298d6c03-6c4a-5a4d-add8-6f24e787e4ac",
+                      "title": "Running JavaScript",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 84,
+                      "stop": 263
+                    },
+                    {
+                      "id": "330aa7c8-345e-5cac-824c-ddac701624f7",
+                      "title": "Comment Your Code",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 263,
+                      "stop": 356
+                    },
+                    {
+                      "id": "24d7bead-f905-5737-9cac-9cc6720b399a",
+                      "title": "Data Types and Variables",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 356,
+                      "stop": 691
+                    },
+                    {
+                      "id": "1537238a-a94c-515c-8a26-47bd96e2b958",
+                      "title": "Initializing Variables with the Assignment Operator",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 691,
+                      "stop": 718
+                    },
+                    {
+                      "id": "2f20014d-d7ad-500d-b90d-aea668cabc96",
+                      "title": "Uninitialized Variables",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 718,
+                      "stop": 760
+                    },
+                    {
+                      "id": "f9559522-91e3-5df9-b98e-db1e7cc99f01",
+                      "title": "Case Sensitivity in Variables",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 760,
+                      "stop": 845
+                    }
+                  ]
+                },
+                {
+                  "title": "Numbers",
+                  "children": [
+                    {
+                      "id": "b5660da0-3ed7-5f53-a9e3-4a19681607e1",
+                      "title": "Add Two Numbers",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 845,
+                      "stop": 874
+                    },
+                    {
+                      "id": "cc9fe963-7337-5be1-959b-6bed49aa7574",
+                      "title": "Subtract One Number from Another",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 874,
+                      "stop": 892
+                    },
+                    {
+                      "id": "a3f9dd3a-b84b-5055-92bd-90eeb638c40c",
+                      "title": "Multiply Two Numbers",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 892,
+                      "stop": 912
+                    },
+                    {
+                      "id": "292efdab-5b63-5c37-85a7-04705cc4ae5c",
+                      "title": "Dividing Numbers",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 912,
+                      "stop": 930
+                    },
+                    {
+                      "id": "30bb3150-f499-570e-89f0-a2544b439aac",
+                      "title": "Increment",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 930,
+                      "stop": 958
+                    },
+                    {
+                      "id": "4dc0854f-caca-514d-9296-0a79d2b9bf7d",
+                      "title": "Decrement",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 958,
+                      "stop": 982
+                    },
+                    {
+                      "id": "a85e668c-44c5-5a70-a071-23e4ff99d595",
+                      "title": "Decimal Numbers",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 982,
+                      "stop": 1008
+                    },
+                    {
+                      "id": "7f0500f8-6852-56d2-b2ac-e812881e2f01",
+                      "title": "Multiply Two Decimals",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 1008,
+                      "stop": 1038
+                    },
+                    {
+                      "id": "6e9d1744-40c6-5224-95d9-242b6fa29c7c",
+                      "title": "Divide Decimals",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 1038,
+                      "stop": 1053
+                    },
+                    {
+                      "id": "e64bb531-933d-5804-b093-f640f7fabdb6",
+                      "title": "Finding a Remainder",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 1053,
+                      "stop": 1102
+                    },
+                    {
+                      "id": "e8e54701-c4ad-506a-82e8-05f817d2c5da",
+                      "title": "Augmented Addition",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 1102,
+                      "stop": 1162
+                    },
+                    {
+                      "id": "cca9211d-4acb-5fdc-986e-14f90741efae",
+                      "title": "Augmented Subtraction",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 1162,
+                      "stop": 1218
+                    },
+                    {
+                      "id": "358d4032-4722-519d-9bad-ca4ebda3d545",
+                      "title": "Augmented Multiplication",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 1218,
+                      "stop": 1251
+                    },
+                    {
+                      "id": "1c0715c6-e30c-5300-96a5-610fbc0acfa7",
+                      "title": "Augmented Division",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 1251,
+                      "stop": 1279
+                    }
+                  ]
+                },
+                {
+                  "title": "Strings",
+                  "children": [
+                    {
+                      "id": "86bc1ea2-2b13-5513-8b52-80a3b12a5605",
+                      "title": "Declare String Variables",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 1279,
+                      "stop": 1321
+                    },
+                    {
+                      "id": "1ae00ed6-a593-5f62-87f9-85cd5af96439",
+                      "title": "Escaping Literal Quotes",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 1321,
+                      "stop": 1424
+                    },
+                    {
+                      "id": "f2501d30-a889-5a0f-84b0-2bbfacc3ee5d",
+                      "title": "Quoting Strings with Single Quotes",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 1424,
+                      "stop": 1518
+                    },
+                    {
+                      "id": "d1919c5c-10f3-52bf-8d66-8de5bf6b42a6",
+                      "title": "Escape Sequences",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 1518,
+                      "stop": 1606
+                    },
+                    {
+                      "id": "5b64fe7b-e2e0-568f-9005-c088979684bd",
+                      "title": "Concatenating String with Plus Operator",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 1606,
+                      "stop": 1669
+                    },
+                    {
+                      "id": "ea0c19be-a524-54b8-94c6-2c156af1532c",
+                      "title": "Plus Equals Operator",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 1669,
+                      "stop": 1741
+                    },
+                    {
+                      "id": "7473d451-32de-56ac-ae5d-f4d87d03ce36",
+                      "title": "Constructing Strings with Variables",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 1741,
+                      "stop": 1814
+                    },
+                    {
+                      "id": "fbd8ca83-ef9e-5b3c-8bca-1a894545a6cc",
+                      "title": "Appending Variables to Strings",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 1814,
+                      "stop": 1871
+                    },
+                    {
+                      "id": "4872e679-6db1-5226-96b6-5428d4bff88a",
+                      "title": "Length of a String",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 1871,
+                      "stop": 1921
+                    },
+                    {
+                      "id": "3ddf768c-a256-583f-bda5-951914ecd4f9",
+                      "title": "Bracket Notation",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 1921,
+                      "stop": 2007
+                    },
+                    {
+                      "id": "b5f75d13-6cb1-53f6-80d1-61e2777106c2",
+                      "title": "String Immutability",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 2007,
+                      "stop": 2063
+                    },
+                    {
+                      "id": "8bdbf8bf-259f-563a-932b-fcc7877ef72d",
+                      "title": "Find the Nth Character",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 2063,
+                      "stop": 2091
+                    },
+                    {
+                      "id": "353cbeda-fe4c-5f3f-a40e-45fe0b1de71b",
+                      "title": "Find the Last Character",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 2091,
+                      "stop": 2148
+                    },
+                    {
+                      "id": "6e91979a-5ee1-5fc7-b36b-e7e0ddedba8a",
+                      "title": "Find the Nth-to-Last Character",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 2148,
+                      "stop": 2188
+                    },
+                    {
+                      "id": "87d29d34-3695-56c3-8aca-def7ea517db0",
+                      "title": "Word Blanks",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 2188,
+                      "stop": 2444
+                    },
+                    {
+                      "id": "ebc1270d-f186-544f-8e06-6f6a0ec5f50d",
+                      "title": "Template Literals",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 11199,
+                      "stop": 11443
+                    }
+                  ]
+                },
+                {
+                  "title": "Arrays",
+                  "children": [
+                    {
+                      "id": "8e187afb-4a7e-560f-bc06-9c16a9b445ac",
+                      "title": "Arrays",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 2444,
+                      "stop": 2503
+                    },
+                    {
+                      "id": "12d6342e-9a77-5212-82d9-355d5bbabbae",
+                      "title": "Nest Arrays",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 2503,
+                      "stop": 2553
+                    },
+                    {
+                      "id": "85cb2bf8-6fe8-543c-a3ad-6cfaa5821634",
+                      "title": "Access Array Data",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 2553,
+                      "stop": 2614
+                    },
+                    {
+                      "id": "6953ddb4-83cd-5088-aa00-c2334a2aa4b7",
+                      "title": "Modify Array Data",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 2614,
+                      "stop": 2688
+                    },
+                    {
+                      "id": "7b5feece-8f40-5178-aa04-88a0213add37",
+                      "title": "Access Multi-Dimensional Arrays",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 2688,
+                      "stop": 2790
+                    },
+                    {
+                      "id": "4a4eef39-c076-5d6b-88c0-d486b3432341",
+                      "title": "push()",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 2790,
+                      "stop": 2849
+                    },
+                    {
+                      "id": "0dfa6fcb-b4c7-5649-ae52-b0ac9487eda5",
+                      "title": "pop()",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 2849,
+                      "stop": 2913
+                    },
+                    {
+                      "id": "b13bfb81-aef8-5c85-a855-c944fb46455b",
+                      "title": "shift()",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 2913,
+                      "stop": 2963
+                    },
+                    {
+                      "id": "14e20fb7-92d3-50ed-aab8-421fac9dfdf5",
+                      "title": "unshift()",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 2963,
+                      "stop": 3036
+                    },
+                    {
+                      "id": "267018f1-418e-5857-9634-fd8015f5256f",
+                      "title": "Shopping List",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 3036,
+                      "stop": 3101
+                    }
+                  ]
+                },
+                {
+                  "title": "Functions",
+                  "children": [
+                    {
+                      "id": "34574f38-6a9e-5203-b29e-53514f5ab2f4",
+                      "title": "Write Reusable with Functions",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 3101,
+                      "stop": 3221
+                    },
+                    {
+                      "id": "24846920-11eb-5357-a2ce-b2914a1d40a5",
+                      "title": "Arguments",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 3221,
+                      "stop": 3343
+                    },
+                    {
+                      "id": "026ef837-ebc4-52ea-b50a-e50f0c434fbc",
+                      "title": "Global Scope",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 3343,
+                      "stop": 3571
+                    },
+                    {
+                      "id": "e7e265ce-2ee3-5770-abd7-b94cd2b7af4e",
+                      "title": "Local Scope",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 3571,
+                      "stop": 3646
+                    },
+                    {
+                      "id": "a9676d8c-6679-58da-92ac-dfbc91e06d61",
+                      "title": "Global vs Local Scope in Functions",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 3646,
+                      "stop": 3760
+                    },
+                    {
+                      "id": "52f122de-1b8b-5541-9985-49a55e849b4d",
+                      "title": "Return a Value from a Function",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 3760,
+                      "stop": 3835
+                    },
+                    {
+                      "id": "5eb24061-2eb2-5bca-ac02-1635333ae430",
+                      "title": "Undefined Value returned",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 3835,
+                      "stop": 3892
+                    },
+                    {
+                      "id": "6782f239-66b1-5c11-8881-1e56557a64a3",
+                      "title": "Assignment with a Returned Value",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 3892,
+                      "stop": 3952
+                    },
+                    {
+                      "id": "73e389b8-169d-5f0d-bdb2-0c63e6b3fab9",
+                      "title": "Stand in Line",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 3952,
+                      "stop": 4121
+                    },
+                    {
+                      "id": "bc002e99-7114-5b1d-a8d4-e4d7d1ca7a91",
+                      "title": "Boolean Values",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 4121,
+                      "stop": 4164
+                    },
+                    {
+                      "id": "c796e025-b422-54a0-a70a-a005ef810a14",
+                      "title": "Returning Boolean Values from Functions",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 6071,
+                      "stop": 6140
+                    },
+                    {
+                      "id": "95b7e36c-2f40-53cb-9d9e-1ed0e61fc9ab",
+                      "title": "Return Early Pattern for Functions",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 6140,
+                      "stop": 6218
+                    },
+                    {
+                      "id": "bac31f68-c39d-57c8-930f-dc749bb45b21",
+                      "title": "Counting Cards",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 6218,
+                      "stop": 6551
+                    }
+                  ]
+                },
+                {
+                  "title": "Operators",
+                  "children": [
+                    {
+                      "id": "ad9f2023-372f-5dbc-87f7-fad070a7c3dd",
+                      "title": "Equality Operator",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 4311,
+                      "stop": 4398
+                    },
+                    {
+                      "id": "de55ec8b-4f0c-5b07-ab0e-3a3f98915978",
+                      "title": "Strict Equality Operator",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 4398,
+                      "stop": 4483
+                    },
+                    {
+                      "id": "0d2b09af-0153-53dd-a5d4-bd66bdc5b10d",
+                      "title": "Comparing different values",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 4483,
+                      "stop": 4538
+                    },
+                    {
+                      "id": "0cca5ab3-2038-5990-8116-a1b36d8a559d",
+                      "title": "Inequality Operator",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 4538,
+                      "stop": 4580
+                    },
+                    {
+                      "id": "0b78a85a-4efe-5141-83b9-fee539178544",
+                      "title": "Strict Inequality Operator",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 4580,
+                      "stop": 4625
+                    },
+                    {
+                      "id": "3934b2ed-a9d2-564e-b783-5ba41b746240",
+                      "title": "Greater Than Operator",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 4625,
+                      "stop": 4659
+                    },
+                    {
+                      "id": "d5422e96-7987-5217-a67d-68a0e04ed1a1",
+                      "title": "Greater Than Or Equal To Operator",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 4659,
+                      "stop": 4689
+                    },
+                    {
+                      "id": "67447b5b-058e-516c-b3c9-2c533e3a7f71",
+                      "title": "Less Than Operator",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 4689,
+                      "stop": 4724
+                    },
+                    {
+                      "id": "85319335-4808-50e0-a096-4338eeb9e0f5",
+                      "title": "Less Than Or Equal To Operator",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 4724,
+                      "stop": 4757
+                    },
+                    {
+                      "id": "233953c5-d211-5052-a71f-b062ca62f14d",
+                      "title": "And Operator",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 4757,
+                      "stop": 4841
+                    },
+                    {
+                      "id": "17b4416b-4f23-5d53-9fba-7a93f742d3fb",
+                      "title": "Or Operator",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 4841,
+                      "stop": 4897
+                    }
+                  ]
+                },
+                {
+                  "title": "Statements",
+                  "children": [
+                    {
+                      "id": "7eb1ee86-39fd-5784-8241-6fb7626140f1",
+                      "title": "If Statements",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 4164,
+                      "stop": 4311
+                    },
+                    {
+                      "id": "910c63bf-fca2-5c71-95cf-8a28ec82a612",
+                      "title": "Else Statements",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 4897,
+                      "stop": 4947
+                    },
+                    {
+                      "id": "1d338808-f54a-5dac-83eb-2e3620e30de1",
+                      "title": "Else If Statements",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 4947,
+                      "stop": 5010
+                    },
+                    {
+                      "id": "bff805f2-26a1-50ea-afb4-95a83c8cde80",
+                      "title": "Logical Order in If Else Statements",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 5010,
+                      "stop": 5085
+                    },
+                    {
+                      "id": "56cc8a3c-099a-571a-8813-f107934c3c40",
+                      "title": "Chaining If Else Statements",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 5085,
+                      "stop": 5265
+                    },
+                    {
+                      "id": "635f8df5-e140-5050-b527-70bcbb157fa1",
+                      "title": "Golf Code",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 5265,
+                      "stop": 5535
+                    },
+                    {
+                      "id": "c840edb7-f4e8-52bb-87f1-d8e2b94b95ca",
+                      "title": "Switch Statements",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 5535,
+                      "stop": 5746
+                    },
+                    {
+                      "id": "a1a9bcbd-2bff-5751-914d-17f2aad89c09",
+                      "title": "Default Option in Switch Statements",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 5746,
+                      "stop": 5843
+                    },
+                    {
+                      "id": "b684fae9-39d0-597c-a9a8-2c542a3a228f",
+                      "title": "Identical Options in Switch Statements",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 5843,
+                      "stop": 5960
+                    },
+                    {
+                      "id": "fe7ec3d9-e17f-5f82-8dec-a03ffc69a654",
+                      "title": "Replacing If Else Chains with Switch",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 5960,
+                      "stop": 6071
+                    }
+                  ]
+                },
+                {
+                  "title": "Objects",
+                  "children": [
+                    {
+                      "id": "9eab15b8-b4a7-5709-93bc-846017e2e46a",
+                      "title": "Build Objects",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 6551,
+                      "stop": 6646
+                    },
+                    {
+                      "id": "eaaa37d7-8336-5a69-bb08-491e10e8516e",
+                      "title": "Accessing Object Properties with Dot Notation",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 6646,
+                      "stop": 6693
+                    },
+                    {
+                      "id": "b29631e0-341f-5c82-b3ca-d29dcbb35123",
+                      "title": "Accessing Object Properties with Bracket Notation",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 6693,
+                      "stop": 6767
+                    },
+                    {
+                      "id": "aa9bce9d-ac4d-5ad3-a7a9-d18c52d4a66d",
+                      "title": "Accessing Object Properties with Variables",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 6767,
+                      "stop": 6814
+                    },
+                    {
+                      "id": "dd74b615-8c20-5469-b534-ea2603a82e4c",
+                      "title": "Updating Object Properties",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 6814,
+                      "stop": 6870
+                    },
+                    {
+                      "id": "598078e9-81d5-5b36-8240-6a86488ef341",
+                      "title": "Add New Properties to Object",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 6870,
+                      "stop": 6919
+                    },
+                    {
+                      "id": "1f920c85-0815-5121-8392-b6c555289028",
+                      "title": "Delete Properties from Object",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 6919,
+                      "stop": 6954
+                    },
+                    {
+                      "id": "840c5398-5ac3-5730-9a7c-21c108c0d745",
+                      "title": "Objects for Lookups",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 6954,
+                      "stop": 7063
+                    },
+                    {
+                      "id": "75ecfefc-e945-59e7-b353-eae2732554b6",
+                      "title": "Testing Objects for Properties",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 7063,
+                      "stop": 7155
+                    },
+                    {
+                      "id": "d47615c7-7830-54f0-b535-9ade6f392d85",
+                      "title": "Manipulating Complex Objects",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 7155,
+                      "stop": 7260
+                    },
+                    {
+                      "id": "77d1226c-8b98-5653-bd25-c626205dc3ef",
+                      "title": "Nested Objects",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 7260,
+                      "stop": 7313
+                    },
+                    {
+                      "id": "e50cf0a8-4421-5866-8236-919a44c5614f",
+                      "title": "Nested Arrays",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 7313,
+                      "stop": 7386
+                    },
+                    {
+                      "id": "f40637e8-23ae-5df9-a3a6-1caa2ed54fdd",
+                      "title": "Record Collection",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 7386,
+                      "stop": 7815
+                    },
+                    {
+                      "id": "ff09e48f-30ff-587a-a8e0-d2a9bf82416c",
+                      "title": "Prevent Object Mutation",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 9892,
+                      "stop": 10037
+                    },
+                    {
+                      "id": "5f9233a7-ba73-54cb-ba58-a2c26d586fc6",
+                      "title": "Simple Fields",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 11443,
+                      "stop": 11544
+                    },
+                    {
+                      "id": "9d15cd0d-d991-5866-ba67-5f2f2350b023",
+                      "title": "Declarative Functions",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 11544,
+                      "stop": 11576
+                    }
+                  ]
+                },
+                {
+                  "title": "Class",
+                  "children": [
+                    {
+                      "id": "62564dc0-2307-52e6-9c14-e4273ddd80c4",
+                      "title": "Use class Syntax to Define a Constructor Function",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 11576,
+                      "stop": 11711
+                    },
+                    {
+                      "id": "5a1e8058-2869-57f0-bcc9-cd46fb1dbe9d",
+                      "title": "getters and setters",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 11711,
+                      "stop": 12025
+                    }
+                  ]
+                },
+                {
+                  "title": "Loops",
+                  "children": [
+                    {
+                      "id": "6622896d-e2ca-5211-8b87-67719dbaa0b1",
+                      "title": "While Loops",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 7815,
+                      "stop": 7895
+                    },
+                    {
+                      "id": "3a68a246-78b5-5242-8e59-9de60aafa704",
+                      "title": "For Loops",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 7895,
+                      "stop": 8036
+                    },
+                    {
+                      "id": "d688fd72-b884-59d1-b2b4-05452c7c4390",
+                      "title": "Odd Numbers With a For Loop",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 8036,
+                      "stop": 8128
+                    },
+                    {
+                      "id": "3657e825-5d32-5e35-acea-0d785fd613c4",
+                      "title": "Count Backwards With a For Loop",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 8128,
+                      "stop": 8228
+                    },
+                    {
+                      "id": "35121ff8-0425-50dd-8315-02922cf6df46",
+                      "title": "Iterate Through an Array with a For Loop",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 8228,
+                      "stop": 8383
+                    },
+                    {
+                      "id": "747faf17-1696-5d22-bd84-0d3c0cd7754c",
+                      "title": "Nesting For Loops",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 8383,
+                      "stop": 8565
+                    },
+                    {
+                      "id": "e80b3677-95a9-5685-bb50-d951acc9f8bf",
+                      "title": "Do...While Loops",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 8565,
+                      "stop": 8652
+                    },
+                    {
+                      "id": "35763b40-5327-54da-ac37-9c36d05648ca",
+                      "title": "Profile Lookup",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 8652,
+                      "stop": 8898
+                    }
+                  ]
+                },
+                {
+                  "title": "Random",
+                  "children": [
+                    {
+                      "id": "2e502281-e2c1-56be-83d9-2cda6a2b924a",
+                      "title": "Random Fractions",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 8898,
+                      "stop": 8934
+                    },
+                    {
+                      "id": "3f55d7c5-0484-5615-869a-1f11c655e59c",
+                      "title": "Random Whole Numbers",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 8934,
+                      "stop": 9021
+                    },
+                    {
+                      "id": "311e478c-e065-543a-8813-17468f069fd5",
+                      "title": "Random Whole Numbers within a Range",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 9021,
+                      "stop": 9106
+                    }
+                  ]
+                },
+                {
+                  "title": "parseInt",
+                  "children": [
+                    {
+                      "id": "203b12a0-724b-534e-9598-0f644cef1d40",
+                      "title": "parseInt Function",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 9106,
+                      "stop": 9156
+                    },
+                    {
+                      "id": "87f45c3d-0a3c-519a-a1b3-f8ba33ed2e85",
+                      "title": "parseInt Function with a Radix",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 9156,
+                      "stop": 9209
+                    }
+                  ]
+                },
+                {
+                  "title": "Ternary Operator",
+                  "children": [
+                    {
+                      "id": "ae0c5cd3-fcc9-5bb5-8752-4dda68316728",
+                      "title": "Ternary Operator",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 9209,
+                      "stop": 9297
+                    },
+                    {
+                      "id": "96876eec-fd12-5dad-a509-384b11a53a67",
+                      "title": "Multiple Ternary Operators",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 9297,
+                      "stop": 9417
+                    }
+                  ]
+                },
+                {
+                  "title": "var vs let",
+                  "children": [
+                    {
+                      "id": "fdbd0af3-5436-50ed-b485-670036bcd41b",
+                      "title": "var vs let",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 9417,
+                      "stop": 9542
+                    },
+                    {
+                      "id": "710542fd-5415-59a4-80b0-e4d6868af0dd",
+                      "title": "var vs let scopes",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 9542,
+                      "stop": 9692
+                    }
+                  ]
+                },
+                {
+                  "title": "const",
+                  "children": [
+                    {
+                      "id": "2386e5e7-ec10-57d3-b82e-e10a6066a6eb",
+                      "title": "const Keyword",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 9692,
+                      "stop": 9820
+                    },
+                    {
+                      "id": "1775ea28-f843-5b1d-867e-2f035b8f0de5",
+                      "title": "Mutate an Array Declared with const",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 9820,
+                      "stop": 9892
+                    }
+                  ]
+                },
+                {
+                  "title": "Arrow Functions",
+                  "children": [
+                    {
+                      "id": "50b0506b-803e-55bc-a9a3-4ebcfe0a24b5",
+                      "title": "Arrow Functions",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 10037,
+                      "stop": 10103
+                    },
+                    {
+                      "id": "3c73781f-871c-59ef-923a-7b0cc8972149",
+                      "title": "Arrow Functions with Parameters",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 10103,
+                      "stop": 10167
+                    }
+                  ]
+                },
+                {
+                  "title": "Higher Order",
+                  "children": [
+                    {
+                      "id": "e98be72c-a52a-505e-9625-f0d1b3815c11",
+                      "title": "Higher Order Arrow Functions",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 10167,
+                      "stop": 10384
+                    },
+                    {
+                      "id": "1766c92b-1340-5b1b-b99c-22e42b373ab0",
+                      "title": "Higher Order Default Parameters",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 10384,
+                      "stop": 10440
+                    }
+                  ]
+                },
+                {
+                  "title": "Rest/Spread Operators",
+                  "children": [
+                    {
+                      "id": "00fbdc96-a9b9-59c6-baaf-017c7b811b00",
+                      "title": "Rest Operator",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 10440,
+                      "stop": 10531
+                    },
+                    {
+                      "id": "3d4e49b0-5258-59ee-ac2a-5ed1409c3434",
+                      "title": "Spread Operator",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 10531,
+                      "stop": 10638
+                    }
+                  ]
+                },
+                {
+                  "title": "Destructuring Assignment",
+                  "children": [
+                    {
+                      "id": "e808ce0a-b26b-5afd-a403-af2b5f672560",
+                      "title": "Destructuring Assignment: Objects",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 10638,
+                      "stop": 10818
+                    },
+                    {
+                      "id": "6f00e0cd-f482-5ef1-9f7e-279041de6dea",
+                      "title": "Destructuring Assignment: Nested Objects",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 10818,
+                      "stop": 10915
+                    },
+                    {
+                      "id": "7ced16c1-631e-56e3-adc8-25f33daa54fa",
+                      "title": "Destructuring Assignment: Arrays",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 10915,
+                      "stop": 11020
+                    },
+                    {
+                      "id": "15c64307-3503-53f0-ba92-6a2a84febd56",
+                      "title": "Destructuring Assignment with Rest Operator to Reassign Array",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 11020,
+                      "stop": 11105
+                    },
+                    {
+                      "id": "f0b1e6f5-1232-56b0-bfac-b8cdd2857ec1",
+                      "title": "Destructuring Assignment to Pass an Object",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 11105,
+                      "stop": 11199
+                    }
+                  ]
+                },
+                {
+                  "title": "import / export",
+                  "children": [
+                    {
+                      "id": "ac723e17-d050-59ce-8f5e-56f8533dca6b",
+                      "title": "import vs require",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 12025,
+                      "stop": 12153
+                    },
+                    {
+                      "id": "e058b496-5e92-5128-818f-33e34c090ffc",
+                      "title": "export",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 12153,
+                      "stop": 12220
+                    },
+                    {
+                      "id": "751430be-a504-595f-8ffa-1cc5883cd0ac",
+                      "title": "* to Import",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 12220,
+                      "stop": 12290
+                    },
+                    {
+                      "id": "469074d5-1e93-5cdd-b4dc-2f7094a126c6",
+                      "title": "export default",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 12290,
+                      "stop": 12326
+                    },
+                    {
+                      "id": "45d1ff1c-3d0f-5aa5-aa88-37c1081c1c0e",
+                      "title": "Import a Default Export",
+                      "youtubeId": "PkZNo7MFNFg",
+                      "start": 12326,
+                      "stop": 12376
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

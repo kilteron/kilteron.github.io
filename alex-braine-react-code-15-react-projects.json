@@ -1,0 +1,750 @@
+{
+  "id": "54e5e48d-dc35-5913-a373-ec3479ab9c06",
+  "url": "/alex-braine/react/code-15-react-projects",
+  "title": "Code 15 React Projects",
+  "description": "Building 15 projects using React.",
+  "cards": 91,
+  "createdAt": 1603805656,
+  "author": "freeCodeCamp.org",
+  "youtubeId": "a_7Z7C_JCyo",
+  "source": "https://www.youtube.com/watch?v=a_7Z7C_JCyo",
+  "children": [
+    {
+      "title": "React",
+      "children": [
+        {
+          "title": "Tutorial",
+          "children": [
+            {
+              "title": "Code 15 Projects",
+              "children": [
+                {
+                  "title": "Introduction",
+                  "children": [
+                    {
+                      "id": "28f7ce30-118f-58c5-9df1-1af62197aa42",
+                      "title": "Intro",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 1,
+                      "stop": 214
+                    },
+                    {
+                      "id": "ed76ff32-be4d-58a3-9814-ca932323ffb0",
+                      "title": "Starter Project Setup",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 214,
+                      "stop": 438
+                    }
+                  ]
+                },
+                {
+                  "title": "Birthday",
+                  "children": [
+                    {
+                      "id": "a0d715d6-48a4-5f0d-80c5-aa7f02fda6bf",
+                      "title": "Intro",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 438,
+                      "stop": 474
+                    },
+                    {
+                      "id": "5b53caeb-25ae-54d0-991b-97b495658de8",
+                      "title": "Setup",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 474,
+                      "stop": 811
+                    },
+                    {
+                      "id": "7de98e0e-a60c-5d77-b4a8-b1fa25aa56b7",
+                      "title": "Complete",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 811,
+                      "stop": 1181
+                    }
+                  ]
+                },
+                {
+                  "title": "Tours",
+                  "children": [
+                    {
+                      "id": "6ef6ca52-bacd-5fad-a43c-4abe0f3f9bd2",
+                      "title": "Intro",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 1181,
+                      "stop": 1241
+                    },
+                    {
+                      "id": "611078cd-9b6f-56d9-83db-bb2f68bb993a",
+                      "title": "Fetch Data",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 1241,
+                      "stop": 1924
+                    },
+                    {
+                      "id": "17032092-2514-553f-ac19-ca3c4bb00415",
+                      "title": "Display Data",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 1924,
+                      "stop": 2260
+                    },
+                    {
+                      "id": "3f8ea8c5-0257-58f4-99db-079b3db7e08c",
+                      "title": "Toggle Button",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 2260,
+                      "stop": 2597
+                    },
+                    {
+                      "id": "b496f673-59d0-5e78-a985-0e37ffe7a08c",
+                      "title": "Remove Tour",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 2597,
+                      "stop": 3013
+                    }
+                  ]
+                },
+                {
+                  "title": "Reviews",
+                  "children": [
+                    {
+                      "id": "ffc356f8-5473-5280-a1a6-ebd354f24cb5",
+                      "title": "Intro",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 3013,
+                      "stop": 3036
+                    },
+                    {
+                      "id": "07ffb788-f784-56b8-9b50-5b17125ac2d1",
+                      "title": "Info And React Icons",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 3036,
+                      "stop": 3406
+                    },
+                    {
+                      "id": "5a47a43e-097d-5c71-b4b2-987eba494d33",
+                      "title": "Setup",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 3406,
+                      "stop": 3939
+                    },
+                    {
+                      "id": "a7d07b23-4bb2-52f8-b2b9-46251742bfcb",
+                      "title": "Prev And Next Person",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 3939,
+                      "stop": 4334
+                    },
+                    {
+                      "id": "d479eee5-d74d-5a28-8515-6b9335bedc7d",
+                      "title": "Random Person",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 4334,
+                      "stop": 4642
+                    }
+                  ]
+                },
+                {
+                  "title": "Accordion",
+                  "children": [
+                    {
+                      "id": "9e59c9a0-164e-59ae-942e-8a1c8f8e084d",
+                      "title": "Intro",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 4642,
+                      "stop": 4656
+                    },
+                    {
+                      "id": "77399166-c47a-5963-8775-6f293d8054d1",
+                      "title": "Complete",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 4656,
+                      "stop": 5247
+                    }
+                  ]
+                },
+                {
+                  "title": "Menu",
+                  "children": [
+                    {
+                      "id": "a49f7f8e-8eee-59c7-a68a-7ee722a19663",
+                      "title": "Intro",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 5247,
+                      "stop": 5296
+                    },
+                    {
+                      "id": "8b85a01f-3224-5afb-a40c-34c63507bc02",
+                      "title": "Display Items",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 5296,
+                      "stop": 5768
+                    },
+                    {
+                      "id": "537eee59-0f8a-552e-9b5a-d2461826e33e",
+                      "title": "Manual Approach",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 5768,
+                      "stop": 6059
+                    },
+                    {
+                      "id": "c98d06b2-2027-527e-93e8-8b9a13e1055f",
+                      "title": "All Button",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 6059,
+                      "stop": 6214
+                    },
+                    {
+                      "id": "46b690b3-c72f-5707-8093-d67d3cbed86b",
+                      "title": "Dynamic Approach",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 6214,
+                      "stop": 6726
+                    }
+                  ]
+                },
+                {
+                  "title": "Tabs",
+                  "children": [
+                    {
+                      "id": "46e4eff6-1a5f-54ef-80e7-c534ac8fff1c",
+                      "title": "Intro",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 6726,
+                      "stop": 6772
+                    },
+                    {
+                      "id": "694cac62-cddb-593d-9014-a0b8e53984a5",
+                      "title": "Setup",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 6772,
+                      "stop": 7209
+                    },
+                    {
+                      "id": "14b0ecd9-2d6c-5508-923b-6b309f6f43d2",
+                      "title": "Display First Job",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 7209,
+                      "stop": 7602
+                    },
+                    {
+                      "id": "2207a9fb-b5db-5c75-8411-6b0ac03c3bef",
+                      "title": "Buttons",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 7602,
+                      "stop": 8020
+                    }
+                  ]
+                },
+                {
+                  "title": "Slider",
+                  "children": [
+                    {
+                      "id": "3afc867f-e4db-52b2-b412-95e64770ff5e",
+                      "title": "Intro",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 8020,
+                      "stop": 8047
+                    },
+                    {
+                      "id": "5b6ecb98-58ff-53a3-b156-a3f7cf5e3c28",
+                      "title": "Setup",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 8047,
+                      "stop": 8699
+                    },
+                    {
+                      "id": "fa15e898-7f98-5907-9edb-a908c9716926",
+                      "title": "Manual Setup",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 8699,
+                      "stop": 9164
+                    },
+                    {
+                      "id": "f030272d-f222-5313-892c-5670f7162ede",
+                      "title": "Setup Classes",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 9164,
+                      "stop": 9612
+                    },
+                    {
+                      "id": "218df426-f59b-5bb3-bb9e-09e07e6baba8",
+                      "title": "Prev And Next",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 9612,
+                      "stop": 9812
+                    },
+                    {
+                      "id": "8f04e402-887f-53a2-997d-1123f840a5ab",
+                      "title": "First And Last, Autoslide",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 9812,
+                      "stop": 10253
+                    }
+                  ]
+                },
+                {
+                  "title": "Lorem-Ipsum",
+                  "children": [
+                    {
+                      "id": "45adb841-c516-5144-84b9-de31166266c0",
+                      "title": "Intro",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 10253,
+                      "stop": 10344
+                    },
+                    {
+                      "id": "46b3a659-fd62-5cd9-a24b-49a78c0e2249",
+                      "title": "Structure",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 10344,
+                      "stop": 10832
+                    },
+                    {
+                      "id": "63848054-ed1e-542a-b9db-5da4d0ea3c83",
+                      "title": "Complete",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 10832,
+                      "stop": 11329
+                    }
+                  ]
+                },
+                {
+                  "title": "Color-Generator",
+                  "children": [
+                    {
+                      "id": "4d8f5392-eba2-5757-9d5d-4b9f32ddc6f7",
+                      "title": "Intro",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 11329,
+                      "stop": 11433
+                    },
+                    {
+                      "id": "1933bacf-5b74-5b49-af5c-37238cb66117",
+                      "title": "Structure",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 11433,
+                      "stop": 11951
+                    },
+                    {
+                      "id": "b10192ba-44e3-56ca-9b6f-fff464f72f0f",
+                      "title": "Get Values, Error",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 11951,
+                      "stop": 12365
+                    },
+                    {
+                      "id": "7b955a86-ef8c-5c56-b017-5b5e0fbf2d7c",
+                      "title": "Single Color",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 12365,
+                      "stop": 13354
+                    },
+                    {
+                      "id": "03521405-0fef-5f41-befc-b06b98be0a60",
+                      "title": "Copy To Clipboard",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 13354,
+                      "stop": 13899
+                    }
+                  ]
+                },
+                {
+                  "title": "Grocery-Bud",
+                  "children": [
+                    {
+                      "id": "b547a6a7-7ce9-583d-9a34-84fd3224a731",
+                      "title": "Intro",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 13899,
+                      "stop": 13990
+                    },
+                    {
+                      "id": "b3de552d-8ce8-5dab-baca-344c402a7a76",
+                      "title": "Structure",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 13990,
+                      "stop": 14626
+                    },
+                    {
+                      "id": "2bac6a07-ecf5-598b-96d4-02900bb1fc19",
+                      "title": "Add Items",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 14626,
+                      "stop": 15201
+                    },
+                    {
+                      "id": "16ec4167-4d61-5667-b760-ba0d0f4db246",
+                      "title": "Alert",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 15201,
+                      "stop": 15786
+                    },
+                    {
+                      "id": "2c10ecab-2862-54ad-8ea7-d253080c5c2a",
+                      "title": "Clear List",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 15786,
+                      "stop": 15918
+                    },
+                    {
+                      "id": "63191a03-be92-5d80-b4af-21a0b005d66a",
+                      "title": "Remove Item",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 15918,
+                      "stop": 16198
+                    },
+                    {
+                      "id": "45f6da0d-2178-5cae-8c1a-f7b13f32fea7",
+                      "title": "Edit Item",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 16198,
+                      "stop": 16632
+                    },
+                    {
+                      "id": "b254da3d-e231-51e1-be1c-f348da95ad51",
+                      "title": "Local Storage",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 16632,
+                      "stop": 16887
+                    }
+                  ]
+                },
+                {
+                  "title": "Navbar",
+                  "children": [
+                    {
+                      "id": "5cfe0216-0f63-5b9a-b720-3a4806c8647e",
+                      "title": "Intro",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 16887,
+                      "stop": 16927
+                    },
+                    {
+                      "id": "7c597e77-bcc5-568b-a4a0-0ae587f5544c",
+                      "title": "Structure",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 16927,
+                      "stop": 17459
+                    },
+                    {
+                      "id": "dcaeb757-0782-57b4-b29a-0a0bb2841e3c",
+                      "title": "Links Data",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 17459,
+                      "stop": 18014
+                    },
+                    {
+                      "id": "02553d46-773c-5684-a6f7-35f15df20d95",
+                      "title": "Simple Toggle",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 18014,
+                      "stop": 18190
+                    },
+                    {
+                      "id": "28fd73a2-ddc3-50d2-891b-cd28f08594ea",
+                      "title": "Class Toggle",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 18190,
+                      "stop": 18440
+                    },
+                    {
+                      "id": "5c38c3d0-ea48-5af7-af07-bc6071faee03",
+                      "title": "UseRef Approach",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 18440,
+                      "stop": 18982
+                    }
+                  ]
+                },
+                {
+                  "title": "Sidebar",
+                  "children": [
+                    {
+                      "id": "d357efae-8836-590a-918c-f30a42afa853",
+                      "title": "Intro",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 18982,
+                      "stop": 19033
+                    },
+                    {
+                      "id": "35bf0bbf-b255-5905-9389-77844d9885b3",
+                      "title": "Structure",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 19033,
+                      "stop": 19575
+                    },
+                    {
+                      "id": "8de4445c-854b-51ff-b8d7-c5ac989def79",
+                      "title": "Global Context",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 19575,
+                      "stop": 20199
+                    },
+                    {
+                      "id": "a13a5b17-711d-5e01-83fc-35bb746289f6",
+                      "title": "Complete",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 20199,
+                      "stop": 20686
+                    }
+                  ]
+                },
+                {
+                  "title": "Stripe",
+                  "children": [
+                    {
+                      "id": "c02385e3-09fe-5df7-a91e-58991b0e1a85",
+                      "title": "Intro",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 20686,
+                      "stop": 20826
+                    },
+                    {
+                      "id": "d27344e4-80cc-513e-a057-c35bf78419dd",
+                      "title": "Context Boilerplate",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 20826,
+                      "stop": 21391
+                    },
+                    {
+                      "id": "cbbf16fa-20ff-57da-bf62-1a6636cc3876",
+                      "title": "Navbar",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 21391,
+                      "stop": 21811
+                    },
+                    {
+                      "id": "25510ced-e86b-574b-8b63-e3682b4873de",
+                      "title": "Hero",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 21811,
+                      "stop": 21978
+                    },
+                    {
+                      "id": "8e4eeb0a-b471-5a13-8dd5-f3d70d9f0626",
+                      "title": "Sidebar",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 21978,
+                      "stop": 22428
+                    },
+                    {
+                      "id": "98471dfa-1292-5d2f-a146-91182bbbe6c5",
+                      "title": "Submenu",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 22428,
+                      "stop": 22696
+                    },
+                    {
+                      "id": "b405df7b-f940-5efc-bf14-e2d43d33f548",
+                      "title": "Location",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 22696,
+                      "stop": 23282
+                    },
+                    {
+                      "id": "2c9b6267-6daf-5d3b-80ff-57ec53f47dd3",
+                      "title": "Submenu Links",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 23282,
+                      "stop": 23854
+                    },
+                    {
+                      "id": "c2e14438-d7a6-5968-a67b-ace573a776ba",
+                      "title": "Hide Submenu",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 23854,
+                      "stop": 24115
+                    }
+                  ]
+                },
+                {
+                  "title": "Cart",
+                  "children": [
+                    {
+                      "id": "1bac19e4-1ad2-5980-9630-061d5c8ef9fa",
+                      "title": "Intro",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 24115,
+                      "stop": 24164
+                    },
+                    {
+                      "id": "8b62d7d0-1610-5c59-95fb-7dcf94d310e6",
+                      "title": "Setup Overview",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 24164,
+                      "stop": 24625
+                    },
+                    {
+                      "id": "c15b8418-f784-5b32-87e9-cc1c50698327",
+                      "title": "UseReducer Setup",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 24625,
+                      "stop": 25036
+                    },
+                    {
+                      "id": "a7fbc270-3671-51cc-9b62-b0a95e6e8a56",
+                      "title": "Clear Cart",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 25036,
+                      "stop": 25326
+                    },
+                    {
+                      "id": "561c96a1-aeb8-53ae-b807-7d0f65797a08",
+                      "title": "Remove Item",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 25326,
+                      "stop": 25595
+                    },
+                    {
+                      "id": "72c71796-c6bc-5982-9d05-7d6ef486f8fa",
+                      "title": "Increase",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 25595,
+                      "stop": 25900
+                    },
+                    {
+                      "id": "37573d92-bd78-570d-b2a5-467395016375",
+                      "title": "Decrease",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 25900,
+                      "stop": 26141
+                    },
+                    {
+                      "id": "28741414-7fcd-5c56-bd50-27669b1f666f",
+                      "title": "Get Totals",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 26141,
+                      "stop": 26843
+                    },
+                    {
+                      "id": "1d608364-34c9-5ee8-9c99-65fa6b39ea04",
+                      "title": "Fetch Data",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 26843,
+                      "stop": 27151
+                    },
+                    {
+                      "id": "a7162397-adad-5848-aa77-38c9541926d6",
+                      "title": "Toggle Functionality",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 27151,
+                      "stop": 27597
+                    }
+                  ]
+                },
+                {
+                  "title": "Cocktails",
+                  "children": [
+                    {
+                      "id": "da5e6b27-1b31-5ff8-8be5-8f6beca1e2f0",
+                      "title": "Intro",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 27597,
+                      "stop": 27673
+                    },
+                    {
+                      "id": "7cddca8c-f8af-5a17-9615-f0cadfa8a00e",
+                      "title": "Additional Info",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 27673,
+                      "stop": 27711
+                    },
+                    {
+                      "id": "faa2c3f7-9c85-50e3-8b98-dbc4fbb4b393",
+                      "title": "Setup Overview",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 27711,
+                      "stop": 27889
+                    },
+                    {
+                      "id": "52dcf615-1afa-56be-842f-001c48b8aa21",
+                      "title": "Router Setup",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 27889,
+                      "stop": 28215
+                    },
+                    {
+                      "id": "63b78451-7eed-539d-afbb-4a257d542435",
+                      "title": "Navbar",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 28215,
+                      "stop": 28400
+                    },
+                    {
+                      "id": "8ba7742f-394c-57bf-a57c-2c6b3b52c9ec",
+                      "title": "Error About",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 28400,
+                      "stop": 28588
+                    },
+                    {
+                      "id": "eb42b0a7-92a8-59c9-8679-7ee761c91ba0",
+                      "title": "Context Setup",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 28588,
+                      "stop": 29214
+                    },
+                    {
+                      "id": "0b9d89d3-3737-5d1a-a21c-c4bc8e847644",
+                      "title": "API Overview",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 29214,
+                      "stop": 29429
+                    },
+                    {
+                      "id": "dde925dd-9a36-562e-8e24-0e761fadc126",
+                      "title": "Fetch Drinks",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 29429,
+                      "stop": 30051
+                    },
+                    {
+                      "id": "1f72c297-e2ea-580f-a866-5b26bc148c33",
+                      "title": "Display List",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 30051,
+                      "stop": 30377
+                    },
+                    {
+                      "id": "d75eb328-6720-584a-8a74-765c6a5201e8",
+                      "title": "Search Form",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 30377,
+                      "stop": 30769
+                    },
+                    {
+                      "id": "7f2c5c3b-3ee4-500d-9af6-d73d54602435",
+                      "title": "Single Cocktail Page",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 30769,
+                      "stop": 32003
+                    }
+                  ]
+                },
+                {
+                  "title": "Hosting",
+                  "children": [
+                    {
+                      "id": "7008ad82-5d46-5b71-82e6-6345b0888923",
+                      "title": "Drag And Drop",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 32003,
+                      "stop": 32325
+                    },
+                    {
+                      "id": "134f6842-ba00-5dd4-89a5-d8e8a87ca643",
+                      "title": "Continuous Deployment",
+                      "youtubeId": "a_7Z7C_JCyo",
+                      "start": 32325,
+                      "stop": 32867
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "2e0382b7-e3f6-5688-85da-ab9ab6d0241d",
+  "url": "/alex-braine/javascript/javascript-in-1-hour",
+  "title": "JS in 1 hour",
+  "cards": 13,
+  "createdAt": 1524537453,
+  "author": "Programming with Mosh",
+  "source": "https://www.youtube.com/watch?v=W6NZfCO5SIk",
+  "youtubeId": "W6NZfCO5SIk",
+  "children": [
+    {
+      "title": "JavaScript",
+      "children": [
+        {
+          "title": "Tutorial",
+          "children": [
+            {
+              "title": "JS in 1 hour",
+              "children": [
+                {
+                  "id": "96396ecf-fbe3-5391-89f1-6df03e744397",
+                  "title": "What is JavaScript",
+                  "youtubeId": "W6NZfCO5SIk",
+                  "start": 0,
+                  "stop": 281
+                },
+                {
+                  "id": "171e884a-0cd9-5beb-9a25-80a87a31cab4",
+                  "title": "Setting Up the Development Environment",
+                  "youtubeId": "W6NZfCO5SIk",
+                  "start": 281,
+                  "stop": 472
+                },
+                {
+                  "id": "c4b6d741-981d-592c-8eb3-439da1d6901e",
+                  "title": "JavaScript in Browsers",
+                  "youtubeId": "W6NZfCO5SIk",
+                  "start": 472,
+                  "stop": 701
+                },
+                {
+                  "id": "c48dd612-ef89-5561-8a23-66378831a733",
+                  "title": "Separation of Concerns",
+                  "youtubeId": "W6NZfCO5SIk",
+                  "start": 701,
+                  "stop": 827
+                },
+                {
+                  "id": "fac323e7-25fd-5bbe-99bc-7caaac91561e",
+                  "title": "JavaScript in Node",
+                  "youtubeId": "W6NZfCO5SIk",
+                  "start": 827,
+                  "stop": 971
+                },
+                {
+                  "id": "f3af0d3b-5c21-5fb0-9eb7-f43726e2cc22",
+                  "title": "Variables",
+                  "youtubeId": "W6NZfCO5SIk",
+                  "start": 971,
+                  "stop": 1309
+                },
+                {
+                  "id": "6aff9b69-1d45-5dca-ac29-af6a1dd76b24",
+                  "title": "Constants",
+                  "youtubeId": "W6NZfCO5SIk",
+                  "start": 1309,
+                  "stop": 1415
+                },
+                {
+                  "id": "606a2a38-59c2-5a6d-835e-869dfc0fafd9",
+                  "title": "Primitive Types",
+                  "youtubeId": "W6NZfCO5SIk",
+                  "start": 1415,
+                  "stop": 1607
+                },
+                {
+                  "id": "97fe1afd-52a5-5859-b4da-a202d40f86d5",
+                  "title": "Dynamic Typing",
+                  "youtubeId": "W6NZfCO5SIk",
+                  "start": 1607,
+                  "stop": 1806
+                },
+                {
+                  "id": "d90acd62-d48a-517f-857b-95190aa38f38",
+                  "title": "Objects",
+                  "youtubeId": "W6NZfCO5SIk",
+                  "start": 1806,
+                  "stop": 2122
+                },
+                {
+                  "id": "78dc6711-7475-5623-862c-0456c1557077",
+                  "title": "Arrays",
+                  "youtubeId": "W6NZfCO5SIk",
+                  "start": 2122,
+                  "stop": 2381
+                },
+                {
+                  "id": "97cca471-f363-5eb2-956b-fb5e9286fdbe",
+                  "title": "Functions",
+                  "youtubeId": "W6NZfCO5SIk",
+                  "start": 2381,
+                  "stop": 2662
+                },
+                {
+                  "id": "59a53e94-c862-5ccb-bb77-9c0522427385",
+                  "title": "Types of Functions",
+                  "youtubeId": "W6NZfCO5SIk",
+                  "start": 2662,
+                  "stop": 2896
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

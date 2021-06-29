@@ -1,0 +1,546 @@
+{
+  "id": "8d8fe22c-1ca3-5109-8916-82ddba649379",
+  "url": "/alex-braine/css/zero-to-hero",
+  "title": "Zero to Hero",
+  "cards": 68,
+  "createdAt": 1571239016,
+  "author": "freeCodeCamp.org",
+  "source": "https://www.youtube.com/watch?v=1Rs2ND1ryYc",
+  "youtubeId": "1Rs2ND1ryYc",
+  "children": [
+    {
+      "title": "CSS",
+      "children": [
+        {
+          "title": "Tutorial",
+          "children": [
+            {
+              "title": "Zero to Hero",
+              "children": [
+                {
+                  "title": "Introduction",
+                  "children": [
+                    {
+                      "id": "9f8eba19-96fd-5362-b3b7-1deba5e72fc4",
+                      "title": "Course introduction",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 158,
+                      "stop": 675
+                    },
+                    {
+                      "id": "3d337f1c-8842-5c18-a98c-616ce628cd1c",
+                      "title": "Downloading necessary software",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 680,
+                      "stop": 870
+                    }
+                  ]
+                },
+                {
+                  "title": "CSS introduction",
+                  "children": [
+                    {
+                      "id": "7094c793-084a-5380-8142-5dc656ad4b43",
+                      "title": "Introduction",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 870,
+                      "stop": 913
+                    },
+                    {
+                      "id": "d2c8c516-c731-5d17-be0d-497d7843c8cd",
+                      "title": "What is CSS",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 913,
+                      "stop": 958
+                    },
+                    {
+                      "id": "e0c2945b-986b-536d-8f06-bb1e046dd1de",
+                      "title": "Why Use CSS",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 958,
+                      "stop": 994
+                    },
+                    {
+                      "id": "a258c4e8-c450-5b86-bbca-e8c7ca421abc",
+                      "title": "How is CSS Used",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 994,
+                      "stop": 1030
+                    },
+                    {
+                      "id": "097fc21b-b43b-5f5b-85d1-f2fa1e232ea8",
+                      "title": "Creating and Linking a CSS StyleSheet",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 1030,
+                      "stop": 1240
+                    },
+                    {
+                      "id": "86949f9b-7191-57a9-abe5-7321623d47ff",
+                      "title": "How To Test A Stylesheet",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 1240,
+                      "stop": 1344
+                    }
+                  ]
+                },
+                {
+                  "title": "Selectors and properties",
+                  "children": [
+                    {
+                      "id": "4b04d39a-d21f-5222-bb24-63251a350a0c",
+                      "title": "What is a selector",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 1351,
+                      "stop": 1398
+                    },
+                    {
+                      "id": "189214d8-d55e-55f0-b4b8-3a5b3cc9dee3",
+                      "title": "Selectors: The Element Selector",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 1398,
+                      "stop": 1440
+                    },
+                    {
+                      "id": "da92fc25-990d-5a13-a5a0-c2944abb5de9",
+                      "title": "Selectors: The Class Selector",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 1440,
+                      "stop": 1500
+                    },
+                    {
+                      "id": "0c727976-871b-5bd5-9436-2153fd8a0011",
+                      "title": "Selectors: The ID Selector",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 1500,
+                      "stop": 1555
+                    },
+                    {
+                      "id": "e9ae1e6d-eb7d-5d00-97a1-dd6ae0eca0de",
+                      "title": "Classes & ID in HTML",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 1555,
+                      "stop": 1914
+                    },
+                    {
+                      "id": "47176253-e930-583b-bd1d-80abcad8f6f4",
+                      "title": "Specificity & When To Use Selectors",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 1914,
+                      "stop": 2355
+                    },
+                    {
+                      "id": "3e2c4af7-eb37-5398-850f-c7820509c0de",
+                      "title": "Psudoselectors",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 2355,
+                      "stop": 2880
+                    },
+                    {
+                      "id": "c56954b9-1f24-5a6e-b7a4-d7dc97e216bd",
+                      "title": "Advance Selectors",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 2880,
+                      "stop": 3573
+                    },
+                    {
+                      "id": "f791ba47-f643-5bc5-81f2-9c6ea206a4bf",
+                      "title": "Attribute Selectors",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 3573,
+                      "stop": 4182
+                    },
+                    {
+                      "id": "cde4456d-f816-5386-91b5-48f4eb6e487a",
+                      "title": "What are Properties",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 4182,
+                      "stop": 4383
+                    },
+                    {
+                      "id": "ed9970aa-042b-5790-a99e-730784522d76",
+                      "title": "The CSS General Rule",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 4383,
+                      "stop": 4661
+                    }
+                  ]
+                },
+                {
+                  "title": "Coloring and formatting",
+                  "children": [
+                    {
+                      "id": "2d348e16-60c3-554e-9694-6e2e49e2c28b",
+                      "title": "Types of Colors",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 4661,
+                      "stop": 5099
+                    },
+                    {
+                      "id": "2400526b-33a8-59cd-8ce4-3d962b1a196f",
+                      "title": "Coloring Text",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 5099,
+                      "stop": 5556
+                    },
+                    {
+                      "id": "480d187d-73cf-5da9-92eb-2b327dfd07f9",
+                      "title": "Background colors",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 5556,
+                      "stop": 5822
+                    },
+                    {
+                      "id": "a859941c-1e32-5458-9954-e1d8d043482c",
+                      "title": "Images/URLs in CSS",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 5822,
+                      "stop": 6156
+                    },
+                    {
+                      "id": "cde53287-7dcf-5e87-8b73-fac2babd50ec",
+                      "title": "Other background Properties",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 6156,
+                      "stop": 6546
+                    },
+                    {
+                      "id": "631807c4-61fd-5a6f-88ab-eb3fd506bea4",
+                      "title": "Opacity / Transparency",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 6546,
+                      "stop": 6743
+                    },
+                    {
+                      "id": "e7bd6b19-ea39-5fc4-9c0e-fc2a39e562c6",
+                      "title": "Gradients",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 6743,
+                      "stop": 7460
+                    }
+                  ]
+                },
+                {
+                  "title": "Fonts and text manipulation",
+                  "children": [
+                    {
+                      "id": "fe1de82a-fe66-5eb9-b89c-d3e8bd325d91",
+                      "title": "introduction to types of units",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 7460,
+                      "stop": 8164
+                    },
+                    {
+                      "id": "ddd96325-9a3f-5978-9046-711ea6d6a8c9",
+                      "title": "Text Manipulation",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 8164,
+                      "stop": 8642
+                    },
+                    {
+                      "id": "4a9e11a3-4e0a-5ffa-ac18-3b2dedf04f46",
+                      "title": "Font Size, Bolding & Style",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 8642,
+                      "stop": 9041
+                    },
+                    {
+                      "id": "3b893945-3c17-5ab9-a45e-d588b391965c",
+                      "title": "Font Families",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 9041,
+                      "stop": 9437
+                    },
+                    {
+                      "id": "808e2ccb-1024-5090-b02a-f063043cbe8d",
+                      "title": "Including external fonts W/Google Fonts",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 9437,
+                      "stop": 9805
+                    },
+                    {
+                      "id": "2b0c13fd-8e1d-5048-88ca-7688c823d7a7",
+                      "title": "Using External Fonts",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 9805,
+                      "stop": 10157
+                    }
+                  ]
+                },
+                {
+                  "title": "Layout",
+                  "children": [
+                    {
+                      "id": "2b2f7e81-08ae-5312-b154-1209dc07d566",
+                      "title": "Introduction",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 10193,
+                      "stop": 10241
+                    },
+                    {
+                      "id": "58ef9086-ac8f-5a4c-9c6c-ac445ee1679e",
+                      "title": "The Box Model",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 10241,
+                      "stop": 10274
+                    },
+                    {
+                      "id": "e4fec4aa-8f79-5fb1-a7b4-9dc9f01760c4",
+                      "title": "Padding",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 10274,
+                      "stop": 10317
+                    },
+                    {
+                      "id": "c38a7b74-df76-533d-ac51-15ea9c8488c5",
+                      "title": "Border",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 10317,
+                      "stop": 10347
+                    },
+                    {
+                      "id": "6c232983-a00f-5415-8c7e-07bc6459abe7",
+                      "title": "Margin",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 10347,
+                      "stop": 10408
+                    },
+                    {
+                      "id": "f69a685f-0dea-58f6-b13e-86b18ace65d4",
+                      "title": "Changing Content Size",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 10408,
+                      "stop": 10757
+                    },
+                    {
+                      "id": "abc66cda-aaa5-53c3-ab92-a485bfd9e382",
+                      "title": "CSS Borders",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 10757,
+                      "stop": 11161
+                    },
+                    {
+                      "id": "e130f4cc-7aab-5cff-877c-91433fc7dad7",
+                      "title": "Margin & Padding",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 11161,
+                      "stop": 11729
+                    },
+                    {
+                      "id": "94f148d5-30ce-541d-ad3e-7986bfb0f010",
+                      "title": "Float & Display Types",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 11729,
+                      "stop": 12479
+                    }
+                  ]
+                },
+                {
+                  "title": "Flexbox",
+                  "children": [
+                    {
+                      "id": "035d1439-7835-5ee0-b7d7-d1ccd8211c23",
+                      "title": "Introduction",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 12524,
+                      "stop": 12559
+                    },
+                    {
+                      "id": "68783094-4aa3-57da-ad77-6d54a9ee3f0c",
+                      "title": "Flexbox Components",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 12559,
+                      "stop": 12707
+                    },
+                    {
+                      "id": "b62a2f70-31b2-5c4b-8610-169a34180f0c",
+                      "title": "Creating a Flex Container",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 12707,
+                      "stop": 12861
+                    },
+                    {
+                      "id": "3657ba89-5649-5cf4-b104-7ec0377849e0",
+                      "title": "Flex Direction & Wrap",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 12861,
+                      "stop": 13119
+                    },
+                    {
+                      "id": "f981ede5-a2a5-5bf7-9d1b-58f60110c65c",
+                      "title": "Content Alignment",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 13119,
+                      "stop": 13498
+                    },
+                    {
+                      "id": "b5c8e540-1df3-5ea4-8e31-68909f69a40e",
+                      "title": "Flex Item Order",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 13498,
+                      "stop": 13785
+                    },
+                    {
+                      "id": "fbfd0c06-ed74-51b5-8b88-dca0675d928f",
+                      "title": "Shrink, Grow & Basis",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 13785,
+                      "stop": 14417
+                    },
+                    {
+                      "id": "413e8138-1923-5625-96f9-9dbfb74add3f",
+                      "title": "The 'Flex' Property",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 14417,
+                      "stop": 14615
+                    },
+                    {
+                      "id": "548a1c11-1f55-56d8-a1ff-eb4fbcfc75f2",
+                      "title": "Item Alignment",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 14615,
+                      "stop": 14910
+                    }
+                  ]
+                },
+                {
+                  "title": "Grid",
+                  "children": [
+                    {
+                      "id": "7b00fdab-c078-581d-b476-8ed690611cc2",
+                      "title": "Grid vs Flexbox",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 14910,
+                      "stop": 14932
+                    },
+                    {
+                      "id": "4d874d15-f867-59c7-86aa-f0d032dbe7f0",
+                      "title": "Introduction",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 14932,
+                      "stop": 14970
+                    },
+                    {
+                      "id": "b6221cd2-b4f4-5621-ad5e-1eedc49785ba",
+                      "title": "Differences",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 14970,
+                      "stop": 15088
+                    },
+                    {
+                      "id": "e81807d6-df51-5202-84c5-a4526d1891c5",
+                      "title": "Creating a Grid",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 15088,
+                      "stop": 15225
+                    },
+                    {
+                      "id": "3dda9d96-0e92-5334-a572-991e0077e992",
+                      "title": "Template Columns & Rows",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 15225,
+                      "stop": 15687
+                    },
+                    {
+                      "id": "010930c4-5047-560e-97c2-9be71cdeba26",
+                      "title": "Justify & Align Grid",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 15687,
+                      "stop": 16105
+                    },
+                    {
+                      "id": "65c0a563-ffa3-5d72-869a-8b7fde67e0ff",
+                      "title": "Row & Column Gaps",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 16105,
+                      "stop": 16408
+                    },
+                    {
+                      "id": "60f491e0-5410-5681-b350-c6443ad0a824",
+                      "title": "Column & Row Lines",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 16408,
+                      "stop": 16862
+                    },
+                    {
+                      "id": "475e1e5f-b581-56b7-906a-a533161dc585",
+                      "title": "Grid Area",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 16862,
+                      "stop": 17085
+                    }
+                  ]
+                },
+                {
+                  "title": "Animation and Transitions",
+                  "children": [
+                    {
+                      "id": "ff0983f9-1743-5236-9520-3630b1c53651",
+                      "title": "The Transitions Property",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 17085,
+                      "stop": 17903
+                    },
+                    {
+                      "id": "b4ede4dc-a4a2-50ca-9251-69d2e0fc1b5b",
+                      "title": "Transformation Functions",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 17903,
+                      "stop": 18764
+                    },
+                    {
+                      "id": "ee3b9869-3e94-5cc0-b27d-44f10d0d43bf",
+                      "title": "Creating Animations w/Keyframes",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 18764,
+                      "stop": 19249
+                    },
+                    {
+                      "id": "a4cd7a18-5667-56b8-b083-7a46b18efea1",
+                      "title": "Adding an Animation",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 19249,
+                      "stop": 19422
+                    },
+                    {
+                      "id": "a0bbd492-06ef-50fd-8628-bce9f6e991f1",
+                      "title": "Animation Properties",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 19422,
+                      "stop": 20108
+                    }
+                  ]
+                },
+                {
+                  "title": "Challenge (test)",
+                  "children": [
+                    {
+                      "id": "106f8740-9939-59c6-bfe6-836c29402e8f",
+                      "title": "Website Transformation Challenge",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 20108,
+                      "stop": 20322
+                    },
+                    {
+                      "id": "c136a2f4-00ce-52e9-bba4-735e109068c8",
+                      "title": "Website Transformation Solution",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 20322,
+                      "stop": 22434
+                    },
+                    {
+                      "id": "8c5ae884-318b-52f9-aa61-dda0f8a72dff",
+                      "title": "What To Learn Next",
+                      "youtubeId": "1Rs2ND1ryYc",
+                      "start": 22434,
+                      "stop": 22718
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,691 @@
+{
+  "id": "bc2bb73d-228c-55ee-ad7a-ce8eee3dce64",
+  "url": "/alex-braine/javascript/12-hours-coding-bootcamp",
+  "title": "12HR+ Coding Bootcamp",
+  "cards": 90,
+  "createdAt": 1610553623,
+  "author": "Code with Ania Kubów",
+  "source": "https://www.youtube.com/watch?v=Xm4BObh4MhI",
+  "youtubeId": "Xm4BObh4MhI",
+  "children": [
+    {
+      "title": "JavaScript",
+      "children": [
+        {
+          "title": "Tutorial",
+          "children": [
+            {
+              "title": "12HR+ Coding Bootcamp",
+              "children": [
+                {
+                  "title": "Introduction",
+                  "children": [
+                    {
+                      "id": "60001847-7c5c-5a82-906c-f258103daefe",
+                      "title": "Introduction",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 0,
+                      "stop": 214
+                    },
+                    {
+                      "id": "288c1376-2487-543e-9456-18d8e6759ab2",
+                      "title": "Code Editors",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 214,
+                      "stop": 365
+                    }
+                  ]
+                },
+                {
+                  "title": "HTML",
+                  "children": [
+                    {
+                      "id": "293f93a0-cb20-552c-a762-cf92715251b2",
+                      "title": "HTML Introduction",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 365,
+                      "stop": 502
+                    },
+                    {
+                      "id": "09f63ef8-681d-5f96-a629-3845f75a22bc",
+                      "title": "HTML Boilerplate setup",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 502,
+                      "stop": 655
+                    },
+                    {
+                      "id": "26c1f5d1-d960-5668-94d6-a30ee52d8aa7",
+                      "title": "HTML Elements",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 655,
+                      "stop": 1073
+                    },
+                    {
+                      "id": "47dbba79-5f88-583e-bd25-194a7fdd6bc1",
+                      "title": "Online Portfolio Project",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 1073,
+                      "stop": 1205
+                    }
+                  ]
+                },
+                {
+                  "title": "CSS",
+                  "children": [
+                    {
+                      "id": "b0aad2de-5e2c-5e42-aa1b-557f36506cb6",
+                      "title": "Check-in",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 1205,
+                      "stop": 1262
+                    },
+                    {
+                      "id": "f41bb98d-9851-56ba-9499-b3ef6fa85924",
+                      "title": "CSS Introduction",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 1262,
+                      "stop": 1417
+                    },
+                    {
+                      "id": "c0d4e610-8821-5025-a1d6-441a7713bf88",
+                      "title": "File set up",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 1417,
+                      "stop": 1662
+                    },
+                    {
+                      "id": "e9826d35-6421-5ba1-884b-1fa08dd6b373",
+                      "title": "Class names and Id's",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 1662,
+                      "stop": 1848
+                    },
+                    {
+                      "id": "c5fbfb65-9960-53ca-b2cb-1b3e40ff3aa9",
+                      "title": "Pop Quiz",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 1848,
+                      "stop": 2272
+                    },
+                    {
+                      "id": "4ce58ea4-1213-5bc3-af61-f3339db12925",
+                      "title": "Box Model",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 2272,
+                      "stop": 2396
+                    },
+                    {
+                      "id": "3b263d50-78e5-572e-b843-25c7b3f30200",
+                      "title": "Colours",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 2396,
+                      "stop": 2652
+                    },
+                    {
+                      "id": "0144e769-f9f4-51aa-b20d-c4d298b7c091",
+                      "title": "Unordered and Ordered Lists",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 2652,
+                      "stop": 2973
+                    },
+                    {
+                      "id": "be46a3df-cd69-5086-b9bd-a1a476df948a",
+                      "title": "Images",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 2973,
+                      "stop": 3262
+                    },
+                    {
+                      "id": "b9c52562-2bf4-5947-a38f-7e0a58c964ac",
+                      "title": "Styling classes as id's",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 3262,
+                      "stop": 3427
+                    },
+                    {
+                      "id": "faec3a73-6e90-57ff-8854-3fb07eb07ba3",
+                      "title": "The Data property",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 3427,
+                      "stop": 3540
+                    },
+                    {
+                      "id": "bf46dce1-3521-568b-ac73-6baddb0e2e0a",
+                      "title": "Flexbox",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 3540,
+                      "stop": 3705
+                    },
+                    {
+                      "id": "2874c9fd-e4c6-53f0-87b0-871904bcfc7a",
+                      "title": "Pop Quiz",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 3705,
+                      "stop": 3821
+                    },
+                    {
+                      "id": "06cc0ad9-4490-5196-89a1-01d43270c3e2",
+                      "title": "Flexbox website layout",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 3821,
+                      "stop": 4183
+                    },
+                    {
+                      "id": "11034251-ac34-5cad-8d0a-92428f8b697a",
+                      "title": "Commenting out Code",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 4183,
+                      "stop": 4417
+                    },
+                    {
+                      "id": "35b56e6e-0a8f-5667-a974-569847beb3d8",
+                      "title": "Gradients in CSS",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 4417,
+                      "stop": 4553
+                    },
+                    {
+                      "id": "7c7dc568-480b-5323-be52-6e993a7f0fbe",
+                      "title": "Box Shadows in CSS",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 4553,
+                      "stop": 4638
+                    },
+                    {
+                      "id": "1a40185e-a5fe-56ca-8ab5-f58bef7de536",
+                      "title": "Button Styling in CSS",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 4638,
+                      "stop": 5151
+                    },
+                    {
+                      "id": "7935db80-f944-5f4a-b65b-5589078fa822",
+                      "title": "Fonts",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 5151,
+                      "stop": 5365
+                    },
+                    {
+                      "id": "9439be35-42c9-59c9-8410-bf87fee04435",
+                      "title": "Generic Website Layout",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 5365,
+                      "stop": 5668
+                    },
+                    {
+                      "id": "251c2740-2d44-592e-8717-adfeb25a9c1b",
+                      "title": "making a NavBar",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 5668,
+                      "stop": 6414
+                    },
+                    {
+                      "id": "8eefe9d7-e155-5e84-ab4a-51af38c07c22",
+                      "title": "Anchor Links",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 6414,
+                      "stop": 6617
+                    },
+                    {
+                      "id": "d3cb7e9b-6626-5a41-8e90-7aa91ef3051f",
+                      "title": "Creating Sections",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 6617,
+                      "stop": 8030
+                    },
+                    {
+                      "id": "5a773db6-0f42-5d07-bfbf-b1109545d955",
+                      "title": "Forms in CSS and HTML",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 8030,
+                      "stop": 8815
+                    },
+                    {
+                      "id": "0af4e272-77f4-5f5d-96ef-23f00ad3f6ce",
+                      "title": "Font Awesome",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 8815,
+                      "stop": 9132
+                    },
+                    {
+                      "id": "8e98715d-6a54-598d-bcc9-4d5a73693a91",
+                      "title": "Break points",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 9132,
+                      "stop": 9515
+                    },
+                    {
+                      "id": "d9b02813-c95b-5376-9e69-7efc736b5083",
+                      "title": "Z-index",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 9515,
+                      "stop": 10164
+                    }
+                  ]
+                },
+                {
+                  "title": "JavaScript",
+                  "children": [
+                    {
+                      "id": "a3c7efbb-8d14-5e40-a1e4-f938f12f3db1",
+                      "title": "Check-in",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 10164,
+                      "stop": 10267
+                    },
+                    {
+                      "id": "324be4bb-85aa-5d8e-858a-95471fad3384",
+                      "title": "Introduction to JavaScript",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 10267,
+                      "stop": 10332
+                    },
+                    {
+                      "id": "d0892746-5733-5020-a2a2-d3c2cde54cbe",
+                      "title": "JavaScript file setup",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 10332,
+                      "stop": 10719
+                    },
+                    {
+                      "id": "8f6db2e0-ac7c-5ebd-8b4d-654c6fc07f05",
+                      "title": "Variables",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 10719,
+                      "stop": 11775
+                    },
+                    {
+                      "id": "344d7473-595a-56ff-b735-f68de6f9d671",
+                      "title": "Control Flow",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 11775,
+                      "stop": 11800
+                    },
+                    {
+                      "id": "7934762b-0b74-576f-8645-7db4ab8694f4",
+                      "title": "If Statements",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 11800,
+                      "stop": 12369
+                    },
+                    {
+                      "id": "115003d4-6a62-502a-bc90-be646dbff070",
+                      "title": "Operators",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 12369,
+                      "stop": 14139
+                    },
+                    {
+                      "id": "2b523e00-d886-59bb-b69e-e80bf5581740",
+                      "title": "Fizz Buzz Exercise",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 14139,
+                      "stop": 14459
+                    },
+                    {
+                      "id": "33bb873c-cadf-5ca5-9ccf-426ed4efc180",
+                      "title": "for loops",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 14459,
+                      "stop": 14878
+                    },
+                    {
+                      "id": "3bbf4440-3b51-5b57-a883-368f1c1f3f2b",
+                      "title": "Arrays",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 14878,
+                      "stop": 15282
+                    },
+                    {
+                      "id": "f053f2b4-7b76-503d-856c-9e34f1ef0c6f",
+                      "title": "Objects",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 15282,
+                      "stop": 15890
+                    },
+                    {
+                      "id": "3ef52448-2272-5a5e-8201-48fd32395d2a",
+                      "title": "Functions",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 15890,
+                      "stop": 16671
+                    },
+                    {
+                      "id": "51e4a6a5-d3c9-5b93-b075-f4b034675263",
+                      "title": "A Progress Exercise",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 16671,
+                      "stop": 17300
+                    },
+                    {
+                      "id": "8e6cf9ac-ed01-505b-9b41-1de28b2634b4",
+                      "title": "Arrow Functions",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 17300,
+                      "stop": 17541
+                    },
+                    {
+                      "id": "81a069c9-1081-5bd9-a064-a9c054c746a8",
+                      "title": "While loop",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 17541,
+                      "stop": 17723
+                    },
+                    {
+                      "id": "79eec74c-1f45-5847-97cf-ced86c91b06e",
+                      "title": "Built-in-Objects Introduction",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 17723,
+                      "stop": 17762
+                    },
+                    {
+                      "id": "5c4ad683-ecd6-503a-bab5-15be07ef7da1",
+                      "title": "length()",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "laboratory": "https://codesandbox.io/s/xenodochial-einstein-ot5rr",
+                      "start": 17762,
+                      "stop": 18089
+                    },
+                    {
+                      "id": "fcc6cb7d-425b-5db7-b7d5-e58d30215bba",
+                      "title": "concat()",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 18089,
+                      "stop": 18401
+                    },
+                    {
+                      "id": "e78c732c-c020-5045-be4b-ac089542591e",
+                      "title": "join()",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "laboratory": "https://codesandbox.io/s/infallible-jones-idvfn",
+                      "start": 18401,
+                      "stop": 18726
+                    },
+                    {
+                      "id": "f21aaf20-c492-57f0-99a9-be0cb389a267",
+                      "title": "pop()",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "laboratory": "https://codesandbox.io/s/optimistic-albattani-cf1ky",
+                      "start": 18726,
+                      "stop": 19126
+                    },
+                    {
+                      "id": "36bea711-171f-5ef3-87b7-cd270f7c0bb1",
+                      "title": "shift()",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 19126,
+                      "stop": 19333
+                    },
+                    {
+                      "id": "5b2219fe-2feb-5dbb-a7ea-020c1e9162d8",
+                      "title": "unshift()",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 19333,
+                      "stop": 19532
+                    },
+                    {
+                      "id": "048269a3-f77f-5dc2-bf63-da76fb16a447",
+                      "title": "push()",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 19532,
+                      "stop": 20151
+                    },
+                    {
+                      "id": "084356f3-f482-5df8-9687-52c254f67840",
+                      "title": "splice()",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 20151,
+                      "stop": 20507
+                    },
+                    {
+                      "id": "f4325450-b932-51c4-9584-a6761339f186",
+                      "title": "forEach()",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "laboratory": "https://codesandbox.io/s/sharp-ellis-xeh2o",
+                      "start": 20507,
+                      "stop": 21025
+                    },
+                    {
+                      "id": "46539c00-6d7d-53d3-b81b-370dea581751",
+                      "title": "some()",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "laboratory": "https://codesandbox.io/s/admiring-lamport-nlfzb",
+                      "start": 21025,
+                      "stop": 21589
+                    },
+                    {
+                      "id": "f2000401-67c7-5ec2-8ea6-cef4f3d0cee2",
+                      "title": "map()",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 21589,
+                      "stop": 22039
+                    },
+                    {
+                      "id": "d91f2d36-b7d3-582e-a5ed-6f86f960882d",
+                      "title": "filter()",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "laboratory": "https://codesandbox.io/s/unruffled-wave-sg8v6",
+                      "start": 22039,
+                      "stop": 22626
+                    },
+                    {
+                      "id": "bd22283d-f2e5-5264-a023-2ed8c883d4de",
+                      "title": "reduce()",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "laboratory": "https://codesandbox.io/s/hopeful-shadow-f5pvv",
+                      "start": 22626,
+                      "stop": 22947
+                    },
+                    {
+                      "id": "38dd0dd0-dfd2-58bb-86bd-b8587ee10f8a",
+                      "title": "every()",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 22947,
+                      "stop": 23305
+                    },
+                    {
+                      "id": "21c8a096-c393-503c-bec5-5508c2650338",
+                      "title": "split()",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 23305,
+                      "stop": 23665
+                    },
+                    {
+                      "id": "c4528e9d-23a9-5655-b570-ed9d76b07bff",
+                      "title": "Array work - Exercises to practise",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 23665,
+                      "stop": 26286
+                    },
+                    {
+                      "id": "13df96c8-1674-545a-b442-229f70c4bda6",
+                      "title": "addEventListener()",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "laboratory": "https://codesandbox.io/s/kind-torvalds-evigr",
+                      "start": 26286,
+                      "stop": 26769
+                    },
+                    {
+                      "id": "2161ba49-8971-57ca-ac68-6d9eb00c0319",
+                      "title": "removeEventListener()",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "laboratory": "https://codesandbox.io/s/ecstatic-rhodes-hqonq",
+                      "start": 26769,
+                      "stop": 27237
+                    },
+                    {
+                      "id": "286fe45f-9e79-504c-bc20-6d71a5b31108",
+                      "title": "querySelector()",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "laboratory": "https://codesandbox.io/s/ecstatic-lovelace-6u6ht",
+                      "start": 27237,
+                      "stop": 27599
+                    },
+                    {
+                      "id": "91d2ea19-fa52-57e4-93dc-60a35b8f4d43",
+                      "title": "Check-in and Project suggestion",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 27599,
+                      "stop": 27651
+                    },
+                    {
+                      "id": "24e6434d-c352-557e-bbf3-3edde3f89c42",
+                      "title": "Math.random()",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 27651,
+                      "stop": 28388
+                    },
+                    {
+                      "id": "50410ff4-279e-5cca-b967-e60f5dbaad73",
+                      "title": "Let's make a Responsive Burger NavBar",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 28388,
+                      "stop": 29412
+                    },
+                    {
+                      "id": "d81637cb-9bef-5253-b471-561c0380b861",
+                      "title": "Date",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "laboratory": "https://codesandbox.io/s/great-framework-5206x",
+                      "start": 29412,
+                      "stop": 29969
+                    },
+                    {
+                      "id": "b220d517-4c51-5720-ab21-c6fdfc04688e",
+                      "title": "setTimeout()",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "laboratory": "https://codesandbox.io/s/clever-chandrasekhar-u7fyw",
+                      "start": 29969,
+                      "stop": 30540
+                    },
+                    {
+                      "id": "ca088387-6b91-50ae-a8ae-e7853246d443",
+                      "title": "setInterval()",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "laboratory": "https://codesandbox.io/s/cool-franklin-fdvk4",
+                      "start": 30540,
+                      "stop": 31451
+                    },
+                    {
+                      "id": "6aef943e-e2e5-5f9d-b3c6-12de76e68ca3",
+                      "title": "Classes in JavaScript",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 31451,
+                      "stop": 31936
+                    },
+                    {
+                      "id": "3f36025d-685d-5b5e-90d3-5f8b3199c832",
+                      "title": "Check-in and Project suggestion",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 31936,
+                      "stop": 31978
+                    },
+                    {
+                      "id": "209decb4-cb11-5865-8aa4-9090fb1ac0a4",
+                      "title": "Keys",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "laboratory": "https://codesandbox.io/s/lively-river-7xptl",
+                      "start": 31978,
+                      "stop": 32506
+                    },
+                    {
+                      "id": "ba390a5d-72f3-5f06-b2f3-5cafd81ffd55",
+                      "title": "switch case",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 32506,
+                      "stop": 33771
+                    },
+                    {
+                      "id": "ae5ee411-2bdb-598b-9d4f-233c3dd359dd",
+                      "title": "sort()",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 33771,
+                      "stop": 33892
+                    },
+                    {
+                      "id": "8c133905-76bc-510f-889a-75154b714a43",
+                      "title": "Introduction to Algorithms",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 33892,
+                      "stop": 33916
+                    },
+                    {
+                      "id": "bb02f38b-a10e-5903-ab59-5d22e05d5c1d",
+                      "title": "includes()",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 33916,
+                      "stop": 34054
+                    },
+                    {
+                      "id": "3f2f92ba-6b08-56e9-ad58-4860b7e93195",
+                      "title": "contains()",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 34054,
+                      "stop": 34192
+                    },
+                    {
+                      "id": "cf4ef78d-7a31-5414-aa23-91067a5a1deb",
+                      "title": "createElement()",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 34192,
+                      "stop": 34702
+                    },
+                    {
+                      "id": "56ea0cae-b5cd-5255-86fa-401bcb42d97a",
+                      "title": "Check-in and Project Introduction",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 34702,
+                      "stop": 37627
+                    },
+                    {
+                      "id": "38048d7e-927b-5324-8d45-39b7ddbdc17b",
+                      "title": "Check-in and Project suggestions",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 37627,
+                      "stop": 37696
+                    },
+                    {
+                      "id": "a478e406-ae28-5e3e-95dc-cd1990d668c2",
+                      "title": "Introduction to HTTP",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 37696,
+                      "stop": 38215
+                    },
+                    {
+                      "id": "c2479dc1-cb18-58ec-9d80-3a4312dfdd32",
+                      "title": "fetch(). GET POST PUT DELETE",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 38215,
+                      "stop": 40044
+                    },
+                    {
+                      "id": "d81c2b1d-8b5e-5285-a009-6894bc5abde3",
+                      "title": "Check-in and video suggestion",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 40044,
+                      "stop": 40073
+                    },
+                    {
+                      "id": "ab694414-56ca-5f9a-b1ae-010cc385245f",
+                      "title": "Storing Projects on GitHub",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 40073,
+                      "stop": 40558
+                    },
+                    {
+                      "id": "216a2df5-dbae-5deb-9355-a4679ec523e9",
+                      "title": "Where to go next",
+                      "youtubeId": "Xm4BObh4MhI",
+                      "start": 40558,
+                      "stop": 40904
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

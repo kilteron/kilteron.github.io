@@ -1,0 +1,170 @@
+{
+  "creator": "Alex Braine",
+  "title": "Luxembourgish",
+  "url": "/alex-braine/luxembourgish",
+  "type": "kit",
+  "navigation": [
+    {
+      "title": "Luxembourgish",
+      "url": "/alex-braine/luxembourgish",
+      "children": [
+        {
+          "title": "Phrases",
+          "url": "/alex-braine/luxembourgish/phrases-everyday",
+          "children": [
+            {
+              "title": "Everyday",
+              "url": "/alex-braine/luxembourgish/phrases-everyday"
+            },
+            {
+              "title": "Must Know",
+              "url": "/alex-braine/luxembourgish/phrases-must-know"
+            }
+          ]
+        },
+        {
+          "title": "Songs",
+          "url": "/alex-braine/luxembourgish/songs-national-anthem",
+          "children": [
+            {
+              "title": "National Anthem",
+              "url": "/alex-braine/luxembourgish/songs-national-anthem"
+            }
+          ]
+        },
+        {
+          "title": "Words",
+          "url": "/alex-braine/luxembourgish/words-100-basic",
+          "children": [
+            {
+              "title": "100 Basic",
+              "url": "/alex-braine/luxembourgish/words-100-basic"
+            },
+            {
+              "title": "For Absolute Beginners",
+              "url": "/alex-braine/luxembourgish/words-for-absolute-beginners"
+            },
+            {
+              "title": "Numbers",
+              "url": "/alex-braine/luxembourgish/words-numbers-0-20"
+            }
+          ]
+        },
+        {
+          "title": "Grammar",
+          "url": "/alex-braine/luxembourgish/articles",
+          "children": [
+            {
+              "title": "Articles",
+              "url": "/alex-braine/luxembourgish/articles"
+            },
+            {
+              "title": "Sentence structure",
+              "url": "/alex-braine/luxembourgish/3-most-important-rules-of-the-luxembourgish-sentence-structure"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "collections": [
+    {
+      "id": "38330cc5-4cc6-5704-8c0c-7adbe6fcbd5e",
+      "url": "/alex-braine/luxembourgish/words-100-basic",
+      "title": "100 luxembourgish words",
+      "cards": 288,
+      "createdAt": 1597777217,
+      "author": "luxdico",
+      "source": "https://www.youtube.com/watch?v=yD8WavgzrXU",
+      "youtubeId": "yD8WavgzrXU",
+      "useTitle": true,
+      "youtubeViews": 2823,
+      "youtubeLikes": 135
+    },
+    {
+      "id": "cf1d5f9e-b42c-575e-9d3c-d9f991dcca1d",
+      "url": "/alex-braine/luxembourgish/songs-national-anthem",
+      "title": "National Anthem of Luxembourg",
+      "cards": 40,
+      "createdAt": 1446426067,
+      "author": "Ian Berwick",
+      "source": "https://www.youtube.com/watch?v=LZuozNHArQ0",
+      "youtubeId": "LZuozNHArQ0",
+      "useTitle": true,
+      "youtubeViews": 315738,
+      "youtubeLikes": 2051
+    },
+    {
+      "id": "aa16157e-a347-50b0-9858-d02bd59c1e05",
+      "url": "/alex-braine/luxembourgish/words-for-absolute-beginners",
+      "title": "Luxembourgish for Beginners",
+      "cards": 60,
+      "createdAt": 1533376805,
+      "author": "Luxembourgish with Anne",
+      "source": "https://www.youtube.com/watch?v=kXFtbeWxhD8",
+      "youtubeId": "kXFtbeWxhD8",
+      "youtubeViews": 41132,
+      "youtubeLikes": 1457
+    },
+    {
+      "id": "a0229b74-636c-5742-b642-275216bd0286",
+      "url": "/alex-braine/luxembourgish/phrases-everyday",
+      "title": "Everyday Phrases",
+      "cards": 78,
+      "createdAt": 1528003583,
+      "author": "Luxembourgish with Anne",
+      "source": "https://www.youtube.com/watch?v=XcqsSm85NVc",
+      "youtubeId": "XcqsSm85NVc",
+      "youtubeViews": 34251,
+      "youtubeLikes": 769
+    },
+    {
+      "id": "187bd1c4-b662-5087-9d68-bb5e21089b08",
+      "url": "/alex-braine/luxembourgish/words-numbers-0-20",
+      "title": "Numbers 0 - 20",
+      "cards": 42,
+      "createdAt": 1532773708,
+      "author": "Luxembourgish with Anne",
+      "source": "https://www.youtube.com/watch?v=_M_WU9Tv0qg",
+      "youtubeId": "_M_WU9Tv0qg",
+      "youtubeViews": 19273,
+      "youtubeLikes": 546
+    },
+    {
+      "id": "7558d744-67f9-5b5b-a0a5-94f9fa4bef66",
+      "url": "/alex-braine/luxembourgish/phrases-must-know",
+      "title": "Must Know Phrases",
+      "cards": 56,
+      "createdAt": 1555741800,
+      "author": "Luxembourgish with Anne",
+      "source": "https://www.youtube.com/watch?v=-691msk0CiE",
+      "youtubeId": "-691msk0CiE",
+      "youtubeViews": 7545,
+      "youtubeLikes": 272
+    },
+    {
+      "id": "7558d744-67f9-5b5b-a0a5-94f9fa4bef11",
+      "url": "/alex-braine/luxembourgish/articles",
+      "title": "Articles",
+      "cards": 56,
+      "createdAt": 1555741800,
+      "author": "Luxembourgish with Anne",
+      "source": "https://www.youtube.com/watch?v=pXnszHi6_X0",
+      "youtubeId": "pXnszHi6_X0",
+      "youtubeViews": 7545,
+      "youtubeLikes": 272
+    },
+    {
+      "id": "7558d744-67f9-5b5b-a0a5-94f9fa4bef11",
+      "url": "/alex-braine/luxembourgish/3-most-important-rules-of-the-luxembourgish-sentence-structure",
+      "title": "Sentence structure",
+      "cards": 56,
+      "createdAt": 1555741800,
+      "author": "Luxembourgish with Anne",
+      "source": "https://www.youtube.com/watch?v=HJW3L7JeMPU",
+      "youtubeId": "HJW3L7JeMPU",
+      "youtubeViews": 7545,
+      "youtubeLikes": 272
+    }
+  ]
+}

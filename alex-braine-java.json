@@ -1,0 +1,40 @@
+{
+  "creator": "Alex Braine",
+  "title": "Java",
+  "url": "/alex-braine/java",
+  "type": "kit",
+  "navigation": [
+    {
+      "title": "Java",
+      "url": "/alex-braine/java",
+      "children": [
+        {
+          "title": "Data Structures and Algorithms",
+          "url": "/alex-braine/java/data-structures-and-algorithms-for-beginners",
+          "children": [
+            {
+              "title": "Data Structures and Algorithms",
+              "url": "/alex-braine/java/data-structures-and-algorithms-for-beginners"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "collections": [
+    {
+      "id": "18b2f923-da86-5d4a-ab68-a9caa29e3348",
+      "url": "/alex-braine/java/data-structures-and-algorithms-for-beginners",
+      "title": "Learn JavaScript - Full Course for Beginners",
+      "description": "This complete 134-part JavaScript tutorial for beginners will teach you everything you need to know to get started with the JavaScript programming language.",
+      "cards": 26,
+      "youtubeViews": 453892,
+      "youtubeLikes": 11649,
+      "createdAt": 1575997202,
+      "youtubeId": "BBpAmxU_NQo",
+      "logo": "https://yt3.ggpht.com/ytc/AAUvwnifaQZvAunS0OFb2y_cieoVjLCVjqQW8Exf3BC1gg=s176-c-k-c0x00ffffff-no-rj",
+      "source": "https://www.youtube.com/watch?v=BBpAmxU_NQo",
+      "author": "Programming with Mosh"
+    }
+  ]
+}

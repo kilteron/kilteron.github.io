@@ -1,0 +1,319 @@
+{
+  "id": "a0229b74-636c-5742-b642-275216bd0286",
+  "url": "/alex-braine/luxembourgish/articles",
+  "title": "Articles",
+  "cards": 78,
+  "createdAt": 1528003583,
+  "author": "Luxembourgish with Anne",
+  "youtubeId": "pXnszHi6_X0",
+  "source": "https://www.youtube.com/watch?v=pXnszHi6_X0",
+  "children": [
+    {
+      "title": "Luxembourgish",
+      "children": [
+        {
+          "title": "Grammar",
+          "children": [
+            {
+              "title": "Articles",
+              "children": [
+                {
+                  "title": "3 Definite Articles",
+                  "children": [
+                    {
+                      "id": "35069205-458e-524d-a0b2-71c9e2c6db0b",
+                      "title": "Feminine",
+                      "description": "d'",
+                      "start": "113.7",
+                      "stop": "114.0",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    },
+                    {
+                      "id": "050606a7-beba-5adb-bd77-79e469a37311",
+                      "title": "Masculine",
+                      "description": "de(n)",
+                      "start": "116.9",
+                      "stop": "117.6",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    },
+                    {
+                      "id": "b2265a90-5dcf-5364-b4da-c498752ff8a9",
+                      "title": "Neuter",
+                      "description": "d'",
+                      "start": "133.0",
+                      "stop": "133.6",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    },
+                    {
+                      "id": "b2265a90-5dcf-5364-b4da-c498752ff811",
+                      "title": "Plural",
+                      "description": "d'",
+                      "start": "155.8",
+                      "stop": "156.6",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    }
+                  ]
+                },
+                {
+                  "title": "3 Indefinite Articles",
+                  "children": [
+                    {
+                      "id": "6e9d2fe0-0bfa-5047-828b-eb7b3497c1bf",
+                      "title": "Feminine",
+                      "description": "eng",
+                      "start": "211.9",
+                      "stop": "212.4",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    },
+                    {
+                      "id": "51011d57-d03b-5910-b538-ab7f507f346f",
+                      "title": "Masculine",
+                      "description": "e(n)",
+                      "start": "217.9",
+                      "stop": "218.5",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    },
+                    {
+                      "id": "e2d5664f-557e-570f-873b-82ed0993c954",
+                      "title": "Neuter",
+                      "description": "e(n)",
+                      "start": "226.5",
+                      "stop": "227.5",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    },
+                    {
+                      "id": "e2d5664f-557e-570f-873b-82ed0993c911",
+                      "title": "Plural",
+                      "description": "-",
+                      "start": "235",
+                      "stop": "239.3",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    }
+                  ]
+                },
+                {
+                  "title": "Definite Articles Examples",
+                  "children": [
+                    {
+                      "id": "e2b4416f-18ae-50fa-b90f-db5a073c709f",
+                      "title": "the woman",
+                      "description": "d'Fra",
+                      "start": "93.9",
+                      "stop": "94.4",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    },
+
+                    {
+                      "id": "f87f3a75-57cb-5fa7-8628-ca12bb6565c9",
+                      "title": "the brother",
+                      "description": "de Brudder",
+                      "start": "100.8",
+                      "stop": "102.0",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    },
+
+                    {
+                      "id": "58207544-dc87-53c4-824b-1fee6c02f122",
+                      "title": "the child",
+                      "description": "d'Kand",
+                      "start": "109.1",
+                      "stop": "109.8",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    },
+                    {
+                      "id": "2985a641-caf6-5d04-9f15-6832c015b7ab",
+                      "title": "the city",
+                      "description": "d'Stad",
+                      "start": "50.6",
+                      "stop": "51.5",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    },
+                    {
+                      "id": "ac6d062d-6472-5459-963b-737c2d920c34",
+                      "title": "the computer",
+                      "description": "de Computer",
+                      "start": "56.0",
+                      "stop": "57.1",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    },
+                    {
+                      "id": "30774a21-08f1-576a-a8d7-bea43135d6b5",
+                      "title": "the health",
+                      "description": "d'Gesondheet",
+                      "start": "63.1",
+                      "stop": "64.1",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    },
+                    {
+                      "id": "2aee26ea-9ba3-58b1-a83f-c1beac5536b9",
+                      "title": "the girl",
+                      "description": "d'Meedchen",
+                      "start": "354.4",
+                      "stop": "355.6",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    },
+                    {
+                      "id": "14f85148-701f-5251-862b-796e74098d12",
+                      "title": "The book",
+                      "description": "D'Buch",
+                      "start": "398.7",
+                      "stop": "399.3",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    },
+                    {
+                      "id": "b5529a86-9070-5d21-9a66-97a439c1e217",
+                      "title": "the cars",
+                      "description": "d'Autoen",
+                      "start": "158.9",
+                      "stop": "160.3",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    },
+                    {
+                      "id": "58be680c-8735-5f57-b8bf-a306e1f2e1dc",
+                      "title": "the books",
+                      "description": "d'Bicher",
+                      "start": "582.9",
+                      "stop": "584.1",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    },
+                    {
+                      "id": "1df24503-5996-51d9-a125-0500a5e2109b",
+                      "title": "the plate",
+                      "description": "den Teller",
+                      "start": "540.8",
+                      "stop": "542.5",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    },
+                    {
+                      "id": "5e3328b2-dd6d-5387-b00b-366ad172dbe2",
+                      "title": "the shoes",
+                      "description": "d'Schong",
+                      "start": "499.0",
+                      "stop": "499.7",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    },
+                    {
+                      "id": "37024063-b46d-5e00-80a8-4c049cd5a00e",
+                      "title": "The fork",
+                      "description": "D'Forschette",
+                      "start": "471.9",
+                      "stop": "473.2",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    },
+                    {
+                      "id": "f96144d5-87b5-5899-aea4-9a69ae5cc951",
+                      "title": "The spoon",
+                      "description": "De Läffel",
+                      "start": "429.2",
+                      "stop": "430.8",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    }
+                  ]
+                },
+                {
+                  "title": "Indefinite Articles Examples",
+                  "children": [
+                    {
+                      "id": "8afa2d22-8be4-5a75-9779-9f25b442d064",
+                      "title": "a girl",
+                      "description": "e(n) Meedchen",
+                      "start": "370.2",
+                      "stop": "371.2",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    },
+                    {
+                      "id": "8f0b9d3d-6998-5b3a-ac9f-d660eec76057",
+                      "title": "cars",
+                      "description": "Autoen",
+                      "start": "244.1",
+                      "stop": "245.0",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    },
+                    {
+                      "id": "9d76dffb-9724-5cd2-b6ba-ff4f23f0ddb2",
+                      "title": "this is a bottle",
+                      "description": "dat ass eng Fläsch",
+                      "start": "563.3",
+                      "stop": "565.4",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    },
+                    {
+                      "id": "249cd2a3-df43-5e36-9295-bb644bcce1ee",
+                      "title": "this is a glass",
+                      "description": "dat ass e Glas",
+                      "start": "514.9",
+                      "stop": "517.3",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    },
+                    {
+                      "id": "003a4b69-f168-54f4-8a87-4fe3faa115e4",
+                      "title": "shoes",
+                      "description": "Schong",
+                      "start": "482.7",
+                      "stop": "483.5",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    },
+                    {
+                      "id": "18639811-3dc9-5660-b027-b57007729a99",
+                      "title": "a fork",
+                      "description": "eng Forschette",
+                      "start": "454.0",
+                      "stop": "455.9",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    },
+                    {
+                      "id": "fa8308aa-93d8-5399-9008-d14534f3f579",
+                      "title": "this is a spoon",
+                      "description": "dat ass e Läffel",
+                      "start": "441.9",
+                      "stop": "443.9",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    },
+                    {
+                      "id": "76ad357b-494e-556b-a07b-940f2df67794",
+                      "title": "this is a book",
+                      "description": "dat ass e Buch",
+                      "start": "419.2",
+                      "stop": "420.9",
+                      "youtubeId": "pXnszHi6_X0",
+                      "avatar": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

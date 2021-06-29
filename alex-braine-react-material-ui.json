@@ -1,0 +1,111 @@
+{
+  "id": "84157dae-cbfb-59ad-b04e-755004461825",
+  "url": "/alex-braine/react/material-ui",
+  "title": "Material UI",
+  "cards": 12,
+  "createdAt": 1602251797,
+  "author": "Traversy Media",
+  "youtubeId": "vyJU9efvUtQ",
+  "source": "https://www.youtube.com/watch?v=vyJU9efvUtQ",
+  "children": [
+    {
+      "title": "React",
+      "children": [
+        {
+          "title": "Tutorial",
+          "children": [
+            {
+              "title": "Material UI",
+              "children": [
+                {
+                  "id": "733cde79-6055-54e5-8b8b-1289f36f4367",
+                  "title": "Intro",
+                  "youtubeId": "vyJU9efvUtQ",
+                  "start": 1,
+                  "stop": 70
+                },
+                {
+                  "id": "be13f699-21bf-5d33-b09e-1a83b5bd592d",
+                  "title": "What is material ui",
+                  "youtubeId": "vyJU9efvUtQ",
+                  "start": 70,
+                  "stop": 96
+                },
+                {
+                  "id": "55ae2f90-da81-5f24-a262-7a17e8d1b121",
+                  "title": "Create React App",
+                  "youtubeId": "vyJU9efvUtQ",
+                  "start": 96,
+                  "stop": 213
+                },
+                {
+                  "id": "725b3069-2fb8-5c28-bd99-37fe8f4a5230",
+                  "title": "Button",
+                  "youtubeId": "vyJU9efvUtQ",
+                  "start": 213,
+                  "stop": 744
+                },
+                {
+                  "id": "8fd221f8-7199-52c1-88c6-5e7fb06f5acb",
+                  "title": "Checkbox",
+                  "youtubeId": "vyJU9efvUtQ",
+                  "start": 744,
+                  "stop": 1015
+                },
+                {
+                  "id": "6b9542c3-e068-5205-8d84-87a3b09e3066",
+                  "title": "Textfield",
+                  "youtubeId": "vyJU9efvUtQ",
+                  "start": 1015,
+                  "stop": 1257
+                },
+                {
+                  "id": "8d3a1ac6-b244-5f29-bac9-3cd03b211be8",
+                  "title": "makeStyles for Buttons",
+                  "youtubeId": "vyJU9efvUtQ",
+                  "start": 1257,
+                  "stop": 1447
+                },
+                {
+                  "id": "d61e1a8d-8c78-5ece-b3cb-6211ec14c73a",
+                  "title": "Themes with ThemeProvider",
+                  "youtubeId": "vyJU9efvUtQ",
+                  "start": 1447,
+                  "stop": 1643
+                },
+                {
+                  "id": "aab4af4c-a421-5783-9d33-0b715ba72445",
+                  "title": "Typography",
+                  "youtubeId": "vyJU9efvUtQ",
+                  "start": 1643,
+                  "stop": 1933
+                },
+                {
+                  "id": "c31967ee-f84d-5409-9423-9faa199fc7a3",
+                  "title": "Containers and Grids",
+                  "youtubeId": "vyJU9efvUtQ",
+                  "start": 1933,
+                  "stop": 2217
+                },
+                {
+                  "id": "3019c4e9-dd86-5829-932c-f69f6f1a848e",
+                  "title": "Responsive Design",
+                  "youtubeId": "vyJU9efvUtQ",
+                  "start": 2217,
+                  "stop": 2363
+                },
+                {
+                  "id": "3e2f4ef0-af43-5b3d-880e-c5442efb7951",
+                  "title": "AppBar",
+                  "youtubeId": "vyJU9efvUtQ",
+                  "start": 2363,
+                  "stop": 2578
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "creator": "Alex Braine",
+  "title": "JavaScript",
+  "url": "/alex-braine/javascript",
+  "type": "kit",
+  "navigation": [
+    {
+      "title": "JavaScript",
+      "url": "/alex-braine/javascript",
+      "children": [
+        {
+          "title": "Course",
+          "url": "/alex-braine/javascript/full-course-for-beginners",
+          "children": [
+            {
+              "title": "For Beginners",
+              "url": "/alex-braine/javascript/full-course-for-beginners"
+            },
+            {
+              "title": "Data Structures and Algorithms",
+              "url": "/alex-braine/javascript/data-structures-and-algorithms-for-beginners"
+            },
+            {
+              "title": "Redux from Scratch",
+              "url": "/alex-braine/javascript/learn-redux-from-scratch"
+            },
+            {
+              "title": "Higher Order Functions and Arrays",
+              "url": "/alex-braine/javascript/higher-order-functions-and-arrays"
+            },
+            {
+              "title": "OOP",
+              "url": "/alex-braine/javascript/oop"
+            },
+            {
+              "title": "TypeScript from Scratch",
+              "url": "/alex-braine/javascript/typescript-from-scratch"
+            },
+            {
+              "title": "Async JS",
+              "url": "/alex-braine/javascript/async-crash-course"
+            }
+          ]
+        },
+        {
+          "title": "Tutorial",
+          "url": "/alex-braine/javascript/building-7-games",
+          "children": [
+            {
+              "title": "Build 7 games",
+              "url": "/alex-braine/javascript/building-7-games"
+            },
+            {
+              "title": "JS in 1 hour",
+              "url": "/alex-braine/javascript/javascript-in-1-hour"
+            },
+            {
+              "title": "10 projects",
+              "url": "/alex-braine/javascript/10-projects-in-10-hours"
+            },
+            {
+              "title": "15 projects",
+              "url": "/alex-braine/javascript/15-projects"
+            },
+            {
+              "title": "12HR+ Coding Bootcamp",
+              "url": "/alex-braine/javascript/12-hours-coding-bootcamp"
+            },
+            {
+              "title": "Asynchronous JavaScript",
+              "url": "/alex-braine/javascript/asynchronous-javascript"
+            },
+            {
+              "title": "ES6",
+              "url": "/alex-braine/javascript/es6-tutorial"
+            }
+          ]
+        },
+        {
+          "title": "Awesome",
+          "url": "/alex-braine/javascript/awesome-javascript",
+          "children": [
+            {
+              "title": "Awesome",
+              "url": "/alex-braine/javascript/awesome-javascript"
+            }
+          ]
+        },
+        {
+          "title": "Tips",
+          "url": "/alex-braine/javascript/pro-tips",
+          "children": [
+            {
+              "title": "Tips",
+              "url": "/alex-braine/javascript/pro-tips"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "collections": [
+    {
+      "id": "4cd43b99-b765-5443-980e-255fecfceab5",
+      "url": "/alex-braine/javascript/full-course-for-beginners",
+      "title": "Learn JavaScript - Full Course for Beginners",
+      "cards": 134,
+      "youtubeViews": 6044034,
+      "youtubeLikes": 118529,
+      "createdAt": 1544451220,
+      "source": "https://www.youtube.com/watch?v=PkZNo7MFNFg",
+      "author": "freeCodeCamp.org",
+      "youtubeId": "PkZNo7MFNFg"
+    },
+    {
+      "id": "2e0382b7-e3f6-5688-85da-ab9ab6d0241d",
+      "url": "/alex-braine/javascript/javascript-in-1-hour",
+      "title": "JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour",
+      "cards": 13,
+      "youtubeViews": 4682778,
+      "youtubeLikes": 81816,
+      "createdAt": 1524537453,
+      "source": "https://www.youtube.com/watch?v=W6NZfCO5SIk",
+      "author": "Programming with Mosh",
+      "youtubeId": "W6NZfCO5SIk"
+    },
+    {
+      "id": "6157571e-5e70-55f8-bed0-6352ecf3ffb9",
+      "url": "/alex-braine/javascript/data-structures-and-algorithms-for-beginners",
+      "title": "Data Structures and Algorithms for Beginners",
+      "cards": 11,
+      "youtubeViews": 533575,
+      "youtubeLikes": 12588,
+      "createdAt": 1536084977,
+      "source": "https://www.youtube.com/watch?v=t2CEgPsws3U",
+      "author": "freeCodeCamp.org",
+      "youtubeId": "t2CEgPsws3U"
+    },
+    {
+      "id": "ce7da1e8-bf86-5f86-9a98-d96f3c11f8cd",
+      "url": "/alex-braine/javascript/learn-redux-from-scratch",
+      "title": "Redux Tutorial - Learn Redux from Scratch",
+      "cards": 33,
+      "youtubeViews": 386217,
+      "youtubeLikes": 10506,
+      "createdAt": 1587398413,
+      "source": "https://www.youtube.com/watch?v=poQXNp9ItL4",
+      "author": "Programming with Mosh",
+      "youtubeId": "poQXNp9ItL4"
+    },
+    {
+      "id": "95ecb68d-1a00-53b6-b92b-dc96a95ec23e",
+      "url": "/alex-braine/javascript/higher-order-functions-and-arrays",
+      "title": "JavaScript Higher Order Functions & Arrays",
+      "cards": 7,
+      "youtubeViews": 580824,
+      "youtubeLikes": 18478,
+      "createdAt": 1515855958,
+      "author": "Traversy Media",
+      "youtubeId": "rRgD1yVwIvE",
+      "source": "https://www.youtube.com/watch?v=rRgD1yVwIvE"
+    },
+    {
+      "id": "f1518d80-d034-5e2d-94a2-24dda040c027",
+      "url": "/alex-braine/javascript/oop",
+      "title": "OOP in JavaScript",
+      "cards": 17,
+      "youtubeViews": 945519,
+      "youtubeLikes": 20675,
+      "createdAt": 1522369846,
+      "author": "Programming with Mosh",
+      "youtubeId": "PFmuCDHHpwk",
+      "source": "https://www.youtube.com/watch?v=PFmuCDHHpwk"
+    },
+    {
+      "id": "caed42a2-09e3-515d-b4d3-636070aa0ea3",
+      "url": "/alex-braine/javascript/building-7-games",
+      "title": "Learn JavaScript by Building 7 Games",
+      "cards": 7,
+      "youtubeViews": 380313,
+      "youtubeLikes": 12587,
+      "createdAt": 1586362367,
+      "author": "freeCodeCamp.org",
+      "youtubeId": "lhNdUVh3qCc",
+      "source": "https://www.youtube.com/watch?v=lhNdUVh3qCc"
+    },
+    {
+      "id": "caed42a2-09e3-515d-b4d3-636070aa0ea3",
+      "url": "/alex-braine/javascript/10-projects-in-10-hours",
+      "title": "10 JavaScript Projects in 10 Hours - Coding Challenge",
+      "cards": 11,
+      "youtubeViews": 742920,
+      "youtubeLikes": 30648,
+      "createdAt": 1599066006,
+      "author": "Florin Pop",
+      "youtubeId": "dtKciwk_si4",
+      "source": "https://www.youtube.com/watch?v=dtKciwk_si4"
+    },
+    {
+      "url": "/alex-braine/javascript/15-projects",
+      "title": "Build 15 JavaScript Projects - Vanilla JavaScript Course",
+      "cards": 16,
+      "youtubeViews": 603548,
+      "youtubeLikes": 19209,
+      "createdAt": 1591719662,
+      "author": "freeCodeCamp.org",
+      "youtubeId": "3PHXvlpOkf4",
+      "source": "https://www.youtube.com/watch?v=3PHXvlpOkf4"
+    },
+    {
+      "id": "bc2bb73d-228c-55ee-ad7a-ce8eee3dce64",
+      "url": "/alex-braine/javascript/12-hours-coding-bootcamp",
+      "title": "12HR+ YouTube Coding Bootcamp 2021!",
+      "cards": 90,
+      "youtubeViews": 249379,
+      "youtubeLikes": 12189,
+      "createdAt": 1610553623,
+      "author": "Code with Ania Kubów",
+      "youtubeId": "Xm4BObh4MhI",
+      "source": "https://www.youtube.com/watch?v=Xm4BObh4MhI"
+    },
+    {
+      "id": "87a7947d-be1d-58e5-8bc0-094a524881a8",
+      "url": "/alex-braine/javascript/pro-tips",
+      "title": "JavaScript Pro Tips - Code This, NOT That",
+      "cards": 7,
+      "youtubeViews": 1680329,
+      "youtubeLikes": 78062,
+      "createdAt": 1538074609,
+      "author": "Fireship",
+      "youtubeId": "Mus_vwhTCq0",
+      "source": "https://www.youtube.com/watch?v=Mus_vwhTCq0"
+    },
+    {
+      "id": "c89bb22d-fbd0-5134-ac23-81f400708c25",
+      "url": "/alex-braine/javascript/async-crash-course",
+      "title": "Async JS Crash Course - Callbacks, Promises, Async Await",
+      "cards": 7,
+      "youtubeViews": 771162,
+      "youtubeLikes": 21211,
+      "createdAt": 1529673192,
+      "author": "Traversy Media",
+      "youtubeId": "PoRJizFvM7s",
+      "source": "https://www.youtube.com/watch?v=PoRJizFvM7s"
+    },
+    {
+      "id": "74d38b00-1a30-5f60-acb1-fcdf04c39980",
+      "url": "/alex-braine/javascript/es6-tutorial",
+      "title": "ES6 Tutorial: Learn Modern JavaScript in 1 Hour",
+      "cards": 13,
+      "youtubeViews": 433140,
+      "youtubeLikes": 10750,
+      "createdAt": 1530301821,
+      "author": "Programming with Mosh",
+      "youtubeId": "NCwa_xi0Uuc",
+      "source": "https://www.youtube.com/watch?v=NCwa_xi0Uuc"
+    },
+    {
+      "id": "78faebbb-3227-5594-9f87-10b5c6503cbc",
+      "url": "/alex-braine/javascript/typescript-from-scratch",
+      "title": "TypeScript Course for Beginners 2021 - Learn TypeScript from Scratch!",
+      "cards": 41,
+      "youtubeViews": 741101,
+      "youtubeLikes": 15711,
+      "createdAt": 1579622403,
+      "author": "Academind",
+      "youtubeId": "BwuLxPH8IDs",
+      "source": "https://www.youtube.com/watch?v=BwuLxPH8IDs"
+    },
+    {
+      "id": "5b30fd93-b69f-5bff-82ac-18edf4cc772a",
+      "url": "/alex-braine/javascript/asynchronous-javascript",
+      "title": "Asynchronous JavaScript & EVENT LOOP from scratch",
+      "cards": 17,
+      "youtubeViews": 63260,
+      "youtubeLikes": 4972,
+      "createdAt": 1609040285,
+      "author": "Akshay Saini",
+      "youtubeId": "8zKuNo4ay8E",
+      "source": "https://www.youtube.com/watch?v=8zKuNo4ay8E"
+    },
+    {
+      "id": "3eb610b6-2233-5295-95ec-e02337450723",
+      "url": "/alex-braine/javascript/awesome-javascript",
+      "title": "Awesome javascript",
+      "description": "Curated List of React Components & Libraries.",
+      "cards": 676,
+      "createdAt": 1619359767,
+      "githubStars": 23000,
+      "logo": "https://avatars.githubusercontent.com/u/35128?v=4",
+      "source": "https://github.com/sorrycc/awesome-javascript",
+      "author": "sorrycc"
+    }
+  ]
+}

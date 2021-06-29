@@ -1,0 +1,202 @@
+{
+  "id": "2b742e4b-9f9b-5fa4-ad64-dd1b82a21033",
+  "url": "/alex-braine/react/react-website-using-styled-components",
+  "title": "React Website",
+  "cards": 25,
+  "createdAt": 1601755280,
+  "author": "Brian Design",
+  "youtubeId": "Nl54MJDR2p8",
+  "source": "https://www.youtube.com/watch?v=Nl54MJDR2p8",
+  "children": [
+    {
+      "title": "React",
+      "children": [
+        {
+          "title": "Course",
+          "children": [
+            {
+              "title": "Website",
+              "children": [
+                {
+                  "id": "63725253-c2d1-5335-96f3-44a699bb7c92",
+                  "title": "Website Design we're building",
+                  "youtubeId": "Nl54MJDR2p8",
+                  "start": 0,
+                  "stop": 266
+                },
+                {
+                  "id": "fffbb63c-7024-5713-a163-a6197f0187bc",
+                  "title": "Creating React Project",
+                  "youtubeId": "Nl54MJDR2p8",
+                  "start": 266,
+                  "stop": 558
+                },
+                {
+                  "id": "188af0f0-caee-5624-9705-a909f8bfa13d",
+                  "title": "Creating our Project Files",
+                  "youtubeId": "Nl54MJDR2p8",
+                  "start": 558,
+                  "stop": 644
+                },
+                {
+                  "id": "e3df34ac-9669-5de6-860b-13696d47a5d3",
+                  "title": "Creating Navbar",
+                  "youtubeId": "Nl54MJDR2p8",
+                  "start": 644,
+                  "stop": 970
+                },
+                {
+                  "id": "bd290c00-430f-5db6-b0c1-2ccc04836c2a",
+                  "title": "Styling Navbar",
+                  "youtubeId": "Nl54MJDR2p8",
+                  "start": 970,
+                  "stop": 2811
+                },
+                {
+                  "id": "3340a223-ddb7-56ac-b9ff-52e3203aef44",
+                  "title": "Creating Sidebar/Dropdown Menu",
+                  "youtubeId": "Nl54MJDR2p8",
+                  "start": 2811,
+                  "stop": 2895
+                },
+                {
+                  "id": "2462f658-d478-5ba9-b68d-dd2f0efbb738",
+                  "title": "Styling Sidebar",
+                  "youtubeId": "Nl54MJDR2p8",
+                  "start": 2895,
+                  "stop": 4042
+                },
+                {
+                  "id": "72bb85b7-b234-5cfe-bc19-7e8a3611167e",
+                  "title": "Creating Home Page",
+                  "youtubeId": "Nl54MJDR2p8",
+                  "start": 4042,
+                  "stop": 4461
+                },
+                {
+                  "id": "b6cc9039-593c-56de-aa93-a59945d4df86",
+                  "title": "Creating Hero Section",
+                  "youtubeId": "Nl54MJDR2p8",
+                  "start": 4461,
+                  "stop": 4615
+                },
+                {
+                  "id": "91bbbde7-5539-5dbb-8547-d84d7b8e0413",
+                  "title": "Styling Hero Section",
+                  "youtubeId": "Nl54MJDR2p8",
+                  "start": 4615,
+                  "stop": 5570
+                },
+                {
+                  "id": "8be5e57f-8876-58a7-9500-285a666d4998",
+                  "title": "Creating Button Element",
+                  "youtubeId": "Nl54MJDR2p8",
+                  "start": 5570,
+                  "stop": 6192
+                },
+                {
+                  "id": "1b140169-cd2f-59de-833e-3d3f4c2562a9",
+                  "title": "Creating Reusable Info Section",
+                  "youtubeId": "Nl54MJDR2p8",
+                  "start": 6192,
+                  "stop": 6442
+                },
+                {
+                  "id": "53f7014b-7d4a-5f24-a1ac-f3481499f843",
+                  "title": "Styling Info Section",
+                  "youtubeId": "Nl54MJDR2p8",
+                  "start": 6442,
+                  "stop": 7568
+                },
+                {
+                  "id": "b178946c-e220-552e-8312-d208a7135292",
+                  "title": "Adding Data to Info Section",
+                  "youtubeId": "Nl54MJDR2p8",
+                  "start": 7568,
+                  "stop": 8323
+                },
+                {
+                  "id": "5daeadf8-8e3f-53f4-9bb4-0448337b93a1",
+                  "title": "Adding Smooth Scroll to Info Section Buttons",
+                  "youtubeId": "Nl54MJDR2p8",
+                  "start": 8323,
+                  "stop": 9198
+                },
+                {
+                  "id": "29fe0c3c-22f7-505f-9077-0f4c144ed6ae",
+                  "title": "Creating Services Section",
+                  "youtubeId": "Nl54MJDR2p8",
+                  "start": 9198,
+                  "stop": 9426
+                },
+                {
+                  "id": "da72f0f3-0ff4-58de-922d-eb359489d1f8",
+                  "title": "Styling Services Section",
+                  "youtubeId": "Nl54MJDR2p8",
+                  "start": 9426,
+                  "stop": 10073
+                },
+                {
+                  "id": "f3ac041f-3a74-5f08-bc24-3de7b1107467",
+                  "title": "Creating Sign In Page",
+                  "youtubeId": "Nl54MJDR2p8",
+                  "start": 10073,
+                  "stop": 10119
+                },
+                {
+                  "id": "79cc3b83-a354-500e-abf2-8d6d0cbed795",
+                  "title": "Adding React Routes to Website",
+                  "youtubeId": "Nl54MJDR2p8",
+                  "start": 10119,
+                  "stop": 10328
+                },
+                {
+                  "id": "6bcff121-559e-5b3a-b749-4a3bda1cd07c",
+                  "title": "Creating Footer",
+                  "youtubeId": "Nl54MJDR2p8",
+                  "start": 10328,
+                  "stop": 10755
+                },
+                {
+                  "id": "959c2245-33d5-5dc7-b999-35e29a5b1c7a",
+                  "title": "Styling Footer",
+                  "youtubeId": "Nl54MJDR2p8",
+                  "start": 10755,
+                  "stop": 12018
+                },
+                {
+                  "id": "89f37e12-f531-5490-8975-46c780037246",
+                  "title": "Changing Navbar background on scroll",
+                  "youtubeId": "Nl54MJDR2p8",
+                  "start": 12018,
+                  "stop": 12292
+                },
+                {
+                  "id": "05ceef93-49dc-5b25-ae85-b0a8238d8d45",
+                  "title": "Adding React Scroll to our site",
+                  "youtubeId": "Nl54MJDR2p8",
+                  "start": 12292,
+                  "stop": 12860
+                },
+                {
+                  "id": "5429353d-c911-5885-919b-48a53e543a75",
+                  "title": "Creating Sign In Component",
+                  "youtubeId": "Nl54MJDR2p8",
+                  "start": 12860,
+                  "stop": 13132
+                },
+                {
+                  "id": "3898997c-d180-531c-81d5-411aa6787585",
+                  "title": "Scroll to Top on Page/Route Change",
+                  "youtubeId": "Nl54MJDR2p8",
+                  "start": 13132,
+                  "stop": 13447
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

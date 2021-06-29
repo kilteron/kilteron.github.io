@@ -1,0 +1,139 @@
+{
+  "id": "362e0e3b-4a59-5d04-9d4f-27f684af0f61",
+  "url": "/alex-braine/javascript/15-projects",
+  "title": "15 projects",
+  "cards": 16,
+  "createdAt": 1591719662,
+  "author": "freeCodeCamp.org",
+  "source": "https://www.youtube.com/watch?v=3PHXvlpOkf4",
+  "youtubeId": "3PHXvlpOkf4",
+  "children": [
+    {
+      "title": "JavaScript",
+      "children": [
+        {
+          "title": "Tutorial",
+          "children": [
+            {
+              "title": "15 projects",
+              "children": [
+                {
+                  "id": "57f3d919-2c54-58a7-820b-fa2ecc601d01",
+                  "title": "Intro",
+                  "youtubeId": "3PHXvlpOkf4",
+                  "start": 0,
+                  "stop": 421
+                },
+                {
+                  "id": "8568b1b6-e436-571d-9481-3ebcbbda4557",
+                  "title": "Color Flipper",
+                  "youtubeId": "3PHXvlpOkf4",
+                  "start": 421,
+                  "stop": 1825
+                },
+                {
+                  "id": "c7b865ed-9b9f-5259-8a37-cca809314e9c",
+                  "title": "Counter",
+                  "youtubeId": "3PHXvlpOkf4",
+                  "start": 1825,
+                  "stop": 2644
+                },
+                {
+                  "id": "456ddc2a-f64b-5c28-bc85-73abb4795650",
+                  "title": "Reviews",
+                  "youtubeId": "3PHXvlpOkf4",
+                  "start": 2644,
+                  "stop": 4289
+                },
+                {
+                  "id": "a8511633-0463-5a85-aacc-08eb463dfd21",
+                  "title": "Navbar",
+                  "youtubeId": "3PHXvlpOkf4",
+                  "start": 4289,
+                  "stop": 5181
+                },
+                {
+                  "id": "cb0deda7-f644-5fdd-82a7-7b2f235740c2",
+                  "title": "Sidebar",
+                  "youtubeId": "3PHXvlpOkf4",
+                  "start": 5181,
+                  "stop": 5943
+                },
+                {
+                  "id": "cee5f0f5-2a68-5cd8-ba34-301e7eee8e1e",
+                  "title": "Modal",
+                  "youtubeId": "3PHXvlpOkf4",
+                  "start": 5943,
+                  "stop": 6506
+                },
+                {
+                  "id": "5118cbf9-27fe-56f4-8445-883da7f8ab0b",
+                  "title": "Questions",
+                  "youtubeId": "3PHXvlpOkf4",
+                  "start": 6506,
+                  "stop": 8185
+                },
+                {
+                  "id": "b9074936-292b-51f5-93c8-0fc0268b0854",
+                  "title": "Menu",
+                  "youtubeId": "3PHXvlpOkf4",
+                  "start": 8185,
+                  "stop": 11773
+                },
+                {
+                  "id": "0f9a30a9-db50-5afa-a714-1e11c0ee476a",
+                  "title": "Video",
+                  "youtubeId": "3PHXvlpOkf4",
+                  "start": 11773,
+                  "stop": 12765
+                },
+                {
+                  "id": "3bcda307-4a21-5cec-b3c8-ade5f6de0c77",
+                  "title": "Scroll",
+                  "youtubeId": "3PHXvlpOkf4",
+                  "start": 12765,
+                  "stop": 16575
+                },
+                {
+                  "id": "6982a38a-b6ce-52e6-bf63-5162db55b2c4",
+                  "title": "Tabs",
+                  "youtubeId": "3PHXvlpOkf4",
+                  "start": 16575,
+                  "stop": 17933
+                },
+                {
+                  "id": "d3b15803-b026-5c2a-9b2d-be693d049e34",
+                  "title": "Countdown",
+                  "youtubeId": "3PHXvlpOkf4",
+                  "start": 17933,
+                  "stop": 21395
+                },
+                {
+                  "id": "0f65a3e2-ad58-5e86-9c28-d340cb9995d4",
+                  "title": "Lorem Ipsum",
+                  "youtubeId": "3PHXvlpOkf4",
+                  "start": 21395,
+                  "stop": 22703
+                },
+                {
+                  "id": "95e363ae-c6e4-54b0-b0b6-54d4863f4f37",
+                  "title": "Grocery",
+                  "youtubeId": "3PHXvlpOkf4",
+                  "start": 22703,
+                  "stop": 28874
+                },
+                {
+                  "id": "59a7f05d-cfa5-5ab9-8cfc-0269285e2bf4",
+                  "title": "Slider",
+                  "youtubeId": "3PHXvlpOkf4",
+                  "start": 28874,
+                  "stop": 30236
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

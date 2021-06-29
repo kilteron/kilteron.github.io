@@ -1,0 +1,251 @@
+{
+  "id": "81a06294-5c28-5188-a066-37f8331ace23",
+  "url": "/alex-braine/react/react-js-crash-course-2021",
+  "title": "React Crash Course 2021",
+  "cards": 32,
+  "createdAt": 1610996471,
+  "author": "Traversy Media",
+  "youtubeId": "w7ejDZ8SWv8",
+  "source": "https://www.youtube.com/watch?v=w7ejDZ8SWv8",
+  "children": [
+    {
+      "title": "React",
+      "children": [
+        {
+          "title": "Course",
+          "children": [
+            {
+              "title": "Crash Course 2021",
+              "children": [
+                {
+                  "id": "45a616b0-1f85-5486-9977-9d6a277fb98e",
+                  "title": "Intro & Slides",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 0,
+                  "stop": 757
+                },
+                {
+                  "id": "12647c60-5599-5cab-88ef-609177ea5a2f",
+                  "title": "Create a React app",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 757,
+                  "stop": 892
+                },
+                {
+                  "id": "2bd601fe-5300-5f1e-a93e-6ddaeeeb5d4a",
+                  "title": "Files & folders",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 892,
+                  "stop": 1134
+                },
+                {
+                  "id": "b6c121f5-1dc7-5fa0-8092-9eef9ebc1e47",
+                  "title": "App component & JSX",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 1134,
+                  "stop": 1359
+                },
+                {
+                  "id": "fe3b8332-1ba5-5afa-9a14-c04a7cd15d23",
+                  "title": "Expressions in JSX",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 1359,
+                  "stop": 1429
+                },
+                {
+                  "id": "b215f9f0-78d0-5867-81be-c6e6727c1a0c",
+                  "title": "Creating a component",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 1429,
+                  "stop": 1638
+                },
+                {
+                  "id": "ac48d57d-db1d-575f-9458-a6d2f6ad8f18",
+                  "title": "Component Props",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 1638,
+                  "stop": 1730
+                },
+                {
+                  "id": "7622053e-7c8d-5fef-8ff2-f2627de107d7",
+                  "title": "PropTypes",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 1730,
+                  "stop": 1842
+                },
+                {
+                  "id": "7994996a-343f-5e24-bcd8-8e4bbf5cec30",
+                  "title": "Styling",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 1842,
+                  "stop": 2057
+                },
+                {
+                  "id": "5f3739d7-200d-587c-9a84-01082d1bf76d",
+                  "title": "Button Component",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 2057,
+                  "stop": 2266
+                },
+                {
+                  "id": "d764040a-1061-52fc-aada-fd947f75fcd9",
+                  "title": "Events",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 2266,
+                  "stop": 2418
+                },
+                {
+                  "id": "b5c368c0-3763-58b3-b191-f2e6b034a75d",
+                  "title": "Tasks Component",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 2418,
+                  "stop": 2463
+                },
+                {
+                  "id": "935d6c9f-cd70-54b7-8c46-bd5e7cbfae05",
+                  "title": "Create a list with .map()",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 2463,
+                  "stop": 2587
+                },
+                {
+                  "id": "4614a47e-069b-556f-916b-8a0faa222165",
+                  "title": "State & useState Hook",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 2587,
+                  "stop": 2695
+                },
+                {
+                  "id": "1875d969-ac7a-5fe4-a58a-4a5fc5201a09",
+                  "title": "Global state",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 2695,
+                  "stop": 2812
+                },
+                {
+                  "id": "b8feef08-fbd0-5814-ac6a-97439da827ad",
+                  "title": "Task Component",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 2812,
+                  "stop": 2970
+                },
+                {
+                  "id": "65265602-1d60-5878-8902-452f3d16724f",
+                  "title": "Icons with react-icons",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 2970,
+                  "stop": 3101
+                },
+                {
+                  "id": "bd204ed1-63d1-5346-b725-75c300af353a",
+                  "title": "Delete task & prop drilling",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 3101,
+                  "stop": 3350
+                },
+                {
+                  "id": "42cc4270-56ca-50d8-bf93-e083a4d4e798",
+                  "title": "Optional message if no tasks",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 3350,
+                  "stop": 3418
+                },
+                {
+                  "id": "2b9a2084-3318-55e0-a98e-9574dfc0a7e2",
+                  "title": "Toggle reminder & conditional styling",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 3418,
+                  "stop": 3793
+                },
+                {
+                  "id": "00b526f8-c840-5f8a-bfa1-8f2ec1c6cd81",
+                  "title": "Add Task Form",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 3793,
+                  "stop": 3976
+                },
+                {
+                  "id": "e530472f-0769-5f99-9558-a9e5918ba194",
+                  "title": "Form input state (controlled components)",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 3976,
+                  "stop": 4158
+                },
+                {
+                  "id": "4e0ffb58-02d2-59e7-988b-737689004f65",
+                  "title": "Add task submit",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 4158,
+                  "stop": 4476
+                },
+                {
+                  "id": "9d154a86-8e0d-51f4-bef5-98901ec14d89",
+                  "title": "showAddTask state",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 4476,
+                  "stop": 4558
+                },
+                {
+                  "id": "cfc42737-5367-5233-a446-2199f1dfe5f7",
+                  "title": "Button toggle",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 4558,
+                  "stop": 4773
+                },
+                {
+                  "id": "0d2ee980-5926-5af0-a5fa-b642fc5330d3",
+                  "title": "Build for production",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 4773,
+                  "stop": 4911
+                },
+                {
+                  "id": "63ff19ad-d12f-593e-92f2-96fabb492d26",
+                  "title": "JSON Server",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 4911,
+                  "stop": 5153
+                },
+                {
+                  "id": "806a0698-5fc8-5051-bf46-82938ccb767f",
+                  "title": "useEffect Hook & Fetch tasks from server",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 5153,
+                  "stop": 5413
+                },
+                {
+                  "id": "a681749b-1fb6-527a-bea1-01fc81c69dfb",
+                  "title": "Delete task from server",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 5413,
+                  "stop": 5511
+                },
+                {
+                  "id": "7b34095d-91d4-59d1-a885-9b1ad375c111",
+                  "title": "Add task to server",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 5511,
+                  "stop": 5715
+                },
+                {
+                  "id": "56082a09-fe61-5659-b83d-3c7517779744",
+                  "title": "Toggle reminder on server",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 5715,
+                  "stop": 5955
+                },
+                {
+                  "id": "febd4c09-ad26-5778-ac02-5cf45bac2b90",
+                  "title": "Routing, footer & about",
+                  "youtubeId": "w7ejDZ8SWv8",
+                  "start": 5955,
+                  "stop": 6527
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

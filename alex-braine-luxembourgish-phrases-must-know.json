@@ -1,0 +1,602 @@
+{
+  "id": "7558d744-67f9-5b5b-a0a5-94f9fa4bef66",
+  "url": "/alex-braine/luxembourgish/phrases-must-know",
+  "title": "Must Know Phrases",
+  "cards": 56,
+  "createdAt": 1555741800,
+  "author": "Luxembourgish with Anne",
+  "youtubeId": "-691msk0CiE",
+  "source": "https://www.youtube.com/watch?v=-691msk0CiE",
+  "children": [
+    {
+      "title": "Luxembourgish",
+      "children": [
+        {
+          "title": "Phrases",
+          "children": [
+            {
+              "title": "Must Know",
+              "children": [
+                {
+                  "title": "Eng",
+                  "children": [
+                    {
+                      "id": "7b47b8c8-a916-5745-8e39-f0918bcc1be6",
+                      "title": "Do you have any plans?",
+                      "description": "Hutt Dir / dir eppes vir?",
+                      "avatar": 3,
+                      "youtubeId": "-691msk0CiE",
+                      "start": "66.9",
+                      "stop": "69.3",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "f1ac385a-5be3-5990-87c9-e7209f6c7e85",
+                      "title": "Do you have any plans? (informal)",
+                      "description": "Hues du (informal) eppes vir?",
+                      "avatar": 3,
+                      "youtubeId": "-691msk0CiE",
+                      "start": "91.1",
+                      "stop": "94.0",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "b9a09d44-71f4-5b35-bc35-561e11ae935f",
+                      "title": "Do you (informal) have any plans for the weekend?",
+                      "description": "Hues du de Weekend eppes vir?",
+                      "avatar": 3,
+                      "youtubeId": "-691msk0CiE",
+                      "start": "119.1",
+                      "stop": "121.5",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "feb938e4-8ccb-5432-9ba1-fb1412bf3d46",
+                      "title": "Do you (plural) have any plans for this evening?",
+                      "description": "Hutt dir den Owend eppes vir?",
+                      "avatar": 3,
+                      "youtubeId": "-691msk0CiE",
+                      "start": "130.7",
+                      "stop": "132.8",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "2dd2e1b2-60ff-580b-b8ee-af471a09d7cc",
+                      "title": "What did you say?",
+                      "description": "Wat hues du (informal) gesot?",
+                      "avatar": 3,
+                      "youtubeId": "-691msk0CiE",
+                      "start": "147.5",
+                      "stop": "148.8",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "ee8a8c84-2672-51d3-b953-e66d72add6dc",
+                      "title": "What did you say? (formal)",
+                      "description": "Wat hutt Dir (formal) gesot?",
+                      "avatar": 3,
+                      "youtubeId": "-691msk0CiE",
+                      "start": "181.2",
+                      "stop": "182.8",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "9bd0966d-9eda-50fc-b653-f72374124788",
+                      "title": "That's a pity",
+                      "description": "Dat ass awer schued",
+                      "avatar": 3,
+                      "youtubeId": "-691msk0CiE",
+                      "start": "204.7",
+                      "stop": "206.9",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "45f79f37-d1eb-5b50-ae08-74ace3c0b065",
+                      "title": "My {+Body part} hurts",
+                      "description": "Ech hunn {+Body part} wéi",
+                      "avatar": 1,
+                      "youtubeId": "-691msk0CiE",
+                      "start": "257.7",
+                      "stop": "261.4",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "5533b90c-9aaa-5d20-a0af-8010514fbfc7",
+                      "title": "My stomach hurts",
+                      "description": "Ech hunn de Bauch wéi",
+                      "avatar": 3,
+                      "youtubeId": "-691msk0CiE",
+                      "start": "271.2",
+                      "stop": "273.1",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "cf979f96-8ee3-5908-896c-7cb176783d2e",
+                      "title": "My back hurts",
+                      "description": "Ech hunn de Réck wéi",
+                      "avatar": 3,
+                      "youtubeId": "-691msk0CiE",
+                      "start": "276.5",
+                      "stop": "277.8",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "6dc4bfc4-c54f-58dd-8ca4-c9309f8e0b84",
+                      "title": "My head hurts",
+                      "description": "Ech hunn de Kapp wéi",
+                      "avatar": 3,
+                      "youtubeId": "-691msk0CiE",
+                      "start": "281.8",
+                      "stop": "283.5",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "0055fcd9-e8ca-50f9-aa00-96002a00bcf3",
+                      "title": "I'm not feeling well",
+                      "description": "Et ass mir net gutt",
+                      "avatar": 3,
+                      "youtubeId": "-691msk0CiE",
+                      "start": "298.6",
+                      "stop": "300.3",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "c66706c6-dcb0-5f0d-9d7d-b0d109dbf77d",
+                      "title": "What does it mean?",
+                      "description": "Wat heescht dat?",
+                      "avatar": 3,
+                      "youtubeId": "-691msk0CiE",
+                      "start": "354.7",
+                      "stop": "357.1",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "e5114c1e-5600-5575-9475-69f1753f1346",
+                      "title": "I need to go to the {+location}",
+                      "description": "Ech muss {+location} goen",
+                      "avatar": 1,
+                      "youtubeId": "-691msk0CiE",
+                      "start": "427.9",
+                      "stop": "432.0",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "fe56df03-b838-5796-b833-6fd32d0a5561",
+                      "title": "I need to go to the bank",
+                      "description": "Ech muss op d'Bank goen",
+                      "avatar": 3,
+                      "youtubeId": "-691msk0CiE",
+                      "start": "438.0",
+                      "stop": "440.8",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "178dad79-31cf-5df2-9f78-de2111ddb72b",
+                      "title": "I need to go to the toilets",
+                      "description": "Ech muss op d'Toilette goen",
+                      "avatar": 3,
+                      "youtubeId": "-691msk0CiE",
+                      "start": "458.9",
+                      "stop": "461.3",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "8d1769d5-1b3d-53bc-9ff9-e21af1d8d389",
+                      "title": "I need to go to the docter",
+                      "description": "Ech muss bei den Dokter goen",
+                      "avatar": 3,
+                      "youtubeId": "-691msk0CiE",
+                      "start": "481.1",
+                      "stop": "483.7",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "6c3ca38b-5d3f-5720-bfac-905e107fa8d0",
+                      "title": "I need {+something}",
+                      "description": "Ech brauch {+something}",
+                      "avatar": 1,
+                      "youtubeId": "-691msk0CiE",
+                      "start": "500.1",
+                      "stop": "503.5",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "1e0b95b4-57f5-52a2-afb9-db923827ca92",
+                      "title": "I need more time",
+                      "description": "Ech brauch méi Zäit",
+                      "avatar": 3,
+                      "youtubeId": "-691msk0CiE",
+                      "start": "516.1",
+                      "stop": "518.2",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "d278295a-b508-53be-a31b-275bb6fc1bf3",
+                      "title": "I need a new coat",
+                      "description": "Ech brauch en neie Mantel",
+                      "avatar": 3,
+                      "youtubeId": "-691msk0CiE",
+                      "start": "529.4",
+                      "stop": "532.1",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "5f094a64-7062-52c2-9da3-6514c9d71e84",
+                      "title": "I will let you know (informal)",
+                      "description": "Ech soen dir Bescheed",
+                      "avatar": 3,
+                      "youtubeId": "-691msk0CiE",
+                      "start": "552.0",
+                      "stop": "554.0",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "73c179aa-5d71-5f85-886d-de22518dc923",
+                      "title": "I'll let you know (formal)",
+                      "description": "Ech soen lech (formal) Bescheed",
+                      "avatar": 3,
+                      "youtubeId": "-691msk0CiE",
+                      "start": "565.1",
+                      "stop": "567.4",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "bf8dfb8e-40b7-514c-a47e-e8e71541f39b",
+                      "title": "Are you comming to my party?",
+                      "description": "Kёnns du op meng Party?",
+                      "avatar": 3,
+                      "youtubeId": "-691msk0CiE",
+                      "start": "579.8",
+                      "stop": "582.2",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "a3fdba73-2255-5390-a22f-d4d5a44c7d3f",
+                      "title": "I'll let you know tomorrow",
+                      "description": "Ech soen dir muer Bescheed",
+                      "avatar": 3,
+                      "youtubeId": "-691msk0CiE",
+                      "start": "590.4",
+                      "stop": "592.7",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "82112421-ddc9-561f-b1a7-4061d566da7b",
+                      "title": "I'll let you know as soon as possible",
+                      "description": "Ech soen dir esou séier wéi méiglech Bescheed",
+                      "avatar": 3,
+                      "youtubeId": "-691msk0CiE",
+                      "start": "606.5",
+                      "stop": "610.1",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "9bd3cf00-a685-5b43-a517-ab3633b93f66",
+                      "title": "At our house / place",
+                      "description": "Bei eis...",
+                      "avatar": 1,
+                      "youtubeId": "-691msk0CiE",
+                      "start": "627.9",
+                      "stop": "629.5",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "3813fdf4-61fb-52d1-843a-b7b30d657131",
+                      "title": "We are always having pancakes on Sundays (at our house)",
+                      "description": "Bei eis gёtt et sonndes ёmmer Paangecher",
+                      "avatar": 3,
+                      "youtubeId": "-691msk0CiE",
+                      "start": "643.9",
+                      "stop": "647.2",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "f1aee3a0-3576-53cc-86c6-0a308514b6a4",
+                      "title": "It is always very quiet in our area on Sundays",
+                      "description": "Bei eis ass et sonndes ёmmer gabz roueg",
+                      "avatar": 3,
+                      "youtubeId": "-691msk0CiE",
+                      "start": "683.9",
+                      "stop": "688.1",
+                      "hideDescription": true
+                    }
+                  ]
+                },
+                {
+                  "title": "Lux",
+                  "children": [
+                    {
+                      "title": "Eng",
+                      "children": [
+                        {
+                          "id": "e96a2084-dd74-556f-ba24-5cc748ff3f52",
+                          "title": "Hutt Dir / dir eppes vir?",
+                          "description": "Do you have any plans?",
+                          "avatar": 3,
+                          "youtubeId": "-691msk0CiE",
+                          "start": "66.9",
+                          "stop": "69.3",
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "c12527dd-959e-5733-b21e-a5880cff847b",
+                          "title": "Hues du (informal) eppes vir?",
+                          "description": "Do you have any plans? (informal)",
+                          "avatar": 3,
+                          "youtubeId": "-691msk0CiE",
+                          "start": "91.1",
+                          "stop": "94.0",
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "805a53c3-e1ff-5035-af03-0af75339121a",
+                          "title": "Hues du de Weekend eppes vir?",
+                          "description": "Do you (informal) have any plans for the weekend?",
+                          "avatar": 3,
+                          "youtubeId": "-691msk0CiE",
+                          "start": "119.1",
+                          "stop": "121.5",
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "cc46850e-10f6-5c80-b4c1-c592544fdb48",
+                          "title": "Hutt dir den Owend eppes vir?",
+                          "description": "Do you (plural) have any plans for this evening?",
+                          "avatar": 3,
+                          "youtubeId": "-691msk0CiE",
+                          "start": "130.7",
+                          "stop": "132.8",
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "11d03f14-d0f9-5c33-aacd-6e9bff1d72c3",
+                          "title": "Wat hues du (informal) gesot?",
+                          "description": "What did you say?",
+                          "avatar": 3,
+                          "youtubeId": "-691msk0CiE",
+                          "start": "147.5",
+                          "stop": "148.8",
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "779fce02-1456-53b3-b7ca-f74464fa9f51",
+                          "title": "Wat hutt Dir (formal) gesot?",
+                          "description": "What did you say? (formal)",
+                          "avatar": 3,
+                          "youtubeId": "-691msk0CiE",
+                          "start": "181.2",
+                          "stop": "182.8",
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "082ae4ef-532b-580a-98ed-1a314f03e226",
+                          "title": "Dat ass awer schued",
+                          "description": "That's a pity",
+                          "avatar": 3,
+                          "youtubeId": "-691msk0CiE",
+                          "start": "204.7",
+                          "stop": "206.9",
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "ba2519ba-b382-5083-ae7a-b806f69568c2",
+                          "title": "Ech hunn {+Body part} wéi",
+                          "description": "My {+Body part} hurts",
+                          "avatar": 1,
+                          "youtubeId": "-691msk0CiE",
+                          "start": "257.7",
+                          "stop": "261.4",
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "04270fc5-3cdc-5413-aecf-e4450d29721a",
+                          "title": "Ech hunn de Bauch wéi",
+                          "description": "My stomach hurts",
+                          "avatar": 3,
+                          "youtubeId": "-691msk0CiE",
+                          "start": "271.2",
+                          "stop": "273.1",
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "bac86faa-850a-5568-8201-b7a46e730762",
+                          "title": "Ech hunn de Réck wéi",
+                          "description": "My back hurts",
+                          "avatar": 3,
+                          "youtubeId": "-691msk0CiE",
+                          "start": "276.5",
+                          "stop": "277.8",
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "2de3e664-79af-552a-8c56-9baa3a7bfaf5",
+                          "title": "Ech hunn de Kapp wéi",
+                          "description": "My head hurts",
+                          "avatar": 3,
+                          "youtubeId": "-691msk0CiE",
+                          "start": "281.8",
+                          "stop": "283.5",
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "c4f8ad7b-8857-5772-aef2-c8e585a5938f",
+                          "title": "Et ass mir net gutt",
+                          "description": "I'm not feeling well",
+                          "avatar": 3,
+                          "youtubeId": "-691msk0CiE",
+                          "start": "298.6",
+                          "stop": "300.3",
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "c8d378f6-9557-5b4d-8bd1-1d832359f560",
+                          "title": "Wat heescht dat?",
+                          "description": "What does it mean?",
+                          "avatar": 3,
+                          "youtubeId": "-691msk0CiE",
+                          "start": "354.7",
+                          "stop": "357.1",
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "206e6707-a0ef-5a96-aae5-b16515dfe642",
+                          "title": "Ech muss {+location} goen",
+                          "description": "I need to go to the {+location}",
+                          "avatar": 1,
+                          "youtubeId": "-691msk0CiE",
+                          "start": "427.9",
+                          "stop": "432.0",
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "33268e01-f077-5f01-8fda-b6bc58fe6013",
+                          "title": "Ech muss op d'Bank goen",
+                          "description": "I need to go to the bank",
+                          "avatar": 3,
+                          "youtubeId": "-691msk0CiE",
+                          "start": "438.0",
+                          "stop": "440.8",
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "07608f93-afa8-5135-a0ad-fc34bff7584d",
+                          "title": "Ech muss op d'Toilette goen",
+                          "description": "I need to go to the toilets",
+                          "avatar": 3,
+                          "youtubeId": "-691msk0CiE",
+                          "start": "458.9",
+                          "stop": "461.3",
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "fc52937f-8cbf-577e-9600-18839529df6e",
+                          "title": "Ech muss bei den Dokter goen",
+                          "description": "I need to go to the docter",
+                          "avatar": 3,
+                          "youtubeId": "-691msk0CiE",
+                          "start": "481.1",
+                          "stop": "483.7",
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "4e29583d-1a52-5d26-bc94-a431dee5bf74",
+                          "title": "Ech brauch {+something}",
+                          "description": "I need {+something}",
+                          "avatar": 1,
+                          "youtubeId": "-691msk0CiE",
+                          "start": "500.1",
+                          "stop": "503.5",
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "2bf2c4db-3ff0-5ce2-a9ed-3a29de6dac54",
+                          "title": "Ech brauch méi Zäit",
+                          "description": "I need more time",
+                          "avatar": 3,
+                          "youtubeId": "-691msk0CiE",
+                          "start": "516.1",
+                          "stop": "518.2",
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "d2a7d4d0-d672-58de-8faf-bc9517f8bad1",
+                          "title": "Ech brauch en neie Mantel",
+                          "description": "I need a new coat",
+                          "avatar": 3,
+                          "youtubeId": "-691msk0CiE",
+                          "start": "529.4",
+                          "stop": "532.1",
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "a4f15b6a-efdf-5d33-8a4c-6d31b6fda0d4",
+                          "title": "Ech soen dir Bescheed",
+                          "description": "I will let you know (informal)",
+                          "avatar": 3,
+                          "youtubeId": "-691msk0CiE",
+                          "start": "552.0",
+                          "stop": "554.0",
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "87d208bf-3d8b-562c-b2f6-553ea7835413",
+                          "title": "Ech soen lech (formal) Bescheed",
+                          "description": "I'll let you know (formal)",
+                          "avatar": 3,
+                          "youtubeId": "-691msk0CiE",
+                          "start": "565.1",
+                          "stop": "567.4",
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "5c2f386f-b28d-5438-8575-dc590d487a8d",
+                          "title": "Kёnns du op meng Party?",
+                          "description": "Are you comming to my party?",
+                          "avatar": 3,
+                          "youtubeId": "-691msk0CiE",
+                          "start": "579.8",
+                          "stop": "582.2",
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "004c61a8-b081-55a5-beb8-e6ad3883ee9c",
+                          "title": "Ech soen dir muer Bescheed",
+                          "description": "I'll let you know tomorrow",
+                          "avatar": 3,
+                          "youtubeId": "-691msk0CiE",
+                          "start": "590.4",
+                          "stop": "592.7",
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "41e6372f-a878-504d-b5ad-129726935960",
+                          "title": "Ech soen dir esou séier wéi méiglech Bescheed",
+                          "description": "I'll let you know as soon as possible",
+                          "avatar": 3,
+                          "youtubeId": "-691msk0CiE",
+                          "start": "606.5",
+                          "stop": "610.1",
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "4b7b554c-3539-5ab8-8b22-d5daa3e2c99a",
+                          "title": "Bei eis...",
+                          "description": "At our house / place",
+                          "avatar": 1,
+                          "youtubeId": "-691msk0CiE",
+                          "start": "627.9",
+                          "stop": "629.5",
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "b9265ab2-6a54-5ed9-8f0e-368e50aa5ad2",
+                          "title": "Bei eis gёtt et sonndes ёmmer Paangecher",
+                          "description": "We are always having pancakes on Sundays (at our house)",
+                          "avatar": 3,
+                          "youtubeId": "-691msk0CiE",
+                          "start": "643.9",
+                          "stop": "647.2",
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "5ee13c7f-4d3f-573b-89ac-1c4fc4435f3d",
+                          "title": "Bei eis ass et sonndes ёmmer gabz roueg",
+                          "description": "It is always very quiet in our area on Sundays",
+                          "avatar": 3,
+                          "youtubeId": "-691msk0CiE",
+                          "start": "683.9",
+                          "stop": "688.1",
+                          "hideTitleAndDescription": true
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

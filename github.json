@@ -1,0 +1,2298 @@
+{
+    "https://github.com/bower/bower": {
+        "stars": 15109,
+        "updatedAt": 1620064134
+    },
+    "https://github.com/componentjs/component": {
+        "stars": 4601,
+        "updatedAt": 1513433416
+    },
+    "https://github.com/spmjs/spm": {
+        "stars": 913,
+        "updatedAt": 1534304118
+    },
+    "https://github.com/caolan/jam": {
+        "stars": 1516,
+        "updatedAt": 1475739052
+    },
+    "https://github.com/jspm/jspm-cli": {
+        "stars": 3744,
+        "updatedAt": 1592647227
+    },
+    "https://github.com/ender-js/Ender": {
+        "stars": 1789,
+        "updatedAt": 1585827748
+    },
+    "https://github.com/volojs/volo": {
+        "stars": 1389,
+        "updatedAt": 1586147200
+    },
+    "https://github.com/duojs/duo": {
+        "stars": 3476,
+        "updatedAt": 1514702440
+    },
+    "https://github.com/teambit/bit": {
+        "stars": 13381,
+        "updatedAt": 1620071748
+    },
+    "https://github.com/requirejs/requirejs": {
+        "stars": 12680,
+        "updatedAt": 1607753359
+    },
+    "https://github.com/substack/node-browserify": {
+        "stars": 13678,
+        "updatedAt": 1616681683
+    },
+    "https://github.com/seajs/seajs": {
+        "stars": 8146,
+        "updatedAt": 1585832660
+    },
+    "https://github.com/headjs/headjs": {
+        "stars": 4194,
+        "updatedAt": 1585832599
+    },
+    "https://github.com/cujojs/curl": {
+        "stars": 1887,
+        "updatedAt": 1556932514
+    },
+    "https://github.com/ded/script.js": {
+        "stars": 2872,
+        "updatedAt": 1586897318
+    },
+    "https://github.com/systemjs/systemjs": {
+        "stars": 11442,
+        "updatedAt": 1619957783
+    },
+    "https://github.com/yanhaijing/lodjs": {
+        "stars": 296,
+        "updatedAt": 1540560831
+    },
+    "https://github.com/ecomfe/esl": {
+        "stars": 821,
+        "updatedAt": 1541745855
+    },
+    "https://github.com/lrsjng/modulejs": {
+        "stars": 119,
+        "updatedAt": 1618872840
+    },
+    "https://github.com/webpack/webpack": {
+        "stars": 58118,
+        "updatedAt": 1620056461
+    },
+    "https://github.com/rollup/rollup": {
+        "stars": 20126,
+        "updatedAt": 1620047379
+    },
+    "https://github.com/brunch/brunch": {
+        "stars": 6767,
+        "updatedAt": 1613603766
+    },
+    "https://github.com/parcel-bundler/parcel": {
+        "stars": 38046,
+        "updatedAt": 1620071670
+    },
+    "https://github.com/developit/microbundle": {
+        "stars": 6042,
+        "updatedAt": 1619293194
+    },
+    "https://github.com/fuse-box/fuse-box": {
+        "stars": 4034,
+        "updatedAt": 1616227494
+    },
+    "https://github.com/getify/TypL": {
+        "stars": 295,
+        "updatedAt": 1594055882
+    },
+    "https://github.com/xodio/hm-def": {
+        "stars": 171,
+        "updatedAt": 1607681874
+    },
+    "https://github.com/mochajs/mocha": {
+        "stars": 20486,
+        "updatedAt": 1619808806
+    },
+    "https://github.com/jasmine/jasmine": {
+        "stars": 15096,
+        "updatedAt": 1619626058
+    },
+    "https://github.com/jquery/qunit": {
+        "stars": 3875,
+        "updatedAt": 1620062408
+    },
+    "https://github.com/facebook/jest": {
+        "stars": 35026,
+        "updatedAt": 1620070361
+    },
+    "https://github.com/azer/prova": {
+        "stars": 333,
+        "updatedAt": 1501345457
+    },
+    "https://github.com/dalekjs/dalek": {
+        "stars": 707,
+        "updatedAt": 1585906783
+    },
+    "https://github.com/angular/protractor": {
+        "stars": 8733,
+        "updatedAt": 1610359997
+    },
+    "https://github.com/substack/tape": {
+        "stars": 5468,
+        "updatedAt": 1614799822
+    },
+    "https://github.com/DevExpress/testcafe": {
+        "stars": 8926,
+        "updatedAt": 1620034095
+    },
+    "https://github.com/avajs/ava": {
+        "stars": 18966,
+        "updatedAt": 1620059079
+    },
+    "https://github.com/chaijs/chai": {
+        "stars": 7231,
+        "updatedAt": 1617730973
+    },
+    "https://github.com/kentcdodds/react-testing-library": {
+        "stars": 14379,
+        "updatedAt": 1619344288
+    },
+    "https://github.com/sinonjs/sinon": {
+        "stars": 8530,
+        "updatedAt": 1620047318
+    },
+    "https://github.com/Automattic/expect.js": {
+        "stars": 2083,
+        "updatedAt": 1615456447
+    },
+    "https://github.com/thlorenz/proxyquire": {
+        "stars": 2609,
+        "updatedAt": 1618976352
+    },
+    "https://github.com/gotwarlost/istanbul": {
+        "stars": 8415,
+        "updatedAt": 1612958716
+    },
+    "https://github.com/alex-seville/blanket": {
+        "stars": 1413,
+        "updatedAt": 1580247476
+    },
+    "https://github.com/tntim96/JSCover": {
+        "stars": 380,
+        "updatedAt": 1619830346
+    },
+    "https://github.com/ariya/phantomjs": {
+        "stars": 28294,
+        "updatedAt": 1594728893
+    },
+    "https://github.com/laurentj/slimerjs": {
+        "stars": 2968,
+        "updatedAt": 1596166825
+    },
+    "https://github.com/casperjs/casperjs": {
+        "stars": 7306,
+        "updatedAt": 1585951040
+    },
+    "https://github.com/assaf/zombie": {
+        "stars": 5536,
+        "updatedAt": 1615463722
+    },
+    "https://github.com/totorojs/totoro": {
+        "stars": 566,
+        "updatedAt": 1586003841
+    },
+    "https://github.com/karma-runner/karma": {
+        "stars": 11489,
+        "updatedAt": 1619565232
+    },
+    "https://github.com/nightwatchjs/nightwatch": {
+        "stars": 10693,
+        "updatedAt": 1620049146
+    },
+    "https://github.com/theintern/intern": {
+        "stars": 4288,
+        "updatedAt": 1615942759
+    },
+    "https://github.com/GoogleChrome/puppeteer": {
+        "stars": 70385,
+        "updatedAt": 1620051879
+    },
+    "https://github.com/webdriverio/webdriverio": {
+        "stars": 6651,
+        "updatedAt": 1620050467
+    },
+    "https://github.com/getgauge/taiko": {
+        "stars": 2745,
+        "updatedAt": 1620049878
+    },
+    "https://github.com/prettier/prettier": {
+        "stars": 39578,
+        "updatedAt": 1620059424
+    },
+    "https://github.com/jscs-dev/node-jscs": {
+        "stars": 5043,
+        "updatedAt": 1497525270
+    },
+    "https://github.com/rdio/jsfmt": {
+        "stars": 1696,
+        "updatedAt": 1586003915
+    },
+    "https://github.com/danielstjules/jsinspect": {
+        "stars": 3282,
+        "updatedAt": 1560848343
+    },
+    "https://github.com/danielstjules/buddy.js": {
+        "stars": 754,
+        "updatedAt": 1573879894
+    },
+    "https://github.com/eslint/eslint": {
+        "stars": 18442,
+        "updatedAt": 1620070867
+    },
+    "https://github.com/douglascrockford/JSLint": {
+        "stars": 3433,
+        "updatedAt": 1604685502
+    },
+    "https://github.com/feross/standard": {
+        "stars": 25416,
+        "updatedAt": 1619422957
+    },
+    "https://github.com/kentcdodds/preval.macro": {
+        "stars": 100,
+        "updatedAt": 1611616607
+    },
+    "https://github.com/beautify-web/js-beautify": {
+        "stars": 7242,
+        "updatedAt": 1620066597
+    },
+    "https://github.com/typicode/husky": {
+        "stars": 22648,
+        "updatedAt": 1619978691
+    },
+    "https://github.com/angular/angular.js": {
+        "stars": 59609,
+        "updatedAt": 1619081386
+    },
+    "https://github.com/angular/angular": {
+        "stars": 72891,
+        "updatedAt": 1620071199
+    },
+    "https://github.com/jashkenas/backbone": {
+        "stars": 27769,
+        "updatedAt": 1589907175
+    },
+    "https://github.com/emberjs/ember.js": {
+        "stars": 21828,
+        "updatedAt": 1620058353
+    },
+    "https://github.com/meteor/meteor": {
+        "stars": 42405,
+        "updatedAt": 1620056245
+    },
+    "https://github.com/ractivejs/ractive": {
+        "stars": 5817,
+        "updatedAt": 1619841924
+    },
+    "https://github.com/vuejs/vue": {
+        "stars": 182825,
+        "updatedAt": 1620055615
+    },
+    "https://github.com/sveltejs/svelte": {
+        "stars": 46676,
+        "updatedAt": 1620071805
+    },
+    "https://github.com/knockout/knockout": {
+        "stars": 9971,
+        "updatedAt": 1618919378
+    },
+    "https://github.com/spine/spine": {
+        "stars": 3567,
+        "updatedAt": 1586042446
+    },
+    "https://github.com/techlayer/espresso.js": {
+        "stars": 519,
+        "updatedAt": 1605207650
+    },
+    "https://github.com/canjs/canjs": {
+        "stars": 1862,
+        "updatedAt": 1609258549
+    },
+    "https://github.com/hyperapp/hyperapp": {
+        "stars": 18515,
+        "updatedAt": 1619975430
+    },
+    "https://github.com/developit/preact": {
+        "stars": 28993,
+        "updatedAt": 1619971765
+    },
+    "https://github.com/NativeScript/NativeScript": {
+        "stars": 20066,
+        "updatedAt": 1619975498
+    },
+    "https://github.com/facebook/react-native": {
+        "stars": 95136,
+        "updatedAt": 1620067811
+    },
+    "https://github.com/riot/riot": {
+        "stars": 14508,
+        "updatedAt": 1618301515
+    },
+    "https://github.com/walmartlabs/thorax": {
+        "stars": 1338,
+        "updatedAt": 1616103160
+    },
+    "https://github.com/chaplinjs/chaplin": {
+        "stars": 2891,
+        "updatedAt": 1612310849
+    },
+    "https://github.com/marionettejs/backbone.marionette": {
+        "stars": 7123,
+        "updatedAt": 1617118873
+    },
+    "https://github.com/ripplejs/ripple": {
+        "stars": 1282,
+        "updatedAt": 1406679352
+    },
+    "https://github.com/mikeric/rivets": {
+        "stars": 3214,
+        "updatedAt": 1586202554
+    },
+    "https://github.com/derbyjs/derby": {
+        "stars": 4594,
+        "updatedAt": 1612902728
+    },
+    "https://github.com/russll/awesome-derby": {
+        "stars": 11,
+        "updatedAt": 1409063846
+    },
+    "https://github.com/gwendall/way.js": {
+        "stars": 2893,
+        "updatedAt": 1586251436
+    },
+    "https://github.com/lhorie/mithril.js": {
+        "stars": 12671,
+        "updatedAt": 1619965772
+    },
+    "https://github.com/astoilkov/jsblocks": {
+        "stars": 2797,
+        "updatedAt": 1582035122
+    },
+    "https://github.com/feathersjs/feathers": {
+        "stars": 13332,
+        "updatedAt": 1620040826
+    },
+    "https://github.com/Wildhoney/Keo": {
+        "stars": 224,
+        "updatedAt": 1609821851
+    },
+    "https://github.com/emadalam/atvjs": {
+        "stars": 263,
+        "updatedAt": 1586287866
+    },
+    "https://github.com/alpinejs/alpine": {
+        "stars": 15855,
+        "updatedAt": 1619790742
+    },
+    "https://github.com/infernojs/inferno": {
+        "stars": 14838,
+        "updatedAt": 1619508260
+    },
+    "https://github.com/aidenybai/lucia": {
+        "stars": 471,
+        "updatedAt": 1620056204
+    },
+    "https://github.com/keystonejs/keystone": {
+        "stars": 3866,
+        "updatedAt": 1620068248
+    },
+    "https://github.com/reactioncommerce/reaction": {
+        "stars": 11257,
+        "updatedAt": 1612988173
+    },
+    "https://github.com/tryghost/Ghost": {
+        "stars": 37325,
+        "updatedAt": 1620061876
+    },
+    "https://github.com/punkave/apostrophe": {
+        "stars": 3517,
+        "updatedAt": 1620072033
+    },
+    "https://github.com/inventures/hatchjs": {
+        "stars": 72,
+        "updatedAt": 1586291403
+    },
+    "https://github.com/nodize/nodizecms": {
+        "stars": 177,
+        "updatedAt": 1366270758
+    },
+    "https://github.com/jcoppieters/cody": {
+        "stars": 667,
+        "updatedAt": 1586292681
+    },
+    "https://github.com/strapi/strapi": {
+        "stars": 36234,
+        "updatedAt": 1620067489
+    },
+    "https://github.com/fiction-com/factor": {
+        "stars": 1160,
+        "updatedAt": 1618870649
+    },
+    "https://github.com/janl/mustache.js": {
+        "stars": 14595,
+        "updatedAt": 1619527552
+    },
+    "https://github.com/twitter/hogan.js": {
+        "stars": 5102,
+        "updatedAt": 1599640950
+    },
+    "https://github.com/olado/doT": {
+        "stars": 4694,
+        "updatedAt": 1619711898
+    },
+    "https://github.com/blueimp/JavaScript-Templates": {
+        "stars": 1642,
+        "updatedAt": 1601623306
+    },
+    "https://github.com/jasonmoo/t.js": {
+        "stars": 799,
+        "updatedAt": 1558545474
+    },
+    "https://github.com/pugjs/pug": {
+        "stars": 20105,
+        "updatedAt": 1614810395
+    },
+    "https://github.com/mde/ejs": {
+        "stars": 5409,
+        "updatedAt": 1617226993
+    },
+    "https://github.com/xtemplate/xtemplate": {
+        "stars": 541,
+        "updatedAt": 1586377325
+    },
+    "https://github.com/marko-js/marko": {
+        "stars": 10234,
+        "updatedAt": 1619815534
+    },
+    "https://github.com/paularmstrong/swig": {
+        "stars": 3135,
+        "updatedAt": 1497319590
+    },
+    "https://github.com/Guseyn/EHTML": {
+        "stars": 161,
+        "updatedAt": 1617120769
+    },
+    "https://github.com/d3/d3": {
+        "stars": 96710,
+        "updatedAt": 1618531959
+    },
+    "https://github.com/mozilla/metrics-graphics": {
+        "stars": 7382,
+        "updatedAt": 1613732028
+    },
+    "https://github.com/mrdoob/three.js": {
+        "stars": 70230,
+        "updatedAt": 1620067225
+    },
+    "https://github.com/chartjs/Chart.js": {
+        "stars": 53470,
+        "updatedAt": 1619972968
+    },
+    "https://github.com/paperjs/paper.js": {
+        "stars": 12394,
+        "updatedAt": 1617105969
+    },
+    "https://github.com/kangax/fabric.js": {
+        "stars": 18541,
+        "updatedAt": 1620017224
+    },
+    "https://github.com/benpickles/peity": {
+        "stars": 4195,
+        "updatedAt": 1580548728
+    },
+    "https://github.com/DmitryBaranovskiy/raphael": {
+        "stars": 10879,
+        "updatedAt": 1614761042
+    },
+    "https://github.com/apache/echarts": {
+        "stars": 46223,
+        "updatedAt": 1619956001
+    },
+    "https://github.com/almende/vis": {
+        "stars": 7947,
+        "updatedAt": 1564339732
+    },
+    "https://github.com/jonobr1/two.js": {
+        "stars": 7106,
+        "updatedAt": 1619534116
+    },
+    "https://github.com/DmitryBaranovskiy/g.raphael": {
+        "stars": 1523,
+        "updatedAt": 1453308493
+    },
+    "https://github.com/jacomyal/sigma.js": {
+        "stars": 9371,
+        "updatedAt": 1619781700
+    },
+    "https://github.com/samizdatco/arbor": {
+        "stars": 2574,
+        "updatedAt": 1586557462
+    },
+    "https://github.com/square/cubism": {
+        "stars": 4904,
+        "updatedAt": 1566945364
+    },
+    "https://github.com/dc-js/dc.js": {
+        "stars": 7215,
+        "updatedAt": 1617898702
+    },
+    "https://github.com/trifacta/vega": {
+        "stars": 27,
+        "updatedAt": 1447371022
+    },
+    "https://github.com/HumbleSoftware/envisionjs": {
+        "stars": 1566,
+        "updatedAt": 1586557751
+    },
+    "https://github.com/shutterstock/rickshaw": {
+        "stars": 6495,
+        "updatedAt": 1619307033
+    },
+    "https://github.com/flot/flot": {
+        "stars": 5904,
+        "updatedAt": 1617122804
+    },
+    "https://github.com/morrisjs/morris.js": {
+        "stars": 6976,
+        "updatedAt": 1613904345
+    },
+    "https://github.com/novus/nvd3": {
+        "stars": 7110,
+        "updatedAt": 1586560942
+    },
+    "https://github.com/wout/svg.js": {
+        "stars": 8799,
+        "updatedAt": 1620060329
+    },
+    "https://github.com/pa7/heatmap.js": {
+        "stars": 5510,
+        "updatedAt": 1610460672
+    },
+    "https://github.com/gwatts/jquery.sparkline": {
+        "stars": 1222,
+        "updatedAt": 1586561083
+    },
+    "https://github.com/qrohlf/trianglify": {
+        "stars": 9675,
+        "updatedAt": 1617237900
+    },
+    "https://github.com/jasondavies/d3-cloud": {
+        "stars": 3371,
+        "updatedAt": 1601529338
+    },
+    "https://github.com/heavysixer/d4": {
+        "stars": 430,
+        "updatedAt": 1586638420
+    },
+    "https://github.com/gionkunz/chartist-js": {
+        "stars": 12565,
+        "updatedAt": 1619668892
+    },
+    "https://github.com/epochjs/epoch": {
+        "stars": 5001,
+        "updatedAt": 1550133502
+    },
+    "https://github.com/c3js/c3": {
+        "stars": 9060,
+        "updatedAt": 1618546388
+    },
+    "https://github.com/BabylonJS/Babylon.js": {
+        "stars": 13922,
+        "updatedAt": 1620071365
+    },
+    "https://github.com/recharts/recharts": {
+        "stars": 16263,
+        "updatedAt": 1618885917
+    },
+    "https://github.com/AnyChart/GraphicsJS": {
+        "stars": 940,
+        "updatedAt": 1604566708
+    },
+    "https://github.com/jgraph/mxgraph": {
+        "stars": 6075,
+        "updatedAt": 1605258295
+    },
+    "https://github.com/frappe/charts": {
+        "stars": 13857,
+        "updatedAt": 1620049546
+    },
+    "https://github.com/frappe/gantt": {
+        "stars": 2300,
+        "updatedAt": 1617127390
+    },
+    "https://github.com/antvis/G2": {
+        "stars": 10636,
+        "updatedAt": 1619754113
+    },
+    "https://github.com/antvis/G2Plot": {
+        "stars": 1814,
+        "updatedAt": 1620056208
+    },
+    "https://github.com/NUKnightLab/TimelineJS3": {
+        "stars": 2230,
+        "updatedAt": 1618944118
+    },
+    "https://github.com/sbstjn/timesheet.js": {
+        "stars": 6837,
+        "updatedAt": 1527198005
+    },
+    "https://github.com/handsontable/handsontable": {
+        "stars": 15097,
+        "updatedAt": 1619790489
+    },
+    "https://github.com/frappe/datatable": {
+        "stars": 614,
+        "updatedAt": 1619812442
+    },
+    "https://github.com/mengshukeji/Luckysheet": {
+        "stars": 7871,
+        "updatedAt": 1619522496
+    },
+    "https://github.com/ajaxorg/ace": {
+        "stars": 22982,
+        "updatedAt": 1619706159
+    },
+    "https://github.com/codemirror/CodeMirror": {
+        "stars": 22637,
+        "updatedAt": 1619958838
+    },
+    "https://github.com/ariya/esprima": {
+        "stars": 375,
+        "updatedAt": 1591855385
+    },
+    "https://github.com/quilljs/quill": {
+        "stars": 29732,
+        "updatedAt": 1618405150
+    },
+    "https://github.com/yabwe/medium-editor": {
+        "stars": 15142,
+        "updatedAt": 1617002962
+    },
+    "https://github.com/sofish/pen": {
+        "stars": 4721,
+        "updatedAt": 1537712824
+    },
+    "https://github.com/raphaelcruzeiro/jquery-notebook": {
+        "stars": 1706,
+        "updatedAt": 1586809210
+    },
+    "https://github.com/mindmup/bootstrap-wysiwyg": {
+        "stars": 5632,
+        "updatedAt": 1542346552
+    },
+    "https://github.com/ckeditor/ckeditor-releases": {
+        "stars": 509,
+        "updatedAt": 1611736144
+    },
+    "https://github.com/lepture/editor": {
+        "stars": 2718,
+        "updatedAt": 1507517885
+    },
+    "https://github.com/OscarGodson/EpicEditor": {
+        "stars": 4306,
+        "updatedAt": 1586809718
+    },
+    "https://github.com/josdejong/jsoneditor": {
+        "stars": 8533,
+        "updatedAt": 1619731131
+    },
+    "https://github.com/coolwanglu/vim.js": {
+        "stars": 4413,
+        "updatedAt": 1463044088
+    },
+    "https://github.com/neilj/Squire": {
+        "stars": 4270,
+        "updatedAt": 1617842299
+    },
+    "https://github.com/tinymce/tinymce": {
+        "stars": 9382,
+        "updatedAt": 1620053885
+    },
+    "https://github.com/basecamp/trix": {
+        "stars": 16155,
+        "updatedAt": 1619446377
+    },
+    "https://github.com/Alex-D/Trumbowyg": {
+        "stars": 3536,
+        "updatedAt": 1618416313
+    },
+    "https://github.com/facebook/draft-js": {
+        "stars": 20229,
+        "updatedAt": 1620048897
+    },
+    "https://github.com/jhollingworth/bootstrap-wysihtml5": {
+        "stars": 4191,
+        "updatedAt": 1586895236
+    },
+    "https://github.com/xing/wysihtml5": {
+        "stars": 6576,
+        "updatedAt": 1459602496
+    },
+    "https://github.com/PANmedia/raptor-editor": {
+        "stars": 527,
+        "updatedAt": 1586982289
+    },
+    "https://github.com/kenshin54/popline": {
+        "stars": 1044,
+        "updatedAt": 1587642529
+    },
+    "https://github.com/summernote/summernote": {
+        "stars": 10165,
+        "updatedAt": 1620043557
+    },
+    "https://github.com/rtomayko/ronn": {
+        "stars": 1241,
+        "updatedAt": 1612802000
+    },
+    "https://github.com/tj/dox": {
+        "stars": 2135,
+        "updatedAt": 1587068846
+    },
+    "https://github.com/sutoiku/jsdox": {
+        "stars": 205,
+        "updatedAt": 1572647748
+    },
+    "https://github.com/esdoc/esdoc": {
+        "stars": 2673,
+        "updatedAt": 1599181076
+    },
+    "https://github.com/senchalabs/jsduck": {
+        "stars": 1514,
+        "updatedAt": 1587073028
+    },
+    "https://github.com/Bogdan-Lyashenko/codecrumbs": {
+        "stars": 2485,
+        "updatedAt": 1619971636
+    },
+    "https://github.com/mholt/PapaParse": {
+        "stars": 9651,
+        "updatedAt": 1618899902
+    },
+    "https://github.com/jDataView/jBinary": {
+        "stars": 495,
+        "updatedAt": 1619539468
+    },
+    "https://github.com/rtfpessoa/diff2html": {
+        "stars": 1663,
+        "updatedAt": 1617890603
+    },
+    "https://github.com/MrRio/jsPDF": {
+        "stars": 21889,
+        "updatedAt": 1620035531
+    },
+    "https://github.com/mozilla/pdf.js": {
+        "stars": 34740,
+        "updatedAt": 1620061871
+    },
+    "https://github.com/jashkenas/underscore": {
+        "stars": 25926,
+        "updatedAt": 1618492993
+    },
+    "https://github.com/lodash/lodash": {
+        "stars": 49230,
+        "updatedAt": 1619772768
+    },
+    "https://github.com/andrewplummer/Sugar": {
+        "stars": 4436,
+        "updatedAt": 1609942975
+    },
+    "https://github.com/dtao/lazy.js": {
+        "stars": 5967,
+        "updatedAt": 1594843953
+    },
+    "https://github.com/CrossEye/ramda": {
+        "stars": 54,
+        "updatedAt": 1616608319
+    },
+    "https://github.com/mout/mout": {
+        "stars": 1228,
+        "updatedAt": 1617079611
+    },
+    "https://github.com/crcn/mesh.js": {
+        "stars": 1020,
+        "updatedAt": 1545496101
+    },
+    "https://github.com/alanrsoares/prelude-js": {
+        "stars": 83,
+        "updatedAt": 1587338362
+    },
+    "https://github.com/selfrefactor/rambda": {
+        "stars": 1089,
+        "updatedAt": 1616626420
+    },
+    "https://github.com/ReactiveX/rxjs": {
+        "stars": 24690,
+        "updatedAt": 1620046993
+    },
+    "https://github.com/baconjs/bacon.js": {
+        "stars": 6337,
+        "updatedAt": 1619330981
+    },
+    "https://github.com/pozadi/kefir": {
+        "stars": 7,
+        "updatedAt": 1455485788
+    },
+    "https://github.com/cujojs/most": {
+        "stars": 3359,
+        "updatedAt": 1611232078
+    },
+    "https://github.com/mobxjs/mobx": {
+        "stars": 23651,
+        "updatedAt": 1619706808
+    },
+    "https://github.com/concentjs/concent": {
+        "stars": 911,
+        "updatedAt": 1618803306
+    },
+    "https://github.com/facebook/immutable-js": {
+        "stars": 30965,
+        "updatedAt": 1619428849
+    },
+    "https://github.com/swannodette/mori": {
+        "stars": 3319,
+        "updatedAt": 1587326399
+    },
+    "https://github.com/mauriciosantos/Buckets-JS": {
+        "stars": 1147,
+        "updatedAt": 1608593848
+    },
+    "https://github.com/flesler/hashmap": {
+        "stars": 363,
+        "updatedAt": 1613790608
+    },
+    "https://github.com/moment/moment": {
+        "stars": 45598,
+        "updatedAt": 1619491768
+    },
+    "https://github.com/moment/moment-timezone": {
+        "stars": 3586,
+        "updatedAt": 1617692115
+    },
+    "https://github.com/rmm5t/jquery-timeago": {
+        "stars": 3817,
+        "updatedAt": 1604321217
+    },
+    "https://github.com/mde/timezone-js": {
+        "stars": 829,
+        "updatedAt": 1498333921
+    },
+    "https://github.com/MatthewMueller/date": {
+        "stars": 1437,
+        "updatedAt": 1587503154
+    },
+    "https://github.com/rauchg/ms.js": {
+        "stars": 3442,
+        "updatedAt": 1616570341
+    },
+    "https://github.com/gumroad/countdown.js": {
+        "stars": 387,
+        "updatedAt": 1379776137
+    },
+    "https://github.com/hustcc/timeago.js": {
+        "stars": 4376,
+        "updatedAt": 1615561138
+    },
+    "https://github.com/taylorhakes/fecha": {
+        "stars": 1917,
+        "updatedAt": 1617640080
+    },
+    "https://github.com/date-fns/date-fns": {
+        "stars": 25771,
+        "updatedAt": 1620037460
+    },
+    "https://github.com/dawidjaniga/map-countdown": {
+        "stars": 2,
+        "updatedAt": 1619758732
+    },
+    "https://github.com/iamkun/dayjs": {
+        "stars": 34799,
+        "updatedAt": 1620004702
+    },
+    "https://github.com/moment/luxon": {
+        "stars": 11073,
+        "updatedAt": 1619928009
+    },
+    "https://github.com/panzerdp/voca": {
+        "stars": 3287,
+        "updatedAt": 1608213691
+    },
+    "https://github.com/EvandroLG/selecting": {
+        "stars": 78,
+        "updatedAt": 1445540237
+    },
+    "https://github.com/epeli/underscore.string": {
+        "stars": 3344,
+        "updatedAt": 1610713677
+    },
+    "https://github.com/jprichardson/string.js": {
+        "stars": 1732,
+        "updatedAt": 1603395344
+    },
+    "https://github.com/mathiasbynens/he": {
+        "stars": 2820,
+        "updatedAt": 1610188299
+    },
+    "https://github.com/sindresorhus/multiline": {
+        "stars": 1428,
+        "updatedAt": 1611423732
+    },
+    "https://github.com/sindresorhus/query-string": {
+        "stars": 5459,
+        "updatedAt": 1616068489
+    },
+    "https://github.com/Mikhus/domurl": {
+        "stars": 491,
+        "updatedAt": 1604575394
+    },
+    "https://github.com/alexei/sprintf.js": {
+        "stars": 1943,
+        "updatedAt": 1618902299
+    },
+    "https://github.com/snd/url-pattern": {
+        "stars": 525,
+        "updatedAt": 1596703394
+    },
+    "https://github.com/plexis-js/plexis": {
+        "stars": 137,
+        "updatedAt": 1619777739
+    },
+    "https://github.com/adamwdraper/Numeral-js": {
+        "stars": 8784,
+        "updatedAt": 1613997380
+    },
+    "https://github.com/chancejs/chancejs": {
+        "stars": 5534,
+        "updatedAt": 1617131553
+    },
+    "https://github.com/HubSpot/odometer": {
+        "stars": 7088,
+        "updatedAt": 1530327711
+    },
+    "https://github.com/josscrowcroft/accounting.js": {
+        "stars": 31,
+        "updatedAt": 1476785773
+    },
+    "https://github.com/josscrowcroft/money.js": {
+        "stars": 9,
+        "updatedAt": 1405437222
+    },
+    "https://github.com/infusion/Fraction.js": {
+        "stars": 315,
+        "updatedAt": 1618084046
+    },
+    "https://github.com/infusion/Complex.js": {
+        "stars": 169,
+        "updatedAt": 1614455880
+    },
+    "https://github.com/infusion/Polynomial.js": {
+        "stars": 88,
+        "updatedAt": 1600897225
+    },
+    "https://github.com/infusion/Quaternion.js": {
+        "stars": 60,
+        "updatedAt": 1619358965
+    },
+    "https://github.com/marcuswestin/store.js": {
+        "stars": 13446,
+        "updatedAt": 1615257588
+    },
+    "https://github.com/mozilla/localForage": {
+        "stars": 18891,
+        "updatedAt": 1617766125
+    },
+    "https://github.com/andris9/jStorage": {
+        "stars": 1533,
+        "updatedAt": 1589665608
+    },
+    "https://github.com/zendesk/cross-storage": {
+        "stars": 2010,
+        "updatedAt": 1539162000
+    },
+    "https://github.com/addyosmani/basket.js": {
+        "stars": 3362,
+        "updatedAt": 1592071351
+    },
+    "https://github.com/nodeca/bag.js": {
+        "stars": 78,
+        "updatedAt": 1589665985
+    },
+    "https://github.com/Wisembly/basil.js": {
+        "stars": 1952,
+        "updatedAt": 1617178136
+    },
+    "https://github.com/carhartl/jquery-cookie": {
+        "stars": 8674,
+        "updatedAt": 1497861882
+    },
+    "https://github.com/js-cookie/js-cookie": {
+        "stars": 17474,
+        "updatedAt": 1601830280
+    },
+    "https://github.com/ScottHamper/Cookies": {
+        "stars": 1779,
+        "updatedAt": 1589665786
+    },
+    "https://github.com/kripken/sql.js": {
+        "stars": 55,
+        "updatedAt": 1583820506
+    },
+    "https://github.com/nirtz89/crumbsjs": {
+        "stars": 229,
+        "updatedAt": 1619262750
+    },
+    "https://github.com/softvar/awesome-web-storage": {
+        "stars": 370,
+        "updatedAt": 1573918052
+    },
+    "https://github.com/davidmerfield/randomColor": {
+        "stars": 5591,
+        "updatedAt": 1615295327
+    },
+    "https://github.com/gka/chroma.js": {
+        "stars": 7913,
+        "updatedAt": 1618008085
+    },
+    "https://github.com/Qix-/color": {
+        "stars": 3653,
+        "updatedAt": 1617910287
+    },
+    "https://github.com/mrmrs/colors": {
+        "stars": 8900,
+        "updatedAt": 1592710783
+    },
+    "https://github.com/Fooidge/PleaseJS": {
+        "stars": 2252,
+        "updatedAt": 1535748919
+    },
+    "https://github.com/bgrins/TinyColor": {
+        "stars": 3821,
+        "updatedAt": 1618231226
+    },
+    "https://github.com/i18next/i18next": {
+        "stars": 5601,
+        "updatedAt": 1619465601
+    },
+    "https://github.com/airbnb/polyglot.js": {
+        "stars": 3418,
+        "updatedAt": 1612380764
+    },
+    "https://github.com/ttag-org/ttag": {
+        "stars": 252,
+        "updatedAt": 1617114821
+    },
+    "https://github.com/caolan/async": {
+        "stars": 27080,
+        "updatedAt": 1609309954
+    },
+    "https://github.com/kriskowal/q": {
+        "stars": 14938,
+        "updatedAt": 1589838610
+    },
+    "https://github.com/cujojs/when": {
+        "stars": 3440,
+        "updatedAt": 1610730792
+    },
+    "https://github.com/gartz/ObjectEventTarget": {
+        "stars": 8,
+        "updatedAt": 1591944068
+    },
+    "https://github.com/marcoonroad/sporadic": {
+        "stars": 12,
+        "updatedAt": 1617234855
+    },
+    "https://github.com/flatiron/director": {
+        "stars": 5582,
+        "updatedAt": 1609011557
+    },
+    "https://github.com/visionmedia/page.js": {
+        "stars": 7321,
+        "updatedAt": 1611452801
+    },
+    "https://github.com/mtrpcic/pathjs": {
+        "stars": 1087,
+        "updatedAt": 1488117371
+    },
+    "https://github.com/millermedeiros/crossroads.js": {
+        "stars": 1440,
+        "updatedAt": 1481591961
+    },
+    "https://github.com/olivernn/davis.js": {
+        "stars": 535,
+        "updatedAt": 1598906340
+    },
+    "https://github.com/lukeed/navaid": {
+        "stars": 655,
+        "updatedAt": 1602027745
+    },
+    "https://github.com/cure53/DOMPurify": {
+        "stars": 7020,
+        "updatedAt": 1619597172
+    },
+    "https://github.com/leizongmin/js-xss": {
+        "stars": 4028,
+        "updatedAt": 1614339061
+    },
+    "https://github.com/yahoo/xss-filters": {
+        "stars": 1033,
+        "updatedAt": 1473710626
+    },
+    "https://github.com/apostrophecms/sanitize-html": {
+        "stars": 2545,
+        "updatedAt": 1619877367
+    },
+    "https://github.com/adamschwartz/log": {
+        "stars": 2757,
+        "updatedAt": 1587681829
+    },
+    "https://github.com/Oaxoa/Conzole": {
+        "stars": 201,
+        "updatedAt": 1464781722
+    },
+    "https://github.com/patik/console.log-wrapper": {
+        "stars": 404,
+        "updatedAt": 1484935053
+    },
+    "https://github.com/pimterry/loglevel": {
+        "stars": 1995,
+        "updatedAt": 1606305350
+    },
+    "https://github.com/TalAter/annyang": {
+        "stars": 6052,
+        "updatedAt": 1616766905
+    },
+    "https://github.com/pazguille/voix": {
+        "stars": 536,
+        "updatedAt": 1599077781
+    },
+    "https://github.com/axios/axios": {
+        "stars": 83897,
+        "updatedAt": 1619995652
+    },
+    "https://github.com/SGrondin/bottleneck": {
+        "stars": 1136,
+        "updatedAt": 1619540095
+    },
+    "https://github.com/bettiolo/oauth-signature-js": {
+        "stars": 225,
+        "updatedAt": 1512661154
+    },
+    "https://github.com/lincolnloop/amygdala": {
+        "stars": 393,
+        "updatedAt": 1494645544
+    },
+    "https://github.com/jpillora/jquery.rest": {
+        "stars": 616,
+        "updatedAt": 1599077983
+    },
+    "https://github.com/victor-am/rails-ranger": {
+        "stars": 33,
+        "updatedAt": 1610009414
+    },
+    "https://github.com/elbywan/wretch": {
+        "stars": 2178,
+        "updatedAt": 1617035037
+    },
+    "https://github.com/Bearer/bearer-js": {
+        "stars": 17,
+        "updatedAt": 1597053472
+    },
+    "https://github.com/WebsiteBeaver/far-fetch": {
+        "stars": 48,
+        "updatedAt": 1610671302
+    },
+    "https://github.com/opticdev/optic": {
+        "stars": 800,
+        "updatedAt": 1620071136
+    },
+    "https://github.com/vercel/swr": {
+        "stars": 16939,
+        "updatedAt": 1620061010
+    },
+    "https://github.com/tannerlinsley/react-query": {
+        "stars": 19701,
+        "updatedAt": 1619971713
+    },
+    "https://github.com/zalando/tailor": {
+        "stars": 1544,
+        "updatedAt": 1618821346
+    },
+    "https://github.com/eduardolundgren/tracking.js": {
+        "stars": 8774,
+        "updatedAt": 1611121909
+    },
+    "https://github.com/antimatter15/ocrad.js": {
+        "stars": 3294,
+        "updatedAt": 1599078894
+    },
+    "https://github.com/karpathy/convnetjs": {
+        "stars": 10173,
+        "updatedAt": 1614058760
+    },
+    "https://github.com/dn2a/dn2a-javascript": {
+        "stars": 463,
+        "updatedAt": 1619804223
+    },
+    "https://github.com/harthur/brain": {
+        "stars": 8035,
+        "updatedAt": 1599164429
+    },
+    "https://github.com/stevenmiller888/mind": {
+        "stars": 1435,
+        "updatedAt": 1499388200
+    },
+    "https://github.com/cazala/synaptic": {
+        "stars": 6751,
+        "updatedAt": 1599164673
+    },
+    "https://github.com/mrdimosthenis/Synapses": {
+        "stars": 47,
+        "updatedAt": 1617013166
+    },
+    "https://github.com/ded/bowser": {
+        "stars": 4824,
+        "updatedAt": 1619744759
+    },
+    "https://github.com/bestiejs/benchmark.js": {
+        "stars": 4877,
+        "updatedAt": 1617232993
+    },
+    "https://github.com/logicalparadox/matcha": {
+        "stars": 544,
+        "updatedAt": 1599254812
+    },
+    "https://github.com/isagalaev/highlight.js": {
+        "stars": 18338,
+        "updatedAt": 1619963628
+    },
+    "https://github.com/PrismJS/prism": {
+        "stars": 9117,
+        "updatedAt": 1620048355
+    },
+    "https://github.com/lightningtgc/MProgress.js": {
+        "stars": 1553,
+        "updatedAt": 1599255569
+    },
+    "https://github.com/fgnass/spin.js": {
+        "stars": 9351,
+        "updatedAt": 1605653192
+    },
+    "https://github.com/usablica/progress.js": {
+        "stars": 2367,
+        "updatedAt": 1441037962
+    },
+    "https://github.com/kimmobrunfeldt/progressbar.js": {
+        "stars": 7399,
+        "updatedAt": 1617161415
+    },
+    "https://github.com/HubSpot/pace": {
+        "stars": 15262,
+        "updatedAt": 1616627892
+    },
+    "https://github.com/buunguyen/topbar": {
+        "stars": 264,
+        "updatedAt": 1610001711
+    },
+    "https://github.com/jacoborus/nanobar": {
+        "stars": 2826,
+        "updatedAt": 1583082694
+    },
+    "https://github.com/codrops/PageLoadingEffects": {
+        "stars": 622,
+        "updatedAt": 1398240498
+    },
+    "https://github.com/tobiasahlin/SpinKit": {
+        "stars": 18041,
+        "updatedAt": 1596272699
+    },
+    "https://github.com/hakimel/Ladda": {
+        "stars": 7721,
+        "updatedAt": 1609531870
+    },
+    "https://github.com/lukehaas/css-loaders": {
+        "stars": 6698,
+        "updatedAt": 1590344867
+    },
+    "https://github.com/guillaumepotier/Parsley.js": {
+        "stars": 9002,
+        "updatedAt": 1614442833
+    },
+    "https://github.com/jzaefferer/jquery-validation": {
+        "stars": 10054,
+        "updatedAt": 1610565816
+    },
+    "https://github.com/chriso/validator.js": {
+        "stars": 17520,
+        "updatedAt": 1619971083
+    },
+    "https://github.com/rickharrison/validate.js": {
+        "stars": 2533,
+        "updatedAt": 1583145904
+    },
+    "https://github.com/arasatasaygin/is.js": {
+        "stars": 9121,
+        "updatedAt": 1602775974
+    },
+    "https://github.com/FieldVal/fieldval-js": {
+        "stars": 134,
+        "updatedAt": 1599350531
+    },
+    "https://github.com/neuledge/funval": {
+        "stars": 201,
+        "updatedAt": 1619936062
+    },
+    "https://github.com/ccampbell/mousetrap": {
+        "stars": 10709,
+        "updatedAt": 1616199421
+    },
+    "https://github.com/madrobby/keymaster": {
+        "stars": 6408,
+        "updatedAt": 1599350558
+    },
+    "https://github.com/dmauro/Keypress": {
+        "stars": 3192,
+        "updatedAt": 1599350522
+    },
+    "https://github.com/RobertWHurst/KeyboardJS": {
+        "stars": 1782,
+        "updatedAt": 1604349731
+    },
+    "https://github.com/jeresig/jquery.hotkeys": {
+        "stars": 2578,
+        "updatedAt": 1545652105
+    },
+    "https://github.com/keithamus/jwerty": {
+        "stars": 1221,
+        "updatedAt": 1510086575
+    },
+    "https://github.com/usablica/intro.js": {
+        "stars": 20182,
+        "updatedAt": 1619770997
+    },
+    "https://github.com/HubSpot/shepherd": {
+        "stars": 9120,
+        "updatedAt": 1620065544
+    },
+    "https://github.com/sorich87/bootstrap-tour": {
+        "stars": 4378,
+        "updatedAt": 1617203735
+    },
+    "https://github.com/easelinc/tourist": {
+        "stars": 1236,
+        "updatedAt": 1539232433
+    },
+    "https://github.com/heelhook/chardin.js": {
+        "stars": 4990,
+        "updatedAt": 1617233491
+    },
+    "https://github.com/tracelytics/pageguide": {
+        "stars": 905,
+        "updatedAt": 1599475042
+    },
+    "https://github.com/linkedin/hopscotch": {
+        "stars": 4260,
+        "updatedAt": 1613519334
+    },
+    "https://github.com/zurb/joyride": {
+        "stars": 1436,
+        "updatedAt": 1599580376
+    },
+    "https://github.com/zzarcon/focusable": {
+        "stars": 1074,
+        "updatedAt": 1457000153
+    },
+    "https://github.com/kamranahmedse/driver.js": {
+        "stars": 12537,
+        "updatedAt": 1619724656
+    },
+    "https://github.com/dolce/iziToast": {
+        "stars": 2235,
+        "updatedAt": 1611291305
+    },
+    "https://github.com/HubSpot/messenger": {
+        "stars": 4075,
+        "updatedAt": 1599478214
+    },
+    "https://github.com/needim/noty": {
+        "stars": 6758,
+        "updatedAt": 1613427826
+    },
+    "https://github.com/sciactive/pnotify": {
+        "stars": 3576,
+        "updatedAt": 1618466832
+    },
+    "https://github.com/CodeSeven/toastr": {
+        "stars": 10804,
+        "updatedAt": 1617510006
+    },
+    "https://github.com/wavded/humane-js": {
+        "stars": 2089,
+        "updatedAt": 1571019483
+    },
+    "https://github.com/hxgf/smoke.js": {
+        "stars": 936,
+        "updatedAt": 1587567753
+    },
+    "https://github.com/jaredreich/notie": {
+        "stars": 6137,
+        "updatedAt": 1602230678
+    },
+    "https://github.com/nolimits4web/Swiper": {
+        "stars": 27168,
+        "updatedAt": 1620029375
+    },
+    "https://github.com/kenwheeler/slick": {
+        "stars": 26751,
+        "updatedAt": 1620041793
+    },
+    "https://github.com/woothemes/FlexSlider": {
+        "stars": 4972,
+        "updatedAt": 1619635306
+    },
+    "https://github.com/darsain/sly": {
+        "stars": 2898,
+        "updatedAt": 1599515970
+    },
+    "https://github.com/jaysalvat/vegas": {
+        "stars": 1780,
+        "updatedAt": 1612001408
+    },
+    "https://github.com/IanLunn/Sequence": {
+        "stars": 3391,
+        "updatedAt": 1599734553
+    },
+    "https://github.com/hakimel/reveal.js": {
+        "stars": 56157,
+        "updatedAt": 1620065313
+    },
+    "https://github.com/impress/impress.js": {
+        "stars": 36258,
+        "updatedAt": 1616912701
+    },
+    "https://github.com/bespokejs/bespoke": {
+        "stars": 4607,
+        "updatedAt": 1599598015
+    },
+    "https://github.com/tantaman/Strut": {
+        "stars": 1595,
+        "updatedAt": 1615569166
+    },
+    "https://github.com/dimsemenov/PhotoSwipe": {
+        "stars": 20989,
+        "updatedAt": 1619691883
+    },
+    "https://github.com/JoanClaret/jcSlider": {
+        "stars": 52,
+        "updatedAt": 1449413631
+    },
+    "https://github.com/jcobb/basic-jquery-slider": {
+        "stars": 552,
+        "updatedAt": 1445297375
+    },
+    "https://github.com/bchanx/slidr": {
+        "stars": 1563,
+        "updatedAt": 1600455797
+    },
+    "https://github.com/metafizzy/flickity": {
+        "stars": 6673,
+        "updatedAt": 1615886412
+    },
+    "https://github.com/jedrzejchalubek/glidejs": {
+        "stars": 6001,
+        "updatedAt": 1617817956
+    },
+    "https://github.com/davidcetinkaya/embla-carousel": {
+        "stars": 1528,
+        "updatedAt": 1619637744
+    },
+    "https://github.com/IonDen/ion.rangeSlider": {
+        "stars": 2433,
+        "updatedAt": 1613169104
+    },
+    "https://github.com/ghusse/jQRangeSlider": {
+        "stars": 679,
+        "updatedAt": 1607711238
+    },
+    "https://github.com/leongersen/noUiSlider": {
+        "stars": 4886,
+        "updatedAt": 1619955327
+    },
+    "https://github.com/andreruffert/rangeslider.js": {
+        "stars": 2135,
+        "updatedAt": 1615043622
+    },
+    "https://github.com/twitter/typeahead.js": {
+        "stars": 16270,
+        "updatedAt": 1608088979
+    },
+    "https://github.com/aehlke/tag-it": {
+        "stars": 2495,
+        "updatedAt": 1608491655
+    },
+    "https://github.com/ichord/At.js": {
+        "stars": 5278,
+        "updatedAt": 1595883710
+    },
+    "https://github.com/jamesallardice/Placeholders.js": {
+        "stars": 967,
+        "updatedAt": 1492388384
+    },
+    "https://github.com/yairEO/fancyInput": {
+        "stars": 1948,
+        "updatedAt": 1523386985
+    },
+    "https://github.com/xoxco/jQuery-Tags-Input": {
+        "stars": 2309,
+        "updatedAt": 1521561384
+    },
+    "https://github.com/BankFacil/vanilla-masker": {
+        "stars": 4,
+        "updatedAt": 1594386852
+    },
+    "https://github.com/IonDen/ion.checkRadio": {
+        "stars": 67,
+        "updatedAt": 1446724447
+    },
+    "https://github.com/LeaVerou/awesomplete": {
+        "stars": 6793,
+        "updatedAt": 1619429034
+    },
+    "https://github.com/amsul/pickadate.js": {
+        "stars": 7740,
+        "updatedAt": 1601553532
+    },
+    "https://github.com/eternicode/bootstrap-datepicker": {
+        "stars": 12369,
+        "updatedAt": 1611508647
+    },
+    "https://github.com/dbushell/Pikaday": {
+        "stars": 7445,
+        "updatedAt": 1617263604
+    },
+    "https://github.com/fullcalendar/fullcalendar": {
+        "stars": 13805,
+        "updatedAt": 1620058331
+    },
+    "https://github.com/bevacqua/rome": {
+        "stars": 2887,
+        "updatedAt": 1615254217
+    },
+    "https://github.com/dangrossman/daterangepicker": {
+        "stars": 10081,
+        "updatedAt": 1618579575
+    },
+    "https://github.com/duetds/date-picker": {
+        "stars": 1400,
+        "updatedAt": 1619780281
+    },
+    "https://github.com/selectize/selectize.js": {
+        "stars": 12620,
+        "updatedAt": 1616715439
+    },
+    "https://github.com/select2/select2": {
+        "stars": 24943,
+        "updatedAt": 1619196182
+    },
+    "https://github.com/harvesthq/chosen": {
+        "stars": 22145,
+        "updatedAt": 1610524077
+    },
+    "https://github.com/blueimp/jQuery-File-Upload": {
+        "stars": 31027,
+        "updatedAt": 1618417631
+    },
+    "https://github.com/enyo/dropzone": {
+        "stars": 15648,
+        "updatedAt": 1618492824
+    },
+    "https://github.com/flowjs/flow.js": {
+        "stars": 2770,
+        "updatedAt": 1614107244
+    },
+    "https://github.com/FineUploader/fine-uploader": {
+        "stars": 8146,
+        "updatedAt": 1542588567
+    },
+    "https://github.com/mailru/FileAPI": {
+        "stars": 3575,
+        "updatedAt": 1600936544
+    },
+    "https://github.com/moxiecode/plupload": {
+        "stars": 5463,
+        "updatedAt": 1617007109
+    },
+    "https://github.com/pqina/filepond": {
+        "stars": 10932,
+        "updatedAt": 1619770635
+    },
+    "https://github.com/malsup/form": {
+        "stars": 5085,
+        "updatedAt": 1613569056
+    },
+    "https://github.com/guillaumepotier/Garlic.js": {
+        "stars": 2361,
+        "updatedAt": 1600431590
+    },
+    "https://github.com/RadLikeWhoa/Countable": {
+        "stars": 1625,
+        "updatedAt": 1600859877
+    },
+    "https://github.com/jessepollak/card": {
+        "stars": 11259,
+        "updatedAt": 1619811429
+    },
+    "https://github.com/LeaVerou/stretchy": {
+        "stars": 1208,
+        "updatedAt": 1589682828
+    },
+    "https://github.com/davidwells/analytics": {
+        "stars": 872,
+        "updatedAt": 1619908809
+    },
+    "https://github.com/jaz303/tipsy": {
+        "stars": 2036,
+        "updatedAt": 1600459440
+    },
+    "https://github.com/enyo/opentip": {
+        "stars": 1260,
+        "updatedAt": 1600459490
+    },
+    "https://github.com/qTip2/qTip2": {
+        "stars": 2013,
+        "updatedAt": 1592130237
+    },
+    "https://github.com/iamceege/tooltipster": {
+        "stars": 2751,
+        "updatedAt": 1600460498
+    },
+    "https://github.com/arashmanteghi/simptip": {
+        "stars": 649,
+        "updatedAt": 1520365976
+    },
+    "https://github.com/vast-engineering/jquery-popup-overlay": {
+        "stars": 510,
+        "updatedAt": 1607646982
+    },
+    "https://github.com/paulkinzett/toolbar": {
+        "stars": 2338,
+        "updatedAt": 1484912180
+    },
+    "https://github.com/chinchang/hint.css": {
+        "stars": 8012,
+        "updatedAt": 1617129088
+    },
+    "https://github.com/dimsemenov/Magnific-Popup": {
+        "stars": 11159,
+        "updatedAt": 1613580555
+    },
+    "https://github.com/gristmill/jquery-popbox": {
+        "stars": 432,
+        "updatedAt": 1538418367
+    },
+    "https://github.com/voronianski/jquery.avgrund.js": {
+        "stars": 1794,
+        "updatedAt": 1600461360
+    },
+    "https://github.com/HubSpot/vex": {
+        "stars": 6921,
+        "updatedAt": 1600461422
+    },
+    "https://github.com/jschr/bootstrap-modal": {
+        "stars": 5056,
+        "updatedAt": 1554668100
+    },
+    "https://github.com/drublic/css-modal": {
+        "stars": 1816,
+        "updatedAt": 1617118458
+    },
+    "https://github.com/t4t5/sweetalert": {
+        "stars": 21595,
+        "updatedAt": 1610483761
+    },
+    "https://github.com/feimosi/baguetteBox.js": {
+        "stars": 2174,
+        "updatedAt": 1619796201
+    },
+    "https://github.com/jackmoore/colorbox": {
+        "stars": 4793,
+        "updatedAt": 1614224518
+    },
+    "https://github.com/fancyapps/fancyBox": {
+        "stars": 7071,
+        "updatedAt": 1618253088
+    },
+    "https://github.com/brutaldesign/swipebox": {
+        "stars": 1963,
+        "updatedAt": 1619448477
+    },
+    "https://github.com/StephanWagner/jBox": {
+        "stars": 1267,
+        "updatedAt": 1619336675
+    },
+    "https://github.com/sachinchoolur/lightGallery": {
+        "stars": 4050,
+        "updatedAt": 1619951699
+    },
+    "https://github.com/Alexandrshy/keukenhof": {
+        "stars": 9,
+        "updatedAt": 1620006218
+    },
+    "https://github.com/stutrek/scrollMonitor": {
+        "stars": 3235,
+        "updatedAt": 1575931702
+    },
+    "https://github.com/WickyNilliams/headroom.js": {
+        "stars": 10749,
+        "updatedAt": 1607713222
+    },
+    "https://github.com/peachananr/onepage-scroll": {
+        "stars": 9566,
+        "updatedAt": 1610141382
+    },
+    "https://github.com/cubiq/iscroll": {
+        "stars": 12691,
+        "updatedAt": 1544727984
+    },
+    "https://github.com/Prinzhorn/skrollr": {
+        "stars": 18506,
+        "updatedAt": 1516737959
+    },
+    "https://github.com/wagerfield/parallax": {
+        "stars": 15205,
+        "updatedAt": 1594623386
+    },
+    "https://github.com/markdalgleish/stellar.js": {
+        "stars": 4653,
+        "updatedAt": 1561855262
+    },
+    "https://github.com/cameronmcefee/plax": {
+        "stars": 2314,
+        "updatedAt": 1505490621
+    },
+    "https://github.com/stephband/jparallax": {
+        "stars": 1154,
+        "updatedAt": 1615229442
+    },
+    "https://github.com/alvarotrigo/fullPage.js": {
+        "stars": 32103,
+        "updatedAt": 1617897350
+    },
+    "https://github.com/s-yadav/ScrollMenu": {
+        "stars": 201,
+        "updatedAt": 1600585871
+    },
+    "https://github.com/NeXTs/Clusterize.js": {
+        "stars": 6897,
+        "updatedAt": 1616865044
+    },
+    "https://github.com/geosigno/simpleParallax": {
+        "stars": 1129,
+        "updatedAt": 1619722946
+    },
+    "https://github.com/dixonandmoe/rellax": {
+        "stars": 5935,
+        "updatedAt": 1618071441
+    },
+    "https://github.com/kamens/jQuery-menu-aim": {
+        "stars": 7730,
+        "updatedAt": 1541065060
+    },
+    "https://github.com/swisnl/jQuery-contextMenu": {
+        "stars": 2119,
+        "updatedAt": 1602863822
+    },
+    "https://github.com/mango/slideout": {
+        "stars": 7965,
+        "updatedAt": 1600577482
+    },
+    "https://github.com/JoanClaret/slide-and-swipe-menu": {
+        "stars": 135,
+        "updatedAt": 1519313443
+    },
+    "https://github.com/FrDH/jQuery.mmenu": {
+        "stars": 2485,
+        "updatedAt": 1618883789
+    },
+    "https://github.com/hikalkan/jtable": {
+        "stars": 1040,
+        "updatedAt": 1616938537
+    },
+    "https://github.com/mkoryak/floatThead": {
+        "stars": 1192,
+        "updatedAt": 1614182436
+    },
+    "https://github.com/mrmrs/fluidity": {
+        "stars": 1103,
+        "updatedAt": 1545922145
+    },
+    "https://github.com/sapo/Ink": {
+        "stars": 1918,
+        "updatedAt": 1607602894
+    },
+    "https://github.com/dataformsjs/dataformsjs": {
+        "stars": 100,
+        "updatedAt": 1619737840
+    },
+    "https://github.com/h5bp/html5-boilerplate": {
+        "stars": 49859,
+        "updatedAt": 1620018648
+    },
+    "https://github.com/h5bp/mobile-boilerplate": {
+        "stars": 3920,
+        "updatedAt": 1437317559
+    },
+    "https://github.com/chrishumboldt/webplate": {
+        "stars": 564,
+        "updatedAt": 1600638457
+    },
+    "https://github.com/TedGoas/Cerberus": {
+        "stars": 4205,
+        "updatedAt": 1617737517
+    },
+    "https://github.com/CodyHouse/full-page-intro-and-navigation": {
+        "stars": 43,
+        "updatedAt": 1600638507
+    },
+    "https://github.com/crozynski/Fluid-Squares": {
+        "stars": 29,
+        "updatedAt": 1433723023
+    },
+    "https://github.com/bradfrost/Mobile-First-RWD": {
+        "stars": 67,
+        "updatedAt": 1572074802
+    },
+    "https://github.com/bradfrost/this-is-responsive": {
+        "stars": 1583,
+        "updatedAt": 1553522886
+    },
+    "https://github.com/hammerjs/hammer.js": {
+        "stars": 22277,
+        "updatedAt": 1616491519
+    },
+    "https://github.com/hammerjs/touchemulator": {
+        "stars": 282,
+        "updatedAt": 1600686018
+    },
+    "https://github.com/Leaflet/Leaflet": {
+        "stars": 30617,
+        "updatedAt": 1619797617
+    },
+    "https://github.com/AnalyticalGraphicsInc/cesium": {
+        "stars": 6958,
+        "updatedAt": 1620062588
+    },
+    "https://github.com/HPNeo/gmaps": {
+        "stars": 7108,
+        "updatedAt": 1600746053
+    },
+    "https://github.com/simplegeo/polymaps": {
+        "stars": 1567,
+        "updatedAt": 1414188461
+    },
+    "https://github.com/kartograph/kartograph.js": {
+        "stars": 1528,
+        "updatedAt": 1526145669
+    },
+    "https://github.com/mapbox/mapbox.js": {
+        "stars": 1791,
+        "updatedAt": 1614808009
+    },
+    "https://github.com/manifestinteractive/jqvmap": {
+        "stars": 1774,
+        "updatedAt": 1616931445
+    },
+    "https://github.com/mike-zarandona/prettyembed.js": {
+        "stars": 1076,
+        "updatedAt": 1472477410
+    },
+    "https://github.com/etianen/html5media": {
+        "stars": 1271,
+        "updatedAt": 1608487840
+    },
+    "https://github.com/adrienjoly/playemjs": {
+        "stars": 81,
+        "updatedAt": 1617114328
+    },
+    "https://github.com/Acconut/polyplayer": {
+        "stars": 39,
+        "updatedAt": 1600761914
+    },
+    "https://github.com/flowplayer/flowplayer": {
+        "stars": 1882,
+        "updatedAt": 1600728627
+    },
+    "https://github.com/johndyer/mediaelement": {
+        "stars": 7606,
+        "updatedAt": 1611346292
+    },
+    "https://github.com/CreateJS/SoundJS": {
+        "stars": 4007,
+        "updatedAt": 1616858025
+    },
+    "https://github.com/videojs/video.js": {
+        "stars": 31250,
+        "updatedAt": 1620067874
+    },
+    "https://github.com/davatron5000/FitVids.js": {
+        "stars": 4797,
+        "updatedAt": 1600769496
+    },
+    "https://github.com/IonDen/ion.sound": {
+        "stars": 695,
+        "updatedAt": 1583504327
+    },
+    "https://github.com/WolframHempel/photobooth-js": {
+        "stars": 574,
+        "updatedAt": 1600769612
+    },
+    "https://github.com/clappr/clappr": {
+        "stars": 5261,
+        "updatedAt": 1617052919
+    },
+    "https://github.com/MikeKovarik/exifr": {
+        "stars": 489,
+        "updatedAt": 1616611695
+    },
+    "https://github.com/EvandroLG/ts-audio": {
+        "stars": 98,
+        "updatedAt": 1615069230
+    },
+    "https://github.com/simplefocus/FlowType.JS": {
+        "stars": 4616,
+        "updatedAt": 1571089025
+    },
+    "https://github.com/zachleat/BigText": {
+        "stars": 879,
+        "updatedAt": 1600769930
+    },
+    "https://github.com/peterhry/circletype": {
+        "stars": 545,
+        "updatedAt": 1605937907
+    },
+    "https://github.com/peachananr/simple-text-rotator": {
+        "stars": 757,
+        "updatedAt": 1601638559
+    },
+    "https://github.com/chuckyglitch/novacancy.js": {
+        "stars": 183,
+        "updatedAt": 1527156490
+    },
+    "https://github.com/ghepting/jquery-responsive-text": {
+        "stars": 123,
+        "updatedAt": 1426309578
+    },
+    "https://github.com/davatron5000/FitText.js": {
+        "stars": 6748,
+        "updatedAt": 1606918174
+    },
+    "https://github.com/davatron5000/Lettering.js": {
+        "stars": 5353,
+        "updatedAt": 1595865580
+    },
+    "https://github.com/julianshapiro/velocity": {
+        "stars": 16986,
+        "updatedAt": 1603525551
+    },
+    "https://github.com/rstacruz/jquery.transit": {
+        "stars": 7412,
+        "updatedAt": 1600773962
+    },
+    "https://github.com/tictail/bounce.js": {
+        "stars": 6144,
+        "updatedAt": 1599121041
+    },
+    "https://github.com/greensock/GreenSock-JS": {
+        "stars": 12418,
+        "updatedAt": 1618853598
+    },
+    "https://github.com/EvandroLG/transitionEnd": {
+        "stars": 94,
+        "updatedAt": 1617493361
+    },
+    "https://github.com/michaelvillar/dynamics.js": {
+        "stars": 7342,
+        "updatedAt": 1551161961
+    },
+    "https://github.com/pstadler/the-cube": {
+        "stars": 8,
+        "updatedAt": 1347993891
+    },
+    "https://github.com/h5bp/Effeckt.css": {
+        "stars": 11085,
+        "updatedAt": 1551457735
+    },
+    "https://github.com/daneden/animate.css": {
+        "stars": 69942,
+        "updatedAt": 1619884418
+    },
+    "https://github.com/jschr/textillate": {
+        "stars": 3561,
+        "updatedAt": 1586554983
+    },
+    "https://github.com/visionmedia/move.js": {
+        "stars": 4623,
+        "updatedAt": 1620002568
+    },
+    "https://github.com/LeaVerou/animatable": {
+        "stars": 2533,
+        "updatedAt": 1597226918
+    },
+    "https://github.com/peachananr/shuffle-images": {
+        "stars": 207,
+        "updatedAt": 1588900624
+    },
+    "https://github.com/miguel-perez/smoothState.js": {
+        "stars": 4447,
+        "updatedAt": 1608520987
+    },
+    "https://github.com/VincentGarreau/particles.js": {
+        "stars": 23945,
+        "updatedAt": 1610133146
+    },
+    "https://github.com/matteobruni/tsparticles": {
+        "stars": 1777,
+        "updatedAt": 1620019518
+    },
+    "https://github.com/lindelof/particles-bg": {
+        "stars": 370,
+        "updatedAt": 1617335293
+    },
+    "https://github.com/davidsonfellipe/lena.js": {
+        "stars": 449,
+        "updatedAt": 1615301096
+    },
+    "https://github.com/nodeca/pica": {
+        "stars": 2364,
+        "updatedAt": 1620064375
+    },
+    "https://github.com/fengyuanchen/cropper": {
+        "stars": 7820,
+        "updatedAt": 1595328375
+    },
+    "https://github.com/lukehoban/es6features": {
+        "stars": 28379,
+        "updatedAt": 1610641886
+    },
+    "https://github.com/rse/es6-features": {
+        "stars": 6119,
+        "updatedAt": 1605979558
+    },
+    "https://github.com/DrkSephy/es6-cheatsheet": {
+        "stars": 12437,
+        "updatedAt": 1600862966
+    },
+    "https://github.com/babel/babel": {
+        "stars": 38941,
+        "updatedAt": 1620067673
+    },
+    "https://github.com/google/traceur-compiler": {
+        "stars": 8130,
+        "updatedAt": 1600863240
+    },
+    "https://github.com/gatsbyjs/gatsby": {
+        "stars": 50132,
+        "updatedAt": 1620071115
+    },
+    "https://github.com/gridsome/gridsome": {
+        "stars": 7562,
+        "updatedAt": 1619754511
+    },
+    "https://github.com/facebook/docusaurus": {
+        "stars": 23260,
+        "updatedAt": 1620060429
+    },
+    "https://github.com/huei90/javascript-sdk-design": {
+        "stars": 1106,
+        "updatedAt": 1609924965
+    },
+    "https://github.com/loverajoel/spotify-sdk": {
+        "stars": 201,
+        "updatedAt": 1605430615
+    },
+    "https://github.com/toddmotto/echo": {
+        "stars": 3752,
+        "updatedAt": 1616535888
+    },
+    "https://github.com/scottjehl/picturefill": {
+        "stars": 10072,
+        "updatedAt": 1600889411
+    },
+    "https://github.com/bestiejs/platform.js": {
+        "stars": 2825,
+        "updatedAt": 1593863148
+    },
+    "https://github.com/bestiejs/json3": {
+        "stars": 1032,
+        "updatedAt": 1558998576
+    },
+    "https://github.com/infusion/BitSet.js": {
+        "stars": 178,
+        "updatedAt": 1600897083
+    },
+    "https://github.com/joshbuddy/spoiler-alert": {
+        "stars": 474,
+        "updatedAt": 1477600599
+    },
+    "https://github.com/illyism/jquery.vibrate.js": {
+        "stars": 139,
+        "updatedAt": 1464247295
+    },
+    "https://github.com/javve/list.js": {
+        "stars": 10478,
+        "updatedAt": 1619444595
+    },
+    "https://github.com/patrickkunka/mixitup": {
+        "stars": 4386,
+        "updatedAt": 1600942117
+    },
+    "https://github.com/hootsuite/grid": {
+        "stars": 3534,
+        "updatedAt": 1513195609
+    },
+    "https://github.com/liabru/jquery-match-height": {
+        "stars": 3102,
+        "updatedAt": 1535123249
+    },
+    "https://github.com/surveyjs/surveyjs": {
+        "stars": 2858,
+        "updatedAt": 1620046169
+    },
+    "https://github.com/sdras/array-explorer": {
+        "stars": 2418,
+        "updatedAt": 1617035594
+    },
+    "https://github.com/sindresorhus/ky": {
+        "stars": 6386,
+        "updatedAt": 1619607622
+    },
+    "https://github.com/5anthosh/fcal": {
+        "stars": 58,
+        "updatedAt": 1612336935
+    },
+    "https://github.com/joeattardi/emoji-button": {
+        "stars": 665,
+        "updatedAt": 1619810936
+    },
+    "https://github.com/iooxa/article": {
+        "stars": 83,
+        "updatedAt": 1613503647
+    },
+    "https://github.com/idyll-lang/idyll": {
+        "stars": 1780,
+        "updatedAt": 1619733292
+    },
+    "https://github.com/trekhleb/javascript-algorithms": {
+        "stars": 106149,
+        "updatedAt": 1620054956
+    },
+    "https://github.com/fingerprintjs/fingerprintjs": {
+        "stars": 13288,
+        "updatedAt": 1619767149
+    },
+    "https://github.com/getify/You-Dont-Know-JS": {
+        "stars": 137687,
+        "updatedAt": 1619896038
+    },
+    "https://github.com/revolunet/JSbooks": {
+        "stars": 2373,
+        "updatedAt": 1601029656
+    },
+    "https://github.com/HugoGiraudel/SJSJ": {
+        "stars": 2222,
+        "updatedAt": 1619819921
+    },
+    "https://github.com/sarbbottam/write-an-open-source-js-lib": {
+        "stars": 163,
+        "updatedAt": 1601270663
+    },
+    "https://github.com/getify/Functional-Light-JS": {
+        "stars": 14131,
+        "updatedAt": 1610803888
+    },
+    "https://github.com/ryanmcdermott/clean-code-javascript": {
+        "stars": 51214,
+        "updatedAt": 1619582040
+    },
+    "https://github.com/sotayamashita/awesome-css": {
+        "stars": 3137,
+        "updatedAt": 1616769079
+    },
+    "https://github.com/emijrp/awesome-awesome": {
+        "stars": 1828,
+        "updatedAt": 1613911359
+    },
+    "https://github.com/bayandin/awesome-awesomeness": {
+        "stars": 27589,
+        "updatedAt": 1618252254
+    },
+    "https://github.com/sindresorhus/awesome": {
+        "stars": 159780,
+        "updatedAt": 1620067444
+    },
+    "https://github.com/jnv/lists": {
+        "stars": 7247,
+        "updatedAt": 1620000282
+    },
+    "https://github.com/gianarb/awesome-angularjs": {
+        "stars": 2477,
+        "updatedAt": 1547517667
+    },
+    "https://github.com/peterkokot/awesome-dojo": {
+        "stars": 71,
+        "updatedAt": 1601074014
+    },
+    "https://github.com/addyosmani/es6-tools": {
+        "stars": 3850,
+        "updatedAt": 1572548104
+    },
+    "https://github.com/ericdouglas/ES6-Learning": {
+        "stars": 4589,
+        "updatedAt": 1534618277
+    },
+    "https://github.com/obetomuniz/awesome-webcomponents": {
+        "stars": 347,
+        "updatedAt": 1601068488
+    },
+    "https://github.com/willianjusten/awesome-svg": {
+        "stars": 4160,
+        "updatedAt": 1619805530
+    },
+    "https://github.com/davidsonfellipe/awesome-wpo": {
+        "stars": 7163,
+        "updatedAt": 1617198596
+    },
+    "https://github.com/sadcitizen/awesome-backbone": {
+        "stars": 396,
+        "updatedAt": 1521540087
+    },
+    "https://github.com/enaqx/awesome-react": {
+        "stars": 43335,
+        "updatedAt": 1619541460
+    },
+    "https://github.com/bolshchikov/js-must-watch": {
+        "stars": 12571,
+        "updatedAt": 1601539647
+    },
+    "https://github.com/peterkokot/awesome-jquery": {
+        "stars": 780,
+        "updatedAt": 1606934216
+    },
+    "https://github.com/davidyezsetz/you-might-not-need-jquery-plugins": {
+        "stars": 140,
+        "updatedAt": 1513067644
+    },
+    "https://github.com/MaximAbramchuck/awesome-interview-questions": {
+        "stars": 39650,
+        "updatedAt": 1619599927
+    },
+    "https://github.com/denolib/awesome-deno": {
+        "stars": 3019,
+        "updatedAt": 1619210955
+    }
+}

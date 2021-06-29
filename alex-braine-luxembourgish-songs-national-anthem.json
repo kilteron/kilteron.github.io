@@ -1,0 +1,437 @@
+{
+  "id": "cf1d5f9e-b42c-575e-9d3c-d9f991dcca1d",
+  "url": "/alex-braine/luxembourgish/songs-national-anthem",
+  "title": "National Anthem of Luxembourg",
+  "cards": 40,
+  "createdAt": 1446426067,
+  "author": "Ian Berwick",
+  "youtubeId": "LZuozNHArQ0",
+  "source": "https://www.youtube.com/watch?v=LZuozNHArQ0",
+  "children": [
+    {
+      "title": "Luxembourgish",
+      "children": [
+        {
+          "title": "Songs",
+          "children": [
+            {
+              "title": "National Anthem",
+              "children": [
+                {
+                  "title": "Eng",
+                  "children": [
+                    {
+                      "id": "ab17e33b-08d8-5c54-bddf-6f7b99bb3674",
+                      "title": "Where the Alzette flows through the meadows,",
+                      "description": "Wou d'Uelzécht  durech d'Wisen zéit",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "5.7",
+                      "stop": "9.7",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "beded76d-c4f8-5474-a48b-3344c7399cc5",
+                      "title": "The Sauer plays wild pranks,",
+                      "description": "Duerch d'Fielsen d'Sauer brécht",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "10.0",
+                      "stop": "13.3",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "7af757f4-ccac-5a22-a27c-234949dc1bad",
+                      "title": "Where the Moselle, smiling and beautiful",
+                      "description": "Wou d'Rief laanscht d'Musel dofteg bléit,",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "13.8",
+                      "stop": "17.6",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "af36ebd2-d508-52bb-870c-f111fb8ae068",
+                      "title": "We made a present of wine",
+                      "description": "Den Himmel Wäin ons mécht:",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "18.0",
+                      "stop": "21.0",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "27eb489b-e9a1-5af2-9d7f-7d4d35bb15b9",
+                      "title": "This is our country for which",
+                      "description": "Dat ass onst Land, fir dat mer géif",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "21.7",
+                      "stop": "25.6",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "8ea193b6-806b-5b0c-a0ad-f753b2b9c1be",
+                      "title": "We risk everything on earth;",
+                      "description": "Hei nidden alles won,",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "25.9",
+                      "stop": "29.0",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "875732b3-8ec5-5025-8602-3abf3915b0c9",
+                      "title": "Our homeland and adorable home",
+                      "description": "Ons Heemechtsland dat mir so déif",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "29.7",
+                      "stop": "33.5",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "a31d0e80-2b00-553f-ad19-7202d14871d9",
+                      "title": "Our soul which is fulfilled",
+                      "description": "An onsen Hierzer dron.",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "33.9",
+                      "stop": "36.9",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "adf8cb61-42b2-5ad5-98f3-6ff76e89cfce",
+                      "title": "Our homeland and adorable home",
+                      "description": "Ons Hemechtsland dat mir so déif",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "37.7",
+                      "stop": "41.4",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "6f84d391-b2f1-529c-9128-c6de4b6b7258",
+                      "title": "Our soul which is fulfilled.",
+                      "description": "An onsen Hierzer dron.",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "41.7",
+                      "stop": "44.8",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "202e7b6c-1c7a-5c25-adee-9cca40d5c50b",
+                      "title": "O Thou in heaven that night and day",
+                      "description": "O Du do uewen, deen seng Hand",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "45.4",
+                      "stop": "49.2",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "5a83885e-d2fa-5db1-93a1-ef2f9605f6b3",
+                      "title": "Leads the nation in the world;",
+                      "description": "Duerch d'Welt d'Natioune leet,",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "49.6",
+                      "stop": "52.8",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "5e3f1831-dadf-5a55-933d-fccd6b3eea51",
+                      "title": "Excludes the country of Luxembourg",
+                      "description": "Behitt Du d'Lëtzebuerger Land",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "53.4",
+                      "stop": "57.3",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "d2faf970-27a3-5895-b9c9-caabba44508e",
+                      "title": "The foreign oppression",
+                      "description": "Vru friemem Joch a Leed;",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "57.6",
+                      "stop": "60.7",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "571b5f3c-b60f-5ab6-abc5-1e80aaf2685a",
+                      "title": "Children we have received from you",
+                      "description": "Du hues ons all als Kanner schon",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "61.4",
+                      "stop": "65.0",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "3e5351a4-03a6-5c13-b75e-a20d8b247f4e",
+                      "title": "The spirit of liberty;",
+                      "description": "De fräie Geescht jo ginn,",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "65.5",
+                      "stop": "68.6",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "b798ff0a-c4f4-5068-839c-009bb811632b",
+                      "title": "Let the sun of freedom",
+                      "description": "Looss viru blénken d'Fräiheetssonn,",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "69.4",
+                      "stop": "73.1",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "28e7f450-9b0d-50b4-a486-8d4fce01b278",
+                      "title": "To shine forever.",
+                      "description": "Déi mir so laang gesinn!",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "73.4",
+                      "stop": "76.1",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "c695e614-db3d-52c1-a15a-8deac298f024",
+                      "title": "Let the sun of freedom",
+                      "description": "Looss viru blénken d'Fräiheetssonn,",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "77.1",
+                      "stop": "81.9",
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "e81a19b0-a278-5cd7-be09-e3bda18de23b",
+                      "title": "To shine forever.",
+                      "description": "Déi mir so laang gesinn!",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "81.3",
+                      "stop": "85.7"
+                    }
+                  ],
+                  "hideDescription": true
+                },
+                {
+                  "title": "Lux",
+                  "children": [
+                    {
+                      "id": "7359fb2d-1559-5a1b-8422-177bdb0929d2",
+                      "title": "Wou d'Uelzécht  durech d'Wisen zéit",
+                      "description": "Where the Alzette flows through the meadows,",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "5.7",
+                      "stop": "9.7",
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "6ba24f07-c341-52be-8135-510db6b7e73a",
+                      "title": "Duerch d'Fielsen d'Sauer brécht",
+                      "description": "The Sauer plays wild pranks,",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "10.0",
+                      "stop": "13.3",
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "a780da52-4ac1-5aa2-bc13-52391aa3e801",
+                      "title": "Wou d'Rief laanscht d'Musel dofteg bléit,",
+                      "description": "Where the Moselle, smiling and beautiful",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "13.8",
+                      "stop": "17.6",
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "3146cf96-9fb0-5a4d-94da-e5077ea8c61d",
+                      "title": "Den Himmel Wäin ons mécht:",
+                      "description": "We made a present of wine",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "18.0",
+                      "stop": "21.0",
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "4fe31be1-637d-5caf-ae2f-076dcc940a32",
+                      "title": "Dat ass onst Land, fir dat mer géif",
+                      "description": "This is our country for which",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "21.7",
+                      "stop": "25.6",
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "825c9c07-da29-5515-8447-210b8432ab82",
+                      "title": "Hei nidden alles won,",
+                      "description": "We risk everything on earth;",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "25.9",
+                      "stop": "29.0",
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "b344803a-1232-5db3-986a-c72d18cac2a0",
+                      "title": "Ons Heemechtsland dat mir so déif",
+                      "description": "Our homeland and adorable home",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "29.7",
+                      "stop": "33.5",
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "ca330638-0129-5ae7-ade0-fe9f69ba6fe6",
+                      "title": "An onsen Hierzer dron.",
+                      "description": "Our soul which is fulfilled",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "33.9",
+                      "stop": "36.9",
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "0909dbc8-b403-590c-aa49-8124c099551a",
+                      "title": "Ons Hemechtsland dat mir so déif",
+                      "description": "Our homeland and adorable home",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "37.7",
+                      "stop": "41.4",
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "323ebd27-b004-55fb-9530-95f1294a9ce8",
+                      "title": "An onsen Hierzer dron.",
+                      "description": "Our soul which is fulfilled.",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "41.7",
+                      "stop": "44.8",
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "22b42738-d599-5852-a554-279def8e3151",
+                      "title": "O Du do uewen, deen seng Hand",
+                      "description": "O Thou in heaven that night and day",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "45.4",
+                      "stop": "49.2",
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "42aae936-1edb-51c4-b4f6-93ef4c543b91",
+                      "title": "Duerch d'Welt d'Natioune leet,",
+                      "description": "Leads the nation in the world;",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "49.6",
+                      "stop": "52.8",
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "fb6afcb9-0f30-5f69-86b9-171712aac4ff",
+                      "title": "Behitt Du d'Lëtzebuerger Land",
+                      "description": "Excludes the country of Luxembourg",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "53.4",
+                      "stop": "57.3",
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "910396de-6d37-54c3-929c-9807bb8e7c42",
+                      "title": "Vru friemem Joch a Leed;",
+                      "description": "The foreign oppression",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "57.6",
+                      "stop": "60.7",
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "e18af5c9-ace2-5388-a2d6-03197c39f069",
+                      "title": "Du hues ons all als Kanner schon",
+                      "description": "Children we have received from you",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "61.4",
+                      "stop": "65.0",
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "ef514364-62cf-5d37-ae89-2f60addd15a4",
+                      "title": "De fräie Geescht jo ginn,",
+                      "description": "The spirit of liberty;",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "65.5",
+                      "stop": "68.6",
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "aac6159c-abec-56e8-a2f3-a5481a404b22",
+                      "title": "Looss viru blénken d'Fräiheetssonn,",
+                      "description": "Let the sun of freedom",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "69.4",
+                      "stop": "73.1",
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "f4f22d90-7cfd-56ca-aee1-b7c7984d8da3",
+                      "title": "Déi mir so laang gesinn!",
+                      "description": "To shine forever.",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "73.4",
+                      "stop": "76.1",
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "2dd2584d-9806-5bff-945a-da2bed1ef03f",
+                      "title": "Looss viru blénken d'Fräiheetssonn,",
+                      "description": "Let the sun of freedom",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "77.1",
+                      "stop": "81.9",
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "eb8e6821-2364-5720-8b87-edc1c9f71b4b",
+                      "title": "Déi mir so laang gesinn!",
+                      "description": "To shine forever.",
+                      "avatar": 1,
+                      "youtubeId": "LZuozNHArQ0",
+                      "start": "81.3",
+                      "stop": "85.7",
+                      "hideTitleAndDescription": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

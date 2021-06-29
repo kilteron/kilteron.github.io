@@ -1,0 +1,111 @@
+{
+  "id": "21bf1d51-14ca-513e-90fe-1a28a8af1a34",
+  "url": "/alex-braine/react/react-admin-crash-course",
+  "title": "React Admin Crash Course",
+  "cards": 12,
+  "createdAt": 1602079767,
+  "author": "Traversy Media",
+  "youtubeId": "HRmdj-HpJyE",
+  "source": "https://www.youtube.com/watch?v=HRmdj-HpJyE",
+  "children": [
+    {
+      "title": "React",
+      "children": [
+        {
+          "title": "Course",
+          "children": [
+            {
+              "title": "Admin",
+              "children": [
+                {
+                  "id": "c653d544-e50a-538d-8fb9-8d5a9bd4db51",
+                  "title": "Intro",
+                  "youtubeId": "HRmdj-HpJyE",
+                  "start": 0,
+                  "stop": 160
+                },
+                {
+                  "id": "2465d64a-c3cb-5fde-aaf9-2c2437bb5445",
+                  "title": "JSON-Server Setup",
+                  "youtubeId": "HRmdj-HpJyE",
+                  "start": 160,
+                  "stop": 369
+                },
+                {
+                  "id": "7af64eef-38ac-5235-9bdb-170ee8028815",
+                  "title": "Testing API",
+                  "youtubeId": "HRmdj-HpJyE",
+                  "start": 369,
+                  "stop": 457
+                },
+                {
+                  "id": "6877ed44-44f7-5794-b20d-f65eb48cef97",
+                  "title": "React Setup",
+                  "youtubeId": "HRmdj-HpJyE",
+                  "start": 457,
+                  "stop": 553
+                },
+                {
+                  "id": "1368b1f7-42e6-5d38-b869-6622b3b9220c",
+                  "title": "Concurrently Setup",
+                  "youtubeId": "HRmdj-HpJyE",
+                  "start": 553,
+                  "stop": 630
+                },
+                {
+                  "id": "f8c3b659-58e3-5aed-a0c3-b4e4c98bf400",
+                  "title": "React Cleanup",
+                  "youtubeId": "HRmdj-HpJyE",
+                  "start": 630,
+                  "stop": 660
+                },
+                {
+                  "id": "60f0198d-7136-536e-90f7-40d775c981c2",
+                  "title": "React Admin Install & Setup",
+                  "youtubeId": "HRmdj-HpJyE",
+                  "start": 660,
+                  "stop": 810
+                },
+                {
+                  "id": "4ad038ff-21a9-52a3-9388-3cf76b1db425",
+                  "title": "PostList Component",
+                  "youtubeId": "HRmdj-HpJyE",
+                  "start": 810,
+                  "stop": 1019
+                },
+                {
+                  "id": "4b26a27d-9735-5aea-a585-8310de301dcb",
+                  "title": "Content Range Header",
+                  "youtubeId": "HRmdj-HpJyE",
+                  "start": 1019,
+                  "stop": 1304
+                },
+                {
+                  "id": "70721c7f-aa46-5564-a8f1-686d23bb1562",
+                  "title": "PostCreate Component",
+                  "youtubeId": "HRmdj-HpJyE",
+                  "start": 1304,
+                  "stop": 1495
+                },
+                {
+                  "id": "51f2cbeb-38b0-5adf-97aa-de3c0233f3b4",
+                  "title": "PostEdit Component",
+                  "youtubeId": "HRmdj-HpJyE",
+                  "start": 1495,
+                  "stop": 1630
+                },
+                {
+                  "id": "82b7f467-ca5c-538c-8c06-4cdaf6ea6fa3",
+                  "title": "Adding User Resource",
+                  "youtubeId": "HRmdj-HpJyE",
+                  "start": 1630,
+                  "stop": 1885
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

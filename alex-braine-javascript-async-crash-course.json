@@ -1,0 +1,76 @@
+{
+  "id": "c89bb22d-fbd0-5134-ac23-81f400708c25",
+  "url": "/alex-braine/javascript/async-crash-course",
+  "title": "Async JS",
+  "cards": 7,
+  "createdAt": 1529673192,
+  "author": "Traversy Media",
+  "source": "https://www.youtube.com/watch?v=PoRJizFvM7s",
+  "youtubeId": "PoRJizFvM7s",
+  "children": [
+    {
+      "title": "JavaScript",
+      "children": [
+        {
+          "title": "Course",
+          "children": [
+            {
+              "title": "Async JS",
+              "children": [
+                {
+                  "id": "dce9a937-090c-514d-84d9-bc73d38466f7",
+                  "title": "Pre-callback",
+                  "youtubeId": "PoRJizFvM7s",
+                  "start": 160,
+                  "stop": 540
+                },
+                {
+                  "id": "abbdbebb-2f2f-53b1-9bde-de7abb325ada",
+                  "title": "Actual callback",
+                  "youtubeId": "PoRJizFvM7s",
+                  "start": 555,
+                  "stop": 640
+                },
+                {
+                  "id": "8f94c00c-22ff-5180-97c2-77c3194e230e",
+                  "title": "Promise",
+                  "youtubeId": "PoRJizFvM7s",
+                  "start": 665,
+                  "stop": 900
+                },
+                {
+                  "id": "33a029bf-ec29-5f2b-8a79-a1ce9fe87a04",
+                  "title": "Promise.all",
+                  "youtubeId": "PoRJizFvM7s",
+                  "start": 925,
+                  "stop": 1105
+                },
+                {
+                  "id": "8114c140-0261-50eb-8ab6-297ee4391e96",
+                  "title": "Fetch()",
+                  "youtubeId": "PoRJizFvM7s",
+                  "start": 1105,
+                  "stop": 1200
+                },
+                {
+                  "id": "9ea92730-54f9-5437-bef0-a11950a4455e",
+                  "title": "Async/Await",
+                  "youtubeId": "PoRJizFvM7s",
+                  "start": 1230,
+                  "stop": 1310
+                },
+                {
+                  "id": "7598f8d4-8aa4-5122-929d-dca984267950",
+                  "title": "Async with Fetch()",
+                  "youtubeId": "PoRJizFvM7s",
+                  "start": 1310,
+                  "stop": 1410
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

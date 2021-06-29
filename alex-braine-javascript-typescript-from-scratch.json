@@ -1,0 +1,314 @@
+{
+  "id": "78faebbb-3227-5594-9f87-10b5c6503cbc",
+  "url": "/alex-braine/javascript/typescript-from-scratch",
+  "title": "TypeScript from Scratch",
+  "cards": 41,
+  "createdAt": 1579622403,
+  "author": "Academind",
+  "source": "https://www.youtube.com/watch?v=BwuLxPH8IDs",
+  "youtubeId": "BwuLxPH8IDs",
+  "children": [
+    {
+      "title": "JavaScript",
+      "children": [
+        {
+          "title": "Course",
+          "children": [
+            {
+              "title": "TypeScript from Scratch",
+              "children": [
+                {
+                  "id": "8cd68162-af01-5524-b66e-eefa6915dd89",
+                  "title": "Getting Started",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 0,
+                  "stop": 117
+                },
+                {
+                  "id": "02bf186e-e980-544a-a5c1-b4244fd30f60",
+                  "title": "What is TypeScript",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 117,
+                  "stop": 391
+                },
+                {
+                  "id": "34851dd9-9756-5261-8dcf-ce98abac8fb4",
+                  "title": "Installing & Using TypeScript",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 391,
+                  "stop": 1193
+                },
+                {
+                  "id": "88e07eb6-52f6-5b3e-9615-7a9aeb83e05e",
+                  "title": "The Advantages of TypeScript",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 1193,
+                  "stop": 1379
+                },
+                {
+                  "id": "410aae15-4aa3-54e2-b893-ea001f530153",
+                  "title": "Course Outline",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 1379,
+                  "stop": 1636
+                },
+                {
+                  "id": "64bc17ee-1aaa-509a-a38c-91932622f228",
+                  "title": "How to Get the Most out of This Course",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 1636,
+                  "stop": 1829
+                },
+                {
+                  "id": "acba4a89-1731-55d1-b7d8-b7d6294f105b",
+                  "title": "Setting Up our Development Environment",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 1829,
+                  "stop": 2016
+                },
+                {
+                  "id": "923f64cb-9d2d-5c6a-81ab-4e93a1ee6ea0",
+                  "title": "The Course Project Setup",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 2016,
+                  "stop": 2456
+                },
+                {
+                  "id": "c92a5ff7-f21c-528a-81e3-be3e6937c18a",
+                  "title": "Module Introduction",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 2456,
+                  "stop": 2483
+                },
+                {
+                  "id": "d0b30c38-a638-54cd-992b-0a389290fdff",
+                  "title": "Using Types",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 2483,
+                  "stop": 3103
+                },
+                {
+                  "id": "c55f6950-5b18-54e0-8398-0ae8b1eed1d1",
+                  "title": "TypeScript Types vs JavaScript Types",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 3103,
+                  "stop": 3397
+                },
+                {
+                  "id": "38b35c3f-458f-53f6-9710-6ed42d545d8a",
+                  "title": "Numbers, Strings and Booleans",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 3397,
+                  "stop": 3740
+                },
+                {
+                  "id": "6b8ca264-cf65-5383-a29d-5811c98e6910",
+                  "title": "Type Assignment and Type Inference",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 3740,
+                  "stop": 4079
+                },
+                {
+                  "id": "0de2e70d-8fdc-5df2-9b56-c1b0d16601f6",
+                  "title": "Object Types",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 4079,
+                  "stop": 4531
+                },
+                {
+                  "id": "aef669df-8765-5708-9252-0f254fd6f71f",
+                  "title": "Array Types",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 4531,
+                  "stop": 4861
+                },
+                {
+                  "id": "4a4eee89-8b19-5748-b685-880457b46f2e",
+                  "title": "Tuples",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 4861,
+                  "stop": 5241
+                },
+                {
+                  "id": "4380d9b0-726d-528d-9f51-5e8887f7610b",
+                  "title": "Enums",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 5241,
+                  "stop": 5666
+                },
+                {
+                  "id": "9263757f-c981-59ba-a2e4-d493351e0c19",
+                  "title": "The Any Type",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 5666,
+                  "stop": 5790
+                },
+                {
+                  "id": "40f91b7c-d9ec-570c-9fe7-acdeb30e7483",
+                  "title": "Union Types",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 5790,
+                  "stop": 6181
+                },
+                {
+                  "id": "3242ac33-92bf-578b-af4d-b760d22a53fa",
+                  "title": "Literal Types",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 6181,
+                  "stop": 6655
+                },
+                {
+                  "id": "a25547a2-1478-5e85-adb8-9ded0fac40cb",
+                  "title": "Type Aliases",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 6655,
+                  "stop": 6835
+                },
+                {
+                  "id": "eaced4be-252d-5cc5-b061-84301750f983",
+                  "title": "Function Return Types and Void",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 6835,
+                  "stop": 7281
+                },
+                {
+                  "id": "8bcc8176-6679-5a6a-a221-c1609b82e4f6",
+                  "title": "Function Types",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 7281,
+                  "stop": 7615
+                },
+                {
+                  "id": "46e1d572-1560-5f00-a92e-3ddff72cee43",
+                  "title": "Function Types and Callbacks",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 7615,
+                  "stop": 7878
+                },
+                {
+                  "id": "a7006709-388a-5a9f-a04a-748987d884d2",
+                  "title": "The Unknown Type",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 7878,
+                  "stop": 8102
+                },
+                {
+                  "id": "0538f69b-fa5b-56bf-adc2-78f8db40c577",
+                  "title": "The Never Type",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 8102,
+                  "stop": 8352
+                },
+                {
+                  "id": "6f15cea6-9973-5d60-ba6e-57ae2fdd506c",
+                  "title": "Wrap Up",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 8352,
+                  "stop": 8464
+                },
+                {
+                  "id": "f2c21c3f-f01a-57e8-9c9e-63103586e340",
+                  "title": "Module Introduction",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 8464,
+                  "stop": 8510
+                },
+                {
+                  "id": "79d7402a-749b-5f4c-a683-706fc70deab3",
+                  "title": "Watch Node",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 8510,
+                  "stop": 8635
+                },
+                {
+                  "id": "b56e7f07-6a9d-5b4d-8d60-0e9369532bc1",
+                  "title": "Compiling the Entire Project",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 8635,
+                  "stop": 8862
+                },
+                {
+                  "id": "9107227e-558e-55ad-8690-5cf29281d840",
+                  "title": "Include and Exclude Files",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 8862,
+                  "stop": 9235
+                },
+                {
+                  "id": "c153d8e6-b50d-5885-a3ed-0b1883102550",
+                  "title": "Setting a Compilation Target",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 9235,
+                  "stop": 9479
+                },
+                {
+                  "id": "03af78b6-bce7-55fa-ae7d-bee2635b8a05",
+                  "title": "Understanding TypeScript Libs",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 9479,
+                  "stop": 9811
+                },
+                {
+                  "id": "4772c924-d56d-5f59-84e3-bd331a0756f1",
+                  "title": "More Options",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 9811,
+                  "stop": 9912
+                },
+                {
+                  "id": "782a09aa-e11b-505c-96ed-858e0df1ab9d",
+                  "title": "Source Maps",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 9912,
+                  "stop": 10032
+                },
+                {
+                  "id": "90a7e5ec-2393-5517-a9f3-fd5a28a78745",
+                  "title": "Rootdir and Outdir",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 10032,
+                  "stop": 10363
+                },
+                {
+                  "id": "1f5cac01-89b9-5e6e-af1a-ac32e37ca490",
+                  "title": "noemit on Error",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 10363,
+                  "stop": 10535
+                },
+                {
+                  "id": "64f10b63-870e-5779-b463-d2911cadc640",
+                  "title": "Strict Compilation Options",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 10535,
+                  "stop": 11199
+                },
+                {
+                  "id": "7991f6de-e4a7-5d89-8328-64db7e473784",
+                  "title": "Code Quality Options",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 11199,
+                  "stop": 11462
+                },
+                {
+                  "id": "2bf49404-1f5d-5186-a2fc-24b8542d3f58",
+                  "title": "Debugging with Visual Studio Code",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 11462,
+                  "stop": 11722
+                },
+                {
+                  "id": "129a951c-bf01-5f5c-9657-101a486f83cd",
+                  "title": "Wrap Up",
+                  "youtubeId": "BwuLxPH8IDs",
+                  "start": 11722,
+                  "stop": 11799
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

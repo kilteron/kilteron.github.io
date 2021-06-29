@@ -1,0 +1,209 @@
+{
+  "id": "18b2f923-da86-5d4a-ab68-a9caa29e3348",
+  "url": "/alex-braine/java/data-structures-and-algorithms-for-beginners",
+  "title": "Data Structures and Algorithms for Beginners",
+  "cards": 26,
+  "createdAt": 1575997202,
+  "author": "Programming with Mosh",
+  "source": "https://www.youtube.com/watch?v=BBpAmxU_NQo",
+  "youtubeId": "BBpAmxU_NQo",
+  "children": [
+    {
+      "title": "Java",
+      "children": [
+        {
+          "title": "Data Structures and Algorithms",
+          "children": [
+            {
+              "title": "For Beginners",
+              "children": [
+                {
+                  "id": "db2624e4-bc1f-5bd2-b9da-2e00b5354c42",
+                  "title": "Intro",
+                  "youtubeId": "BBpAmxU_NQo",
+                  "start": 0,
+                  "stop": 64
+                },
+                {
+                  "id": "15f73884-6115-537a-bfbe-a442b49ab2d8",
+                  "title": "What is Big O?",
+                  "youtubeId": "BBpAmxU_NQo",
+                  "start": 64,
+                  "stop": 183
+                },
+                {
+                  "id": "7570c145-4805-5840-9d1e-7240386c8ce7",
+                  "title": "O(1)",
+                  "youtubeId": "BBpAmxU_NQo",
+                  "start": 183,
+                  "stop": 272
+                },
+                {
+                  "id": "0fe05c0c-78c2-51c8-bf93-35bdcbb20445",
+                  "title": "O(n)",
+                  "youtubeId": "BBpAmxU_NQo",
+                  "start": 272,
+                  "stop": 497
+                },
+                {
+                  "id": "fc26ccee-e394-52f5-b790-d3d8f5930ac0",
+                  "title": "O(n^2)",
+                  "youtubeId": "BBpAmxU_NQo",
+                  "start": 497,
+                  "stop": 641
+                },
+                {
+                  "id": "25f33b86-2d37-569a-a061-5ce74ede748b",
+                  "title": "O(log n)",
+                  "youtubeId": "BBpAmxU_NQo",
+                  "start": 641,
+                  "stop": 800
+                },
+                {
+                  "id": "21ca7bd4-0011-5807-9a30-9aea0e1fe628",
+                  "title": "O(2^n)",
+                  "youtubeId": "BBpAmxU_NQo",
+                  "start": 800,
+                  "stop": 850
+                },
+                {
+                  "id": "71149d92-3b1f-527e-8540-11fdfa153ed2",
+                  "title": "Space Complexity",
+                  "youtubeId": "BBpAmxU_NQo",
+                  "start": 850,
+                  "stop": 1073
+                },
+                {
+                  "id": "56ff2f85-b460-5967-878f-74b2cff271c2",
+                  "title": "Understanding Arrays",
+                  "youtubeId": "BBpAmxU_NQo",
+                  "start": 1073,
+                  "stop": 1263
+                },
+                {
+                  "id": "ad047301-4670-572a-b975-3350a9f350a3",
+                  "title": "Working with Arrays",
+                  "youtubeId": "BBpAmxU_NQo",
+                  "start": 1263,
+                  "stop": 1472
+                },
+                {
+                  "id": "97d9e9da-8fd4-5b5e-ba99-b11e8a59ce9e",
+                  "title": "Exercise: Building an Array",
+                  "youtubeId": "BBpAmxU_NQo",
+                  "start": 1472,
+                  "stop": 1644
+                },
+                {
+                  "id": "64271fb9-f2fe-5117-842b-3795053e0bf8",
+                  "title": "Solution: Creating the Array Class",
+                  "youtubeId": "BBpAmxU_NQo",
+                  "start": 1644,
+                  "stop": 1843
+                },
+                {
+                  "id": "216a2b07-2e94-5d65-a424-1e4a18108966",
+                  "title": "Solution: insert()",
+                  "youtubeId": "BBpAmxU_NQo",
+                  "start": 1843,
+                  "stop": 2103
+                },
+                {
+                  "id": "a98b6b24-8ba2-59be-9498-267094673f1b",
+                  "title": "Solution: remove()",
+                  "youtubeId": "BBpAmxU_NQo",
+                  "start": 2103,
+                  "stop": 2394
+                },
+                {
+                  "id": "ca830997-64bc-5693-8539-f0375bb30710",
+                  "title": "Solution: indexOf()",
+                  "youtubeId": "BBpAmxU_NQo",
+                  "start": 2394,
+                  "stop": 2543
+                },
+                {
+                  "id": "889b33df-d704-51f4-a05c-1747bcdbf58e",
+                  "title": "Dynamic Arrays",
+                  "youtubeId": "BBpAmxU_NQo",
+                  "start": 2543,
+                  "stop": 2771
+                },
+                {
+                  "id": "746ce01e-a4ca-541f-8e13-613c99b2f347",
+                  "title": "Linked Lists Introduction",
+                  "youtubeId": "BBpAmxU_NQo",
+                  "start": 2771,
+                  "stop": 2801
+                },
+                {
+                  "id": "45e6f556-dc56-513e-9845-8d96c4f8f5b3",
+                  "title": "What are Linked Lists?",
+                  "youtubeId": "BBpAmxU_NQo",
+                  "start": 2801,
+                  "stop": 3076
+                },
+                {
+                  "id": "198c5f84-e440-5527-8105-4adfb8a858d7",
+                  "title": "Working with Linked Lists",
+                  "youtubeId": "BBpAmxU_NQo",
+                  "start": 3076,
+                  "stop": 3280
+                },
+                {
+                  "id": "96101b13-7758-5e86-83da-58b2535385d8",
+                  "title": "Exercise: Building a Linked List",
+                  "youtubeId": "BBpAmxU_NQo",
+                  "start": 3280,
+                  "stop": 3365
+                },
+                {
+                  "id": "1406dc43-491e-59ae-a0d8-d4f8b10ae6b4",
+                  "title": "Solution: addLast()",
+                  "youtubeId": "BBpAmxU_NQo",
+                  "start": 3365,
+                  "stop": 3735
+                },
+                {
+                  "id": "cd2a8106-cda8-5144-90bd-fc32c9cc4b21",
+                  "title": "Solution: addFirst()",
+                  "youtubeId": "BBpAmxU_NQo",
+                  "start": 3735,
+                  "stop": 3868
+                },
+                {
+                  "id": "3edf6232-0c4f-59bb-a8ab-3d4072cfc207",
+                  "title": "Solution: indexOf()",
+                  "youtubeId": "BBpAmxU_NQo",
+                  "start": 3868,
+                  "stop": 3983
+                },
+                {
+                  "id": "cb94e7a8-2360-59ca-9bfa-7c3367e2eb32",
+                  "title": "Solution: contains()",
+                  "youtubeId": "BBpAmxU_NQo",
+                  "start": 3983,
+                  "stop": 4048
+                },
+                {
+                  "id": "fb4f68fd-d1df-5dfe-8daf-eeffb17bb0e0",
+                  "title": "Solution: removeFirst()",
+                  "youtubeId": "BBpAmxU_NQo",
+                  "start": 4048,
+                  "stop": 4312
+                },
+                {
+                  "id": "454de021-69e8-50ae-a4b0-5a5d2f7661da",
+                  "title": "Solution: removeLast()",
+                  "youtubeId": "BBpAmxU_NQo",
+                  "start": 4312,
+                  "stop": 4722
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

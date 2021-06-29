@@ -1,0 +1,82 @@
+{
+  "id": "caed42a2-09e3-515d-b4d3-636070aa0ea3",
+  "url": "/alex-braine/javascript/building-7-games",
+  "title": "Build 7 games",
+  "cards": 7,
+  "createdAt": 1586362367,
+  "author": "freeCodeCamp.org",
+  "source": "https://www.youtube.com/watch?v=lhNdUVh3qCc",
+  "youtubeId": "lhNdUVh3qCc",
+  "children": [
+    {
+      "title": "JavaScript",
+      "children": [
+        {
+          "title": "Tutorial",
+          "children": [
+            {
+              "title": "Build 7 games",
+              "children": [
+                {
+                  "id": "59a7ab8d-12a0-50df-afdd-738271da8d4f",
+                  "title": "Intro",
+                  "youtubeId": "lhNdUVh3qCc",
+                  "start": 0,
+                  "stop": 115
+                },
+                {
+                  "id": "d812166e-5342-5ca6-83f2-20b5552a4369",
+                  "title": "Memory Game - Level 1",
+                  "youtubeId": "lhNdUVh3qCc",
+                  "documentation": "https://github.com/kubowania/memory-game",
+                  "start": 119,
+                  "stop": 699
+                },
+                {
+                  "id": "6ef69a76-382e-557b-b1b8-fd1b33adbd59",
+                  "title": "Whack-a-mole - level 1",
+                  "youtubeId": "lhNdUVh3qCc",
+                  "documentation": "https://github.com/kubowania/whac-a-mole",
+                  "start": 703,
+                  "stop": 1187
+                },
+                {
+                  "id": "b8e3642f-b13a-5e33-94a7-4fe9f37e9952",
+                  "title": "Connect Four - level 1",
+                  "youtubeId": "lhNdUVh3qCc",
+                  "documentation": "https://github.com/kubowania/connect-four",
+                  "start": 1192,
+                  "stop": 1657
+                },
+                {
+                  "id": "4dad55cc-eb20-5090-9793-5a6c1083cf8b",
+                  "title": "Nokia 3310 Snake - level 2",
+                  "youtubeId": "lhNdUVh3qCc",
+                  "documentation": "https://github.com/kubowania/Nokia3310-Snake",
+                  "start": 1663,
+                  "stop": 2590
+                },
+                {
+                  "id": "555a543c-1936-59c0-a801-a09a304456a7",
+                  "title": "Space Invaders - level 2",
+                  "youtubeId": "lhNdUVh3qCc",
+                  "documentation": "https://github.com/kubowania/space-invaders",
+                  "start": 2596,
+                  "stop": 4778
+                },
+                {
+                  "id": "c915b1d6-bb5f-5504-905b-0189fd11ed0b",
+                  "title": "Tetris - level 3",
+                  "youtubeId": "lhNdUVh3qCc",
+                  "documentation": "https://github.com/kubowania/Tetris",
+                  "start": 4782,
+                  "stop": 6549
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

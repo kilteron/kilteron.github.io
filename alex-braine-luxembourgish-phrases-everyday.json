@@ -1,0 +1,916 @@
+{
+  "id": "a0229b74-636c-5742-b642-275216bd0286",
+  "url": "/alex-braine/luxembourgish/phrases-everyday",
+  "title": "Everyday Phrases",
+  "cards": 78,
+  "createdAt": 1528003583,
+  "author": "Luxembourgish with Anne",
+  "youtubeId": "XcqsSm85NVc",
+  "source": "https://www.youtube.com/watch?v=XcqsSm85NVc",
+  "children": [
+    {
+      "title": "Luxembourgish",
+      "children": [
+        {
+          "title": "Phrases",
+          "children": [
+            {
+              "title": "Everyday",
+              "children": [
+                {
+                  "title": "Eng",
+                  "children": [
+                    {
+                      "title": "To have breakfast",
+                      "children": [
+                        {
+                          "id": "7ffb3c81-3241-5e17-9984-faecc1bd8a63",
+                          "title": "To have breakfast",
+                          "description": "Kaffi drénken",
+                          "avatar": 1,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 82.3,
+                          "stop": 83.6,
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "3a0f5dcc-4841-528d-8745-118f48c650e3",
+                          "title": "Have you already had a breakfast? (informal)",
+                          "description": "Hues du scho Kaffi gedronk?",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 100,
+                          "stop": 102.3,
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "3d063e20-e3a5-5061-bbf6-d19dc86e28d6",
+                          "title": "I haven't had breakfast yet",
+                          "description": "Ech hunn nach kee Kaffi gedronk",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 120,
+                          "stop": 122.4,
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "df08adf3-d67d-567d-86db-85bd9decba11",
+                          "title": "I usually have breakfast around 7.30am",
+                          "description": "Ech drénken normalerweis géint 7h30 moies Kaffi",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 136.1,
+                          "stop": 140.6,
+                          "hideDescription": true
+                        }
+                      ]
+                    },
+                    {
+                      "title": "To get up",
+                      "children": [
+                        {
+                          "id": "2c99fec3-4b48-59d5-9345-e802f6375d5a",
+                          "title": "To get up",
+                          "description": "Opstoen",
+                          "avatar": 1,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 150.4,
+                          "stop": 151.7,
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "a8689afa-edd8-5155-b83d-c28ee67a58b1",
+                          "title": "I get up early during the week",
+                          "description": "Ech stinn an der Woch fréi op",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 162.7,
+                          "stop": 165.7,
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "411d6332-6b72-5b02-83a3-fa6cb7e5e432",
+                          "title": "I got up at 6 o'clock this morning. I am so tired",
+                          "description": "Ech sinn de Moien um 6 Auer opgestan. Ech sinn esou midd",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 186.5,
+                          "stop": 194.3,
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "a0cbc653-89fb-5dc4-8e17-feb603cb14b2",
+                          "title": "When do you get up on Sunday morning? (informal)",
+                          "description": "Wéini stees du sonndes moies op?",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 199.4,
+                          "stop": 202,
+                          "hideDescription": true
+                        }
+                      ]
+                    },
+                    {
+                      "title": "To work",
+                      "children": [
+                        {
+                          "id": "53204b97-2590-5502-8059-dd07e32e71a5",
+                          "title": "To work",
+                          "description": "Schaffen",
+                          "avatar": 1,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 211.8,
+                          "stop": 212.7,
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "a3eb3e99-f9c1-5224-9f9b-ecea510f3732",
+                          "title": "Do you have to work tomorrow?",
+                          "description": "Muss du muer schaffen?",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 218.2,
+                          "stop": 219.6,
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "333c7cc3-cf64-58f6-af71-3e5727f3d769",
+                          "title": "Yes, I have to work the whole day tomorrow",
+                          "description": "Jo, ech muss muer de ganzen Dag schaffen",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 236,
+                          "stop": 240,
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "a2a15915-0509-5860-8fd8-7af2cb675e3f",
+                          "title": "I really like to garden (to do some gardening) in spring",
+                          "description": "Am Fréijoer schaffen ech immens gär am Gaart",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 252.9,
+                          "stop": 256.8,
+                          "hideDescription": true
+                        }
+                      ]
+                    },
+                    {
+                      "title": "To go / drive by, to take",
+                      "children": [
+                        {
+                          "id": "c9993057-2073-5180-a895-9b242b6a0a7b",
+                          "title": "with the + means of transport + to drive/to go by",
+                          "description": "mam + Transportmёttel + fueren",
+                          "avatar": 1,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 300.2,
+                          "stop": 310.4
+                        },
+                        {
+                          "id": "69b2235d-e924-5a1d-b4b7-2915ac1956bb",
+                          "title": "I go by bus to work",
+                          "description": "Ech fuere mam Bus op d'Schaff",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 313.6,
+                          "stop": 316.5,
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "178454b9-e324-5fd7-b04f-0b43cccb9bc5",
+                          "title": "Do you go by car or by train to Paris?",
+                          "description": "Fiers du mam Auto oder mam Zuch op Paräis?",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 340.1,
+                          "stop": 343.7,
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "4e15273a-085b-577a-a672-0d351e1700db",
+                          "title": "We took for the first time the tramway last weekend",
+                          "description": "Mir sinn de leschte Weekend fir d'éischt Kéier mam Tram geruer",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 358.7,
+                          "stop": 362.5,
+                          "hideDescription": true
+                        }
+                      ]
+                    },
+                    {
+                      "title": "To go shopping, to buy groceries",
+                      "children": [
+                        {
+                          "id": "c4d5878c-9095-51f2-b6c4-67e98d4338fc",
+                          "title": "to go shopping, to buy groceries",
+                          "description": "akafe goen",
+                          "avatar": 1,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 376,
+                          "stop": 377.4,
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "a32d5481-1641-5ae4-ba29-243935a13fc5",
+                          "title": "We always buy groceries on Friday evenings",
+                          "description": "Mir gi freides owes ёmmer akafen",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 387.7,
+                          "stop": 390.8,
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "f1856c9f-6738-5c16-8fd3-9181735b2036",
+                          "title": "Do you go as well shopping to the sity on saturdays?",
+                          "description": "Gitt dir och samschdes an d'Stad akafen?",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 404.6,
+                          "stop": 407.7,
+                          "hideDescription": true
+                        }
+                      ]
+                    },
+                    {
+                      "title": "To walk the dog",
+                      "children": [
+                        {
+                          "id": "a0120bc8-52ec-5ae1-9715-3540a2c596bf",
+                          "title": "to walk the dog",
+                          "description": "Mam Hond spadséiere goen",
+                          "avatar": 1,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 420.1,
+                          "stop": 422.2,
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "073b47cf-15d9-5d04-a94a-17b94f6ee42b",
+                          "title": "We always walk the dog in the evenings",
+                          "description": "Mir ginn owes ёmmer mam Hond spadséieren",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 432,
+                          "stop": 435.2,
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "3b52a3b2-f231-5a52-8ad3-d39e41f2dc69",
+                          "title": "How often do you (informal) walk the dog?",
+                          "description": "Wéi oft gees du mam Hond spadséieren?",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 446.9,
+                          "stop": 449.5,
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "e8c0e50e-abf4-5832-9c94-a5c33f5aa04f",
+                          "title": "Our neighbour almost never walks the dog",
+                          "description": "Eisen Noper geet bal ni mam Hond spadséieren",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 464.2,
+                          "stop": 467.3,
+                          "hideDescription": true
+                        }
+                      ]
+                    },
+                    {
+                      "title": "What do you do...?",
+                      "children": [
+                        {
+                          "id": "a9c6b31a-d4fd-5dfc-9822-d468ebdccb1d",
+                          "title": "what do you do...?",
+                          "description": "Wan méchs du...?",
+                          "avatar": 1,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 478.3,
+                          "stop": 480.2,
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "6b07e92e-96cc-5ab7-b702-95e1ea2bdc0b",
+                          "title": "what do you (formal) do...?",
+                          "description": "Wat maacht Dir...?",
+                          "avatar": 1,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 488.8,
+                          "stop": 490.4,
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "a482f8c9-4aaa-5413-bed7-b8d12fb91cd4",
+                          "title": "What are you doing this evening?",
+                          "description": "Wat méchs du haut den Owend?",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 512.3,
+                          "stop": 514.8,
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "fa5b4222-ad76-5014-a54e-187535e086d9",
+                          "title": "What do you do on the weekend?",
+                          "description": "Wat mmcht Dir de Weekend?",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 528.7,
+                          "stop": 530.4,
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "afa1433a-eb97-513d-943d-30bb4a46ccb4",
+                          "title": "What do you do after work today?",
+                          "description": "Wat méchs du haut no der Aarbecht?",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 544.4,
+                          "stop": 547,
+                          "hideDescription": true
+                        }
+                      ]
+                    },
+                    {
+                      "title": "To go on vacation",
+                      "children": [
+                        {
+                          "id": "753209bf-cad6-5bf1-accc-caeacb9d9f13",
+                          "title": "to go on vacation",
+                          "description": "An d'Vakanz fueren/goen",
+                          "avatar": 1,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 558.3,
+                          "stop": 563.2,
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "2a656fcb-7e0b-5424-813e-72a1bd81ef60",
+                          "title": "Like every year we drive to Italy on vacation in July",
+                          "description": "Wéi all Joer fuere mir am Juli an Italien an d'Vakanz",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 576.5,
+                          "stop": 581.5,
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "83157c6c-e92a-568d-9954-daf6aecc2d21",
+                          "title": "Where are you guys going on vacation this year?",
+                          "description": "Wuer gitt dir dёst Joer an d'Vakanz?",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 596.3,
+                          "stop": 598.8,
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "e557ef4e-7cb1-599b-b0d1-d0ed825b2abb",
+                          "title": "That's good question. We still don't know that.",
+                          "description": "Dat ass eng gutt Fro. Mir wёssen dat nach net.",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 607.1,
+                          "stop": 610.9,
+                          "hideDescription": true
+                        }
+                      ]
+                    },
+                    {
+                      "title": "To pick someone up",
+                      "children": [
+                        {
+                          "id": "1c0fbe61-8beb-5fd4-b774-3029000dbd2b",
+                          "title": "to pick someone up",
+                          "description": "een ofuelen",
+                          "avatar": 1,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 622.6,
+                          "stop": 624.3,
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "73cdd1de-18b6-5d97-b44b-5e40e80958ba",
+                          "title": "I pick up my children everyday at noon at school",
+                          "description": "Ech huele meng Kanner all Dag um 12 Auer an der Schoul of",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 632.2,
+                          "stop": 637.2,
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "d99353c9-918a-5dc7-9ae6-29116e4b96a4",
+                          "title": "Can yoy pick me up at the station this evening?",
+                          "description": "Kanns du mech den Owend op der Ger ofhuelen?",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 649.8,
+                          "stop": 653.3,
+                          "hideDescription": true
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Can you...?",
+                      "children": [
+                        {
+                          "id": "77b7faa9-33ae-51f0-882f-1e129231dd57",
+                          "title": "Can you...?",
+                          "description": "Kanns du...?",
+                          "avatar": 1,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 666.6,
+                          "stop": 667.7,
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "6b3aa0d0-8d1c-585b-a5a5-6cc3069ba66d",
+                          "title": "Can you (formal) ...?",
+                          "description": "Kёnnt Dir...?",
+                          "avatar": 1,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 671.3,
+                          "stop": 672.8,
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "d88bf1cd-c551-5434-a82d-b939e662f516",
+                          "title": "Can you (formal) repeat that please?",
+                          "description": "Kёnnt Dir dat widderhuelen, w.e.g.?",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 685.6,
+                          "stop": 688.6,
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "66819c24-9714-5a64-8fcb-ec0c9663ad93",
+                          "title": "Can you (informal) help me?",
+                          "description": "Kanns du mir hёllefen?",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 702.2,
+                          "stop": 703.9,
+                          "hideDescription": true
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "Lux",
+                  "children": [
+                    {
+                      "title": "To have breakfast",
+                      "children": [
+                        {
+                          "id": "bfb28907-051e-5808-b0a9-c751c56c1645",
+                          "title": "Kaffi drénken",
+                          "description": "To have breakfast",
+                          "avatar": 1,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 82.3,
+                          "stop": 83.6,
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "dfbdba00-8bbd-5cdd-988d-ede356f5f07d",
+                          "title": "Hues du scho Kaffi gedronk?",
+                          "description": "Have you already had a breakfast? (informal)",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 100,
+                          "stop": 102.3,
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "92beae2b-b428-520d-ab0b-fb22c72c56c5",
+                          "title": "Ech hunn nach kee Kaffi gedronk",
+                          "description": "I haven't had breakfast yet",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 120,
+                          "stop": 122.4,
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "3cf6e8cc-3f64-5ee9-900a-44bbe601c32b",
+                          "title": "Ech drénken normalerweis géint 7h30 moies Kaffi",
+                          "description": "I usually have breakfast around 7.30am",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 136.1,
+                          "stop": 140.6,
+                          "hideTitleAndDescription": true
+                        }
+                      ]
+                    },
+                    {
+                      "title": "To get up",
+                      "children": [
+                        {
+                          "id": "4f28bd19-2974-5ec6-ad7f-b9d682405298",
+                          "title": "Opstoen",
+                          "description": "To get up",
+                          "avatar": 1,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 150.4,
+                          "stop": 151.7,
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "8d3c7c2b-5692-55c0-8fd3-82f4f811adb5",
+                          "title": "Ech stinn an der Woch fréi op",
+                          "description": "I get up early during the week",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 162.7,
+                          "stop": 165.7,
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "f05f1854-3fc3-510f-89cb-cd8eb87abb23",
+                          "title": "Ech sinn de Moien um 6 Auer opgestan. Ech sinn esou midd",
+                          "description": "I got up at 6 o'clock this morning. I am so tired",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 186.5,
+                          "stop": 194.3,
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "fc072fb4-f81c-51cf-8c31-77ae62976fe6",
+                          "title": "Wéini stees du sonndes moies op?",
+                          "description": "When do you get up on Sunday morning? (informal)",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 199.4,
+                          "stop": 202,
+                          "hideTitleAndDescription": true
+                        }
+                      ]
+                    },
+                    {
+                      "title": "To work",
+                      "children": [
+                        {
+                          "id": "ed750b59-68b9-5b30-95b5-bae0410038b2",
+                          "title": "Schaffen",
+                          "description": "To work",
+                          "avatar": 1,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 211.8,
+                          "stop": 212.7,
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "b8696449-6711-5cdd-ab3e-442c05e8eed5",
+                          "title": "Muss du muer schaffen?",
+                          "description": "Do you have to work tomorrow?",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 218.2,
+                          "stop": 219.6,
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "07b74d79-6fa4-56b0-a648-055842c25d66",
+                          "title": "Jo, ech muss muer de ganzen Dag schaffen",
+                          "description": "Yes, I have to work the whole day tomorrow",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 236,
+                          "stop": 240,
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "42c25cf5-e7df-56aa-bdac-77ac189c2a8f",
+                          "title": "Am Fréijoer schaffen ech immens gär am Gaart",
+                          "description": "I really like to garden (to do some gardening) in spring",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 252.9,
+                          "stop": 256.8,
+                          "hideTitleAndDescription": true
+                        }
+                      ]
+                    },
+                    {
+                      "title": "To go / drive by, to take",
+                      "children": [
+                        {
+                          "id": "d19789bd-ad6f-5156-9b5d-95be580a568a",
+                          "title": "mam + Transportmёttel + fueren",
+                          "description": "with the + means of transport + to drive/to go by",
+                          "avatar": 1,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 300.2,
+                          "stop": 310.4,
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "b009497c-59ee-535a-9bfe-89dfaf1c0589",
+                          "title": "Ech fuere mam Bus op d'Schaff",
+                          "description": "I go by bus to work",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 313.6,
+                          "stop": 316.5,
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "c43087bc-5b34-58eb-9cbe-1357a3460355",
+                          "title": "Fiers du mam Auto oder mam Zuch op Paräis?",
+                          "description": "Do you go by car or by train to Paris?",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 340.1,
+                          "stop": 343.7,
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "6cf48058-75a5-511e-9cad-05f62e975533",
+                          "title": "Mir sinn de leschte Weekend fir d'éischt Kéier mam Tram geruer",
+                          "description": "We took for the first time the tramway last weekend",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 358.7,
+                          "stop": 362.5,
+                          "hideTitleAndDescription": true
+                        }
+                      ]
+                    },
+                    {
+                      "title": "To go shopping, to buy groceries",
+                      "children": [
+                        {
+                          "id": "de53831c-b751-568f-ac50-dfb4fe2e0bca",
+                          "title": "akafe goen",
+                          "description": "to go shopping, to buy groceries",
+                          "avatar": 1,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 376,
+                          "stop": 377.4,
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "04e8bbfc-ed77-56d2-a7ce-a3520792d1a4",
+                          "title": "Mir gi freides owes ёmmer akafen",
+                          "description": "We always buy groceries on Friday evenings",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 387.7,
+                          "stop": 390.8,
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "49f818e5-c95a-55b2-9f7a-f83a20dd7bde",
+                          "title": "Gitt dir och samschdes an d'Stad akafen?",
+                          "description": "Do you go as well shopping to the sity on saturdays?",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 404.6,
+                          "stop": 407.7,
+                          "hideTitleAndDescription": true
+                        }
+                      ]
+                    },
+                    {
+                      "title": "To walk the dog",
+                      "children": [
+                        {
+                          "id": "96db3727-2b95-5ae5-8677-d7068c72ed3c",
+                          "title": "Mam Hond spadséiere goen",
+                          "description": "to walk the dog",
+                          "avatar": 1,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 420.1,
+                          "stop": 422.2,
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "77ae3e55-6bf4-5f79-bcae-f95873fce94e",
+                          "title": "Mir ginn owes ёmmer mam Hond spadséieren",
+                          "description": "We always walk the dog in the evenings",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 432,
+                          "stop": 435.2,
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "9f7d5904-ad97-509f-ad75-a0cd2a95eb36",
+                          "title": "Wéi oft gees du mam Hond spadséieren?",
+                          "description": "How often do you (informal) walk the dog?",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 446.9,
+                          "stop": 449.5,
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "a3b5ce54-53bf-550b-a939-8d92d169dc02",
+                          "title": "Eisen Noper geet bal ni mam Hond spadséieren",
+                          "description": "Our neighbour almost never walks the dog",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 464.2,
+                          "stop": 467.3,
+                          "hideTitleAndDescription": true
+                        }
+                      ]
+                    },
+                    {
+                      "title": "What do you do...?",
+                      "children": [
+                        {
+                          "id": "7919147f-2499-5679-97bc-f31387693815",
+                          "title": "Wan méchs du...?",
+                          "description": "what do you do...?",
+                          "avatar": 1,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 478.3,
+                          "stop": 480.2,
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "40868fba-a55b-5fef-a2c5-0679a0a31e41",
+                          "title": "Wat maacht Dir...?",
+                          "description": "what do you (formal) do...?",
+                          "avatar": 1,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 488.8,
+                          "stop": 490.4,
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "c7843d5d-5a19-5dd0-bced-266c3c9bac61",
+                          "title": "Wat méchs du haut den Owend?",
+                          "description": "What are you doing this evening?",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 512.3,
+                          "stop": 514.8,
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "e1ebe9fc-3a45-5d77-9530-106f991915c1",
+                          "title": "Wat mmcht Dir de Weekend?",
+                          "description": "What do you do on the weekend?",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 528.7,
+                          "stop": 530.4,
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "9dd467ab-de9c-5257-9f3b-a82cbcf7c1f2",
+                          "title": "Wat méchs du haut no der Aarbecht?",
+                          "description": "What do you do after work today?",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 544.4,
+                          "stop": 547,
+                          "hideTitleAndDescription": true
+                        }
+                      ]
+                    },
+                    {
+                      "title": "To go on vacation",
+                      "children": [
+                        {
+                          "id": "4458e8f9-00ab-5154-a2dd-7016169c2c8d",
+                          "title": "An d'Vakanz fueren/goen",
+                          "description": "to go on vacation",
+                          "avatar": 1,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 558.3,
+                          "stop": 563.2,
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "8d6a0f3c-6da4-5758-b196-c466459e1e5b",
+                          "title": "Wéi all Joer fuere mir am Juli an Italien an d'Vakanz",
+                          "description": "Like every year we drive to Italy on vacation in July",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 576.5,
+                          "stop": 581.5,
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "d3fa758c-93cb-5c17-9942-8478c4318f89",
+                          "title": "Wuer gitt dir dёst Joer an d'Vakanz?",
+                          "description": "Where are you guys going on vacation this year?",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 596.3,
+                          "stop": 598.8,
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "260e0ad6-93e2-5d7d-accd-4e2235aa4524",
+                          "title": "Dat ass eng gutt Fro. Mir wёssen dat nach net.",
+                          "description": "That's good question. We still don't know that.",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 607.1,
+                          "stop": 610.9,
+                          "hideTitleAndDescription": true
+                        }
+                      ]
+                    },
+                    {
+                      "title": "To pick someone up",
+                      "children": [
+                        {
+                          "id": "9754e527-b53f-5334-8ef5-90315aeae749",
+                          "title": "een ofuelen",
+                          "description": "to pick someone up",
+                          "avatar": 1,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 622.6,
+                          "stop": 624.3,
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "26a5f3e0-a245-5892-a3d2-aada1208fa6c",
+                          "title": "Ech huele meng Kanner all Dag um 12 Auer an der Schoul of",
+                          "description": "I pick up my children everyday at noon at school",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 632.2,
+                          "stop": 637.2,
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "489ea7e5-0721-5298-bffd-6f63712a1415",
+                          "title": "Kanns du mech den Owend op der Ger ofhuelen?",
+                          "description": "Can yoy pick me up at the station this evening?",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 649.8,
+                          "stop": 653.3,
+                          "hideTitleAndDescription": true
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Can you...?",
+                      "children": [
+                        {
+                          "id": "f2a40d93-9c73-5751-adc9-bcd01915d41c",
+                          "title": "Kanns du...?",
+                          "description": "Can you...?",
+                          "avatar": 1,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 666.6,
+                          "stop": 667.7,
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "52d44636-b33d-5d00-96d1-c52a1d0ffab8",
+                          "title": "Kёnnt Dir...?",
+                          "description": "Can you (formal) ...?",
+                          "avatar": 1,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 671.3,
+                          "stop": 672.8,
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "99ea5673-fe1c-5570-8fe7-63dc76234755",
+                          "title": "Kёnnt Dir dat widderhuelen, w.e.g.?",
+                          "description": "Can you (formal) repeat that please?",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 685.6,
+                          "stop": 688.6,
+                          "hideTitleAndDescription": true
+                        },
+                        {
+                          "id": "53579997-b681-58af-b942-1f65f10d27bb",
+                          "title": "Kanns du mir hёllefen?",
+                          "description": "Can you (informal) help me?",
+                          "avatar": 3,
+                          "youtubeId": "XcqsSm85NVc",
+                          "start": 702.2,
+                          "stop": 703.9,
+                          "hideTitleAndDescription": true
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

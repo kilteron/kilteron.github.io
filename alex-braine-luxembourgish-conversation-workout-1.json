@@ -1,0 +1,234 @@
+{
+  "id": "a0229b74-636c-5742-b642-275216bd0286",
+  "url": "/alex-braine/luxembourgish/conversation-workout-1",
+  "title": "Conversation workout 1",
+  "cards": 78,
+  "createdAt": 1528003583,
+  "author": "Luxembourgish with Anne",
+  "youtubeId": "VlfP6Hcgyus",
+  "source": "https://www.youtube.com/watch?v=VlfP6Hcgyus",
+  "children": [
+    {
+      "title": "Luxembourgish",
+      "children": [
+        {
+          "title": "Phrases",
+          "children": [
+            {
+              "title": "Conversation workout 1",
+              "children": [
+                {
+                  "id": "efa5256d-da3d-5736-a26e-0fe19a39d7b6",
+                  "title": "How are you?",
+                  "description": "Wéi geet et?",
+                  "start": "104.8",
+                  "stop": "105.8",
+                  "youtubeId": "VlfP6Hcgyus",
+                  "avatar": 1
+                },
+                {
+                  "id": "46bd88c4-9acb-556c-a3e9-3e74b432d21c",
+                  "title": "Hi Marc, how are you?",
+                  "description": "Salut Marc, wéi geet et?",
+                  "start": "133.9",
+                  "stop": "136.1",
+                  "youtubeId": "VlfP6Hcgyus",
+                  "avatar": 1
+                },
+                {
+                  "id": "ff605dc2-a6de-50ad-b402-6d9d3a602089",
+                  "title": "Hi Fabienne, how are you?",
+                  "description": "Salut Fabienne, wéi geet et dir?",
+                  "start": "145.4",
+                  "stop": "148.0",
+                  "youtubeId": "VlfP6Hcgyus",
+                  "avatar": 1
+                },
+                {
+                  "id": "828549d6-c870-5f45-8804-855f981faf66",
+                  "title": "Hi Claude, how is it going?",
+                  "description": "Salut Claude? wéi ass et?",
+                  "start": "195.0",
+                  "stop": "197.2",
+                  "youtubeId": "VlfP6Hcgyus",
+                  "avatar": 1
+                },
+                {
+                  "id": "1c63f46a-22bb-56b6-bdc5-c80c3f59d710",
+                  "title": "And? It is going?",
+                  "description": "An? Geet et?",
+                  "start": "218.1",
+                  "stop": "220.1",
+                  "youtubeId": "VlfP6Hcgyus",
+                  "avatar": 1
+                },
+                {
+                  "id": "75b6f2b9-056c-5c51-9377-6346d2c3b653",
+                  "title": "And?",
+                  "description": "An?",
+                  "start": "230.5",
+                  "stop": "231.2",
+                  "youtubeId": "VlfP6Hcgyus",
+                  "avatar": 1
+                },
+                {
+                  "id": "2e2e7f9a-1ce6-5bb6-baa7-66dd443c96e8",
+                  "title": "And? What are you doing...?",
+                  "description": "An? Wat méchs du...?",
+                  "start": "257.1",
+                  "stop": "259.5",
+                  "youtubeId": "VlfP6Hcgyus",
+                  "avatar": 1
+                },
+                {
+                  "id": "bcf852e6-7fe8-5c09-b1e4-7fc11929ec3e",
+                  "title": "And? What are you doing this evening?",
+                  "description": "An? Wat méchs du den Owend?",
+                  "start": "297.7",
+                  "stop": "300.6",
+                  "youtubeId": "VlfP6Hcgyus",
+                  "avatar": 1
+                },
+                {
+                  "id": "5318c4f2-686f-5f8f-a831-bad1937ecfe8",
+                  "title": "What are you doing this evening?",
+                  "description": "Wat mёss de den Owend?",
+                  "start": "322.5",
+                  "stop": "323.9",
+                  "youtubeId": "VlfP6Hcgyus",
+                  "avatar": 1
+                },
+                {
+                  "id": "41ce044d-7206-599b-a19a-36e215d0b8b2",
+                  "title": "And? What are you doing at the weekend?",
+                  "description": "An? Wat méchs de dann de Weekend?",
+                  "start": "347.5",
+                  "stop": "350.7",
+                  "youtubeId": "VlfP6Hcgyus",
+                  "avatar": 1
+                },
+                {
+                  "id": "a502d302-7ba1-5bd0-beca-1d3dcd37ed57",
+                  "title": "And? What are you doing at the weekend?",
+                  "description": "A wat méchs de dann de Weekend?",
+                  "start": "354.9",
+                  "stop": "357.4",
+                  "youtubeId": "VlfP6Hcgyus",
+                  "avatar": 1
+                },
+                {
+                  "id": "fa493a74-0b6b-5104-97b1-b8fc2e610505",
+                  "title": "And? What are you doing tomorrow?",
+                  "description": "A wat méchs de da muer?",
+                  "start": "394.8",
+                  "stop": "396.6",
+                  "youtubeId": "VlfP6Hcgyus",
+                  "avatar": 1
+                },
+                {
+                  "id": "9fc040a0-8161-55ba-bf91-e86c4a6cb29d",
+                  "title": "And? What are you up to?",
+                  "description": "An? Wat méchs de dann esou?",
+                  "start": "446.3",
+                  "stop": "449.2",
+                  "youtubeId": "VlfP6Hcgyus",
+                  "avatar": 1
+                },
+                {
+                  "id": "531cd7dd-fe9a-5f69-89ae-4b67fe780a88",
+                  "title": "Do you have any plans?",
+                  "description": "Hues de eppes vir?",
+                  "start": "477.0",
+                  "stop": "479.3",
+                  "youtubeId": "VlfP6Hcgyus",
+                  "avatar": 1
+                },
+                {
+                  "id": "4ff79e9d-12ed-5d61-904c-a858440bc320",
+                  "title": "Do you have any plans today?",
+                  "description": "Hues de haut eppes vir?",
+                  "start": "503.1",
+                  "stop": "505.4",
+                  "youtubeId": "VlfP6Hcgyus",
+                  "avatar": 1
+                },
+                {
+                  "id": "906f7fc6-59cb-5f9e-bd70-4e5bf4cfd1e8",
+                  "title": "Do you already have any plans for today?",
+                  "description": "Hues de haut schonn eppes vir?",
+                  "start": "514.3",
+                  "stop": "516.4",
+                  "youtubeId": "VlfP6Hcgyus",
+                  "avatar": 1
+                },
+                {
+                  "id": "35da31d8-05a8-55ed-87db-074b191d8a4e",
+                  "title": "And? What are you doing at the weekend? Got already any plans?",
+                  "description": "An? Wat méchs de de Weekend? Schonn eppes vir?",
+                  "start": "535.3",
+                  "stop": "539.7",
+                  "youtubeId": "VlfP6Hcgyus",
+                  "avatar": 1
+                },
+                {
+                  "id": "9e04a8dd-a31e-5c0c-a373-d8070170b3d8",
+                  "title": "How's your family?",
+                  "description": "Wéi geet et denger Famill?",
+                  "start": "569.1",
+                  "stop": "571.1",
+                  "youtubeId": "VlfP6Hcgyus",
+                  "avatar": 1
+                },
+                {
+                  "id": "01ab3981-89aa-5a7b-9577-4441076e7e23",
+                  "title": "And? How are your children?",
+                  "description": "An? Wéi geet et denge Kanner?",
+                  "start": "589.8",
+                  "stop": "592.2",
+                  "youtubeId": "VlfP6Hcgyus",
+                  "avatar": 1
+                },
+                {
+                  "id": "e5ee4475-f563-55b9-a4b3-99d3a3901850",
+                  "title": "And? How is your husband?",
+                  "description": "An? Wéi geet et dengem Mann?",
+                  "start": "593.5",
+                  "stop": "596.3",
+                  "youtubeId": "VlfP6Hcgyus",
+                  "avatar": 1
+                },
+                {
+                  "id": "01d4afb5-820f-5534-97f2-d52fd3abf69e",
+                  "title": "And? How is your wife?",
+                  "description": "An? Wéi geet et denger Fra?",
+                  "start": "597.7",
+                  "stop": "599.8",
+                  "youtubeId": "VlfP6Hcgyus",
+                  "avatar": 1
+                },
+                {
+                  "id": "8320c5ce-1dd2-5df0-83d1-cc2010df7f9b",
+                  "title": "What are your kids up to?",
+                  "description": "Wéi geet et denge Kanner dann esou?",
+                  "start": "607.2",
+                  "stop": "609.4",
+                  "youtubeId": "VlfP6Hcgyus",
+                  "avatar": 1
+                },
+                {
+                  "id": "3ce401dd-82ee-58b4-b4dc-5e28c1f34a41",
+                  "title": "And? How is your family?",
+                  "description": "An? Wat soen se doheem?",
+                  "start": "630.1",
+                  "stop": "632.3",
+                  "youtubeId": "VlfP6Hcgyus",
+                  "avatar": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

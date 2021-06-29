@@ -1,0 +1,467 @@
+{
+  "id": "187bd1c4-b662-5087-9d68-bb5e21089b08",
+  "url": "/alex-braine/luxembourgish/words-numbers-0-20",
+  "title": "Numbers 0 - 20",
+  "cards": 42,
+  "createdAt": 1532773708,
+  "author": "Luxembourgish with Anne",
+  "youtubeId": "_M_WU9Tv0qg",
+  "source": "https://www.youtube.com/watch?v=_M_WU9Tv0qg",
+  "children": [
+    {
+      "title": "Luxembourgish",
+      "children": [
+        {
+          "title": "Words",
+          "children": [
+            {
+              "title": "Numbers",
+              "children": [
+                {
+                  "title": "0 - 20",
+                  "children": [
+                    {
+                      "title": "Eng",
+                      "children": [
+                        {
+                          "id": "d3f0cef4-3382-5fe5-93dc-7445961cb09e",
+                          "title": "Zero (0)",
+                          "description": "Null",
+                          "avatar": 1,
+                          "youtubeId": "_M_WU9Tv0qg",
+                          "start": "32.8",
+                          "stop": "33.5",
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "e58eae29-0cac-54d2-bcc7-5ea007079658",
+                          "title": "One (1)",
+                          "description": "Eent",
+                          "avatar": 1,
+                          "youtubeId": "_M_WU9Tv0qg",
+                          "start": "40.1",
+                          "stop": "40.8",
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "c16bf420-3c7a-5d3c-9f8b-421f8c274d9d",
+                          "title": "Two (2)",
+                          "description": "Zwee",
+                          "avatar": 1,
+                          "youtubeId": "_M_WU9Tv0qg",
+                          "start": "44.7",
+                          "stop": "45.4",
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "11901acc-1dfc-5f50-b8d9-832638bd7f4b",
+                          "title": "Three (3)",
+                          "description": "Dräi",
+                          "avatar": 1,
+                          "youtubeId": "_M_WU9Tv0qg",
+                          "start": "49.2",
+                          "stop": "50.1",
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "cf66d487-f36f-5e21-b9ef-7b9312ed1b1b",
+                          "title": "Four (4)",
+                          "description": "Véier",
+                          "avatar": 1,
+                          "youtubeId": "_M_WU9Tv0qg",
+                          "start": "53.5",
+                          "stop": "54.4",
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "cf8a65d7-66c8-549f-be72-8d128cf07a5d",
+                          "title": "Five (5)",
+                          "description": "Fënnef",
+                          "avatar": 1,
+                          "youtubeId": "_M_WU9Tv0qg",
+                          "start": "58.2",
+                          "stop": "59.2",
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "0ec791e9-2ac5-5008-bef5-e2f9366974d3",
+                          "title": "Six (6)",
+                          "description": "Sechs",
+                          "avatar": 1,
+                          "youtubeId": "_M_WU9Tv0qg",
+                          "start": "63.2",
+                          "stop": "64.2",
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "f22f13e9-71c7-558f-897f-6b2130817731",
+                          "title": "Seven (7)",
+                          "description": "Siwen",
+                          "avatar": 1,
+                          "youtubeId": "_M_WU9Tv0qg",
+                          "start": "68.0",
+                          "stop": "69.0",
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "0eadbd62-3635-5561-85e4-8040b8e25aea",
+                          "title": "Eight (8)",
+                          "description": "Aacht",
+                          "avatar": 1,
+                          "youtubeId": "_M_WU9Tv0qg",
+                          "start": "73.0",
+                          "stop": "74.3",
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "581a38f8-3647-5a48-bd80-e61896b4471e",
+                          "title": "Nine (9)",
+                          "description": "Néng",
+                          "avatar": 1,
+                          "youtubeId": "_M_WU9Tv0qg",
+                          "start": "78.8",
+                          "stop": "79.7",
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "b32cae10-c5cf-5ea2-bdfc-075377c54963",
+                          "title": "Ten (10)",
+                          "description": "Zéng",
+                          "avatar": 1,
+                          "youtubeId": "_M_WU9Tv0qg",
+                          "start": "83.0",
+                          "stop": "84.0",
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "ea538e2e-058e-52d1-99c0-f87b5863a882",
+                          "title": "Eleven (11)",
+                          "description": "Eelef",
+                          "avatar": 1,
+                          "youtubeId": "_M_WU9Tv0qg",
+                          "start": "119.5",
+                          "stop": "121.0",
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "3bc247a2-c353-53b7-b920-95562ff1fe2a",
+                          "title": "Twelve (12)",
+                          "description": "Zwielef",
+                          "avatar": 1,
+                          "youtubeId": "_M_WU9Tv0qg",
+                          "start": "125.6",
+                          "stop": "127.2",
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "4f498284-33dd-516d-aedb-c5a1a6264171",
+                          "title": "Thirteen (13)",
+                          "description": "Dräizéng",
+                          "avatar": 1,
+                          "youtubeId": "_M_WU9Tv0qg",
+                          "start": "130.5",
+                          "stop": "131.8",
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "679225b9-6633-539f-9b7d-714fcdb1fc57",
+                          "title": "Fourteen (14)",
+                          "description": "Véierzéng",
+                          "avatar": 1,
+                          "youtubeId": "_M_WU9Tv0qg",
+                          "start": "135.6",
+                          "stop": "136.7",
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "3d3e29c7-5572-5809-a4e2-f12dd8b3dedc",
+                          "title": "Fifteen (15)",
+                          "description": "Fofzéng",
+                          "avatar": 1,
+                          "youtubeId": "_M_WU9Tv0qg",
+                          "start": "140.5",
+                          "stop": "141.7",
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "c6b9e540-95cd-55bc-b20e-22e5eb9f62b6",
+                          "title": "Sixteen (16)",
+                          "description": "Sieshzéng",
+                          "avatar": 1,
+                          "youtubeId": "_M_WU9Tv0qg",
+                          "start": "145.6",
+                          "stop": "147.2",
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "da0f9178-df9a-5d14-b8a4-6aeaeb534b9d",
+                          "title": "Seventeen (17)",
+                          "description": "Siwwenzéng",
+                          "avatar": 1,
+                          "youtubeId": "_M_WU9Tv0qg",
+                          "start": "154",
+                          "stop": "155.0",
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "00a66ffb-6e10-55f8-ae83-79aefa8f628b",
+                          "title": "Eighteen (18)",
+                          "description": "Uechzéng",
+                          "avatar": 1,
+                          "youtubeId": "_M_WU9Tv0qg",
+                          "start": "158.4",
+                          "stop": "159.6",
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "8c6ee6f2-e029-5c92-af71-bfc2a4026e0b",
+                          "title": "Nineteen (19)",
+                          "description": "Nonzéng",
+                          "avatar": 1,
+                          "youtubeId": "_M_WU9Tv0qg",
+                          "start": "163.2",
+                          "stop": "164.7",
+                          "hideDescription": true
+                        },
+                        {
+                          "id": "23fac1d5-8c8d-50c7-a8d2-b0140a52fb85",
+                          "title": "Twenty (20)",
+                          "description": "Zwanzeg",
+                          "avatar": 1,
+                          "youtubeId": "_M_WU9Tv0qg",
+                          "start": "168.1",
+                          "stop": "169.4",
+                          "hideDescription": true
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Lux",
+                      "children": [
+                        {
+                          "title": "Eng",
+                          "children": [
+                            {
+                              "id": "e4b68ffb-2f4d-55c3-a5b4-6dd50eb7b8dc",
+                              "title": "Null",
+                              "description": "Zero (0)",
+                              "avatar": 1,
+                              "youtubeId": "_M_WU9Tv0qg",
+                              "start": "32.8",
+                              "stop": "33.5",
+                              "hideTitleAndDescription": true
+                            },
+                            {
+                              "id": "dc040935-2c01-5bd6-a67f-a6277736b680",
+                              "title": "Eent",
+                              "description": "One (1)",
+                              "avatar": 1,
+                              "youtubeId": "_M_WU9Tv0qg",
+                              "start": "40.1",
+                              "stop": "40.8",
+                              "hideTitleAndDescription": true
+                            },
+                            {
+                              "id": "16d3f82c-3130-5ba5-9d50-d511bafb3c5b",
+                              "title": "Zwee",
+                              "description": "Two (2)",
+                              "avatar": 1,
+                              "youtubeId": "_M_WU9Tv0qg",
+                              "start": "44.7",
+                              "stop": "45.4",
+                              "hideTitleAndDescription": true
+                            },
+                            {
+                              "id": "1c6fc5b6-79dc-5de7-83a0-2a088ca9314b",
+                              "title": "Dräi",
+                              "description": "Three (3)",
+                              "avatar": 1,
+                              "youtubeId": "_M_WU9Tv0qg",
+                              "start": "49.2",
+                              "stop": "50.1",
+                              "hideTitleAndDescription": true
+                            },
+                            {
+                              "id": "99ab68b2-d2a8-5147-a7cc-fc68d5516639",
+                              "title": "Véier",
+                              "description": "Four (4)",
+                              "avatar": 1,
+                              "youtubeId": "_M_WU9Tv0qg",
+                              "start": "53.5",
+                              "stop": "54.4",
+                              "hideTitleAndDescription": true
+                            },
+                            {
+                              "id": "ff50b248-2e79-588d-abb2-afe9d401d225",
+                              "title": "Fënnef",
+                              "description": "Five (5)",
+                              "avatar": 1,
+                              "youtubeId": "_M_WU9Tv0qg",
+                              "start": "58.2",
+                              "stop": "59.2",
+                              "hideTitleAndDescription": true
+                            },
+                            {
+                              "id": "9b9f5585-5f73-540e-a81d-6d83a96d1f64",
+                              "title": "Sechs",
+                              "description": "Six (6)",
+                              "avatar": 1,
+                              "youtubeId": "_M_WU9Tv0qg",
+                              "start": "63.2",
+                              "stop": "64.2",
+                              "hideTitleAndDescription": true
+                            },
+                            {
+                              "id": "9066e0bf-8b99-55cd-9ec1-2245aeaca1b3",
+                              "title": "Siwen",
+                              "description": "Seven (7)",
+                              "avatar": 1,
+                              "youtubeId": "_M_WU9Tv0qg",
+                              "start": "68.0",
+                              "stop": "69.0",
+                              "hideTitleAndDescription": true
+                            },
+                            {
+                              "id": "7a9dd58a-6ca3-5769-a44f-d0efc7c85490",
+                              "title": "Aacht",
+                              "description": "Eight (8)",
+                              "avatar": 1,
+                              "youtubeId": "_M_WU9Tv0qg",
+                              "start": "73.0",
+                              "stop": "74.3",
+                              "hideTitleAndDescription": true
+                            },
+                            {
+                              "id": "380e6f31-d91b-5c4b-8e99-ab26996750ee",
+                              "title": "Néng",
+                              "description": "Nine (9)",
+                              "avatar": 1,
+                              "youtubeId": "_M_WU9Tv0qg",
+                              "start": "78.8",
+                              "stop": "79.7",
+                              "hideTitleAndDescription": true
+                            },
+                            {
+                              "id": "f888d562-8c1f-5038-9c27-d278685d0183",
+                              "title": "Zéng",
+                              "description": "Ten (10)",
+                              "avatar": 1,
+                              "youtubeId": "_M_WU9Tv0qg",
+                              "start": "83.0",
+                              "stop": "84.0",
+                              "hideTitleAndDescription": true
+                            },
+                            {
+                              "id": "767debd5-2257-5048-926e-21fa3656777c",
+                              "title": "Eelef",
+                              "description": "Eleven (11)",
+                              "avatar": 1,
+                              "youtubeId": "_M_WU9Tv0qg",
+                              "start": "119.5",
+                              "stop": "121.0",
+                              "hideTitleAndDescription": true
+                            },
+                            {
+                              "id": "134eb10f-e1c4-526f-b6c6-088f9467d646",
+                              "title": "Zwielef",
+                              "description": "Twelve (12)",
+                              "avatar": 1,
+                              "youtubeId": "_M_WU9Tv0qg",
+                              "start": "125.6",
+                              "stop": "127.2",
+                              "hideTitleAndDescription": true
+                            },
+                            {
+                              "id": "a8a1aa0b-a2b7-58ca-88ad-b075a74d3be8",
+                              "title": "Dräizéng",
+                              "description": "Thirteen (13)",
+                              "avatar": 1,
+                              "youtubeId": "_M_WU9Tv0qg",
+                              "start": "130.5",
+                              "stop": "131.8",
+                              "hideTitleAndDescription": true
+                            },
+                            {
+                              "id": "54f93e5a-b580-58f2-986f-0fea7e9edf57",
+                              "title": "Véierzéng",
+                              "description": "Fourteen (14)",
+                              "avatar": 1,
+                              "youtubeId": "_M_WU9Tv0qg",
+                              "start": "135.6",
+                              "stop": "136.7",
+                              "hideTitleAndDescription": true
+                            },
+                            {
+                              "id": "d02559b6-3a34-5018-8d3b-d562740cbff8",
+                              "title": "Fofzéng",
+                              "description": "Fifteen (15)",
+                              "avatar": 1,
+                              "youtubeId": "_M_WU9Tv0qg",
+                              "start": "140.5",
+                              "stop": "141.7",
+                              "hideTitleAndDescription": true
+                            },
+                            {
+                              "id": "f603a3fa-7bd4-56b7-8398-e88f62f0ea8d",
+                              "title": "Sieshzéng",
+                              "description": "Sixteen (16)",
+                              "avatar": 1,
+                              "youtubeId": "_M_WU9Tv0qg",
+                              "start": "145.6",
+                              "stop": "147.2",
+                              "hideTitleAndDescription": true
+                            },
+                            {
+                              "id": "a1d29098-6a68-51e4-bbf6-15e794af0d8e",
+                              "title": "Siwwenzéng",
+                              "description": "Seventeen (17)",
+                              "avatar": 1,
+                              "youtubeId": "_M_WU9Tv0qg",
+                              "start": "154",
+                              "stop": "155.0",
+                              "hideTitleAndDescription": true
+                            },
+                            {
+                              "id": "da0a8b5d-d9d9-5d9e-99e5-d311e6f44244",
+                              "title": "Uechzéng",
+                              "description": "Eighteen (18)",
+                              "avatar": 1,
+                              "youtubeId": "_M_WU9Tv0qg",
+                              "start": "158.4",
+                              "stop": "159.6",
+                              "hideTitleAndDescription": true
+                            },
+                            {
+                              "id": "dd39931c-2178-534b-978f-ef8950894956",
+                              "title": "Nonzéng",
+                              "description": "Nineteen (19)",
+                              "avatar": 1,
+                              "youtubeId": "_M_WU9Tv0qg",
+                              "start": "163.2",
+                              "stop": "164.7",
+                              "hideTitleAndDescription": true
+                            },
+                            {
+                              "id": "ff472ab5-5990-5d9d-89a7-b70c04a1e8bd",
+                              "title": "Zwanzeg",
+                              "description": "Twenty (20)",
+                              "avatar": 1,
+                              "youtubeId": "_M_WU9Tv0qg",
+                              "start": "168.1",
+                              "stop": "169.4",
+                              "hideTitleAndDescription": true
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

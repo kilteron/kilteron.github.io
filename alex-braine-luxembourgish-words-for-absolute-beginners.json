@@ -1,0 +1,637 @@
+{
+  "id": "aa16157e-a347-50b0-9858-d02bd59c1e05",
+  "url": "/alex-braine/luxembourgish/words-for-absolute-beginners",
+  "title": "Luxembourgish for Beginners",
+  "cards": 60,
+  "createdAt": 1533376805,
+  "author": "Luxembourgish with Anne",
+  "youtubeId": "kXFtbeWxhD8",
+  "source": "https://www.youtube.com/watch?v=kXFtbeWxhD8",
+  "children": [
+    {
+      "title": "Luxembourgish",
+      "children": [
+        {
+          "title": "Words",
+          "children": [
+            {
+              "title": "For Absolute Beginners",
+              "children": [
+                {
+                  "title": "Eng",
+                  "children": [
+                    {
+                      "id": "dbd34975-9445-55db-9140-9b9cf1ff0a72",
+                      "title": "Yes",
+                      "description": "Jo",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 53.3,
+                      "stop": 53.8,
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "2fd2f0f4-568a-5932-bcba-4b6b37ce8c3f",
+                      "title": "No",
+                      "description": "Nee",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 60.2,
+                      "stop": 61,
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "74b24ac5-9caa-5fc4-80b2-715aa698dc84",
+                      "title": "Please",
+                      "description": "Wann ech gelift",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 84.6,
+                      "stop": 85.6,
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "a3a44be3-eefc-598a-a7c9-524b9b7f6c04",
+                      "title": "Thank you",
+                      "description": "Merci",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 96.4,
+                      "stop": 97.4,
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "becb4bd7-e6ae-5b08-93c7-e508ea0232a9",
+                      "title": "Thank you a lot",
+                      "description": "Villmools merci",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 108.4,
+                      "stop": 109.9,
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "a2bb7cef-09c6-59dc-b07b-95cb62c223ad",
+                      "title": "Hello",
+                      "description": "Moien",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 124.6,
+                      "stop": 125.3,
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "23cdefff-80f5-5469-9773-4ea88f92a643",
+                      "title": "Good Morning",
+                      "description": "Gudde Moien",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 133.5,
+                      "stop": 135,
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "6128c480-f18f-5e7c-beb5-894659386201",
+                      "title": "Good afternoon",
+                      "description": "Gudde Mëtteg",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 146.1,
+                      "stop": 147.1,
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "1ebc654b-0716-5494-82fc-15a9272797e1",
+                      "title": "Good evening",
+                      "description": "Gudden owend",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 160.1,
+                      "stop": 161.2,
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "4ae95796-6eda-59ee-b056-1695147d7ec5",
+                      "title": "Bye",
+                      "description": "Äddi",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 166.8,
+                      "stop": 167.9,
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "438df61b-78d4-54b1-bef8-5a59bc9b9379",
+                      "title": "Where",
+                      "description": "Wou",
+                      "avatar": 1,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 177.4,
+                      "stop": 178.3,
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "291b616c-2339-585d-91cf-f2a30c440418",
+                      "title": "Where is",
+                      "description": "Wou ass",
+                      "avatar": 1,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 198.4,
+                      "stop": 199.3,
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "d0f71976-0ee6-58a5-bb3d-35f1951c6aea",
+                      "title": "Where is the post office?",
+                      "description": "Wou ass d'Post?",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 210.7,
+                      "stop": 212.5,
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "e465f708-ceb8-562f-9287-cb22e2a13a82",
+                      "title": "I",
+                      "description": "Ech",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 224.1,
+                      "stop": 224.9,
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "30591c91-4c74-51b3-97a2-6352fd41ac32",
+                      "title": "I am",
+                      "description": "Ech sinn",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 236.2,
+                      "stop": 237.5,
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "ff5acc7e-8ce4-5b9d-a792-b21a9dd2030b",
+                      "title": "Cheers!",
+                      "description": "Prost",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 244.2,
+                      "stop": 245.3,
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "3ed4e32b-3638-59f7-9f4b-54a684a45561",
+                      "title": "Enjoy your meal",
+                      "description": "Gudden Appetit",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 273.7,
+                      "stop": 274.8,
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "ed6b2f18-015c-570c-a48e-3f094a628ba1",
+                      "title": "Enjoy your meal (short)",
+                      "description": "e Gudden!",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 282.9,
+                      "stop": 283.8,
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "42ae1d57-f7b1-5090-9f60-05fee4215c8c",
+                      "title": "Excuse me (formal)",
+                      "description": "Entschëllegt",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 288.8,
+                      "stop": 290.1,
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "740adbf1-f0fb-58ab-9f5f-4566008ed1a2",
+                      "title": "Until",
+                      "description": "Bis",
+                      "avatar": 1,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 309.7,
+                      "stop": 310.4,
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "9c55efbc-6095-55da-8953-329864ef88f8",
+                      "title": "See you tomorrow",
+                      "description": "Bis muer",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 323,
+                      "stop": 324,
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "22a01d9c-0474-5de6-9422-601e6f7ccc2a",
+                      "title": "See you later",
+                      "description": "Bis dono",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 327.3,
+                      "stop": 328.4,
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "dc3c34b3-df0f-5343-99fe-5e0ffb13ddb2",
+                      "title": "See you soon",
+                      "description": "Bis geschwënn",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 341,
+                      "stop": 342.6,
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "dbf713d8-ef3a-584b-aa0e-b90f5ce695da",
+                      "title": "One",
+                      "description": "Een",
+                      "avatar": 1,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 354.5,
+                      "stop": 355.5,
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "bd04137d-be63-51e3-aedb-9e950e6e9a13",
+                      "title": "One tea",
+                      "description": "Een Téi",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 357,
+                      "stop": 358.4,
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "d5a8026e-8dbc-5443-bde6-2de1399234c3",
+                      "title": "Two",
+                      "description": "Zwee",
+                      "avatar": 1,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 361.2,
+                      "stop": 362.2,
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "c43c6737-7ee2-5325-9d62-ae817c37bdc9",
+                      "title": "Three",
+                      "description": "Dräi",
+                      "avatar": 1,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 366.9,
+                      "stop": 368.2,
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "31f1a0d4-6f91-5621-864a-fa54f7f57cb3",
+                      "title": "Four",
+                      "description": "Véier",
+                      "avatar": 1,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 371.8,
+                      "stop": 373.1,
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "b1341898-8e8b-53e2-81d0-150a9bad6a31",
+                      "title": "And",
+                      "description": "An",
+                      "avatar": 1,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 387.4,
+                      "stop": 388.5,
+                      "hideDescription": true
+                    },
+                    {
+                      "id": "afcba7fd-6298-5718-b5df-270ee418ed20",
+                      "title": "One tea and a coffee, please",
+                      "description": "Een Téi an ee Kaffi, wann ech gelift!",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 394.1,
+                      "stop": 400.5,
+                      "hideDescription": true
+                    }
+                  ]
+                },
+                {
+                  "title": "Lux",
+                  "children": [
+                    {
+                      "id": "8174c44a-de8e-5e6e-be24-1137f217eb50",
+                      "title": "Jo",
+                      "description": "Yes",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 53.3,
+                      "stop": 53.8,
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "61aa16f6-5573-515b-ac1e-508389e7cea2",
+                      "title": "Nee",
+                      "description": "No",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 60.2,
+                      "stop": 61,
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "52fd0a32-72c4-5a87-a2f3-2bea653b4c46",
+                      "title": "Wann ech gelift",
+                      "description": "Please",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 84.6,
+                      "stop": 85.6,
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "f55ba808-59ae-513a-9805-b0a47ac050c7",
+                      "title": "Merci",
+                      "description": "Thank you",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 96.4,
+                      "stop": 97.4,
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "5f640aab-5fcb-5086-9f0c-ced14e040076",
+                      "title": "Villmools merci",
+                      "description": "Thank you a lot",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 108.4,
+                      "stop": 109.9,
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "dffc9da5-9e85-5b57-b8e5-ec808b2010b6",
+                      "title": "Moien",
+                      "description": "Hello",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 124.6,
+                      "stop": 125.3,
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "9c465822-cfb7-5f1f-a6e8-f520c6fc8beb",
+                      "title": "Gudde Moien",
+                      "description": "Good Morning",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 133.5,
+                      "stop": 135,
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "760cbb12-b3ee-5ca7-aabe-ca8b3e0d7ab0",
+                      "title": "Gudde Mëtteg",
+                      "description": "Good afternoon",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 146.1,
+                      "stop": 147.1,
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "dba4eb33-ca76-5a6f-a0ac-b31f39f7588b",
+                      "title": "Gudden owend",
+                      "description": "Good evening",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 160.1,
+                      "stop": 161.2,
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "3b1515ac-3ee5-5c0b-9753-ce674c052793",
+                      "title": "Äddi",
+                      "description": "Bye",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 166.8,
+                      "stop": 167.9,
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "80272413-efad-5451-ae7f-73aad985fdb6",
+                      "title": "Wou",
+                      "description": "Where",
+                      "avatar": 1,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 177.4,
+                      "stop": 178.3,
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "3af37942-37bd-5d13-b6c4-c096d1ba89ec",
+                      "title": "Wou ass",
+                      "description": "Where is",
+                      "avatar": 1,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 198.4,
+                      "stop": 199.3,
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "be7cac79-88d7-564c-b1d5-b147b4b5b59c",
+                      "title": "Wou ass d'Post?",
+                      "description": "Where is the post office?",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 210.7,
+                      "stop": 212.5,
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "9ebee084-d76f-5b7a-a3ba-5f6a5cc3bd3a",
+                      "title": "Ech",
+                      "description": "I",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 224.1,
+                      "stop": 224.9,
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "298430e0-94a2-56e7-9cf0-b3f39a594079",
+                      "title": "Ech sinn",
+                      "description": "I am",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 236.2,
+                      "stop": 237.5,
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "e9414ca6-5761-58ff-a9a7-072bfd633647",
+                      "title": "Prost",
+                      "description": "Cheers!",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 244.2,
+                      "stop": 245.3,
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "7f88e13a-f696-5cab-b68e-9ce8f0a4d920",
+                      "title": "Gudden Appetit",
+                      "description": "Enjoy your meal",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 273.7,
+                      "stop": 274.8,
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "69604b71-2b26-5d3a-b230-8905d7f46aa7",
+                      "title": "e Gudden!",
+                      "description": "Enjoy your meal (short)",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 282.9,
+                      "stop": 283.8,
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "6e7787f3-114c-52ac-b9a0-8bdd8b3a1973",
+                      "title": "Entschëllegt",
+                      "description": "Excuse me (formal)",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 288.8,
+                      "stop": 290.1,
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "4f40f652-0e88-55ea-b790-23593fd8f970",
+                      "title": "Bis",
+                      "description": "Until",
+                      "avatar": 1,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 309.7,
+                      "stop": 310.4,
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "f95f6d2a-e89f-582f-9295-a3378f767bd3",
+                      "title": "Bis muer",
+                      "description": "See you tomorrow",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 323,
+                      "stop": 324,
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "377ddd5b-e3f0-5ec9-a6b6-af3f9983dce7",
+                      "title": "Bis dono",
+                      "description": "See you later",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 327.3,
+                      "stop": 328.4,
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "5a08beba-08a4-5ad2-bbff-19faced5a962",
+                      "title": "Bis geschwënn",
+                      "description": "See you soon",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 341,
+                      "stop": 342.6,
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "bf78a9fb-c6ea-5c68-8ddb-e40b4da87c5f",
+                      "title": "Een",
+                      "description": "One",
+                      "avatar": 1,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 354.5,
+                      "stop": 355.5,
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "c15192d6-4593-50a7-a183-34caba689b70",
+                      "title": "Een Téi",
+                      "description": "One tea",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 357,
+                      "stop": 358.4,
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "004147d1-c05f-5cdf-a8b2-d8fa18804b31",
+                      "title": "Zwee",
+                      "description": "Two",
+                      "avatar": 1,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 361.2,
+                      "stop": 362.2,
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "69c9214b-3f76-58d9-9720-191e40ae0e2f",
+                      "title": "Dräi",
+                      "description": "Three",
+                      "avatar": 1,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 366.9,
+                      "stop": 368.2,
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "494de7a1-51e9-5c20-beb2-b6f084985104",
+                      "title": "Véier",
+                      "description": "Four",
+                      "avatar": 1,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 371.8,
+                      "stop": 373.1,
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "2172f875-6a54-569c-a2e4-29adeec0dd66",
+                      "title": "An",
+                      "description": "And",
+                      "avatar": 1,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 387.4,
+                      "stop": 388.5,
+                      "hideTitleAndDescription": true
+                    },
+                    {
+                      "id": "f07cf6ee-3a04-538e-8f74-2b5bcbcd6193",
+                      "title": "Een Téi an ee Kaffi, wann ech gelift!",
+                      "description": "One tea and a coffee, please",
+                      "avatar": 3,
+                      "youtubeId": "kXFtbeWxhD8",
+                      "start": 394.1,
+                      "stop": 400.5,
+                      "hideTitleAndDescription": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

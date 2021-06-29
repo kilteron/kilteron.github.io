@@ -1,0 +1,118 @@
+{
+  "id": "74d38b00-1a30-5f60-acb1-fcdf04c39980",
+  "url": "/alex-braine/javascript/es6-tutorial",
+  "title": "ES6 Tutorial",
+  "cards": 13,
+  "createdAt": 1530301821,
+  "author": "Programming with Mosh",
+  "source": "https://www.youtube.com/watch?v=NCwa_xi0Uuc",
+  "youtubeId": "NCwa_xi0Uuc",
+  "children": [
+    {
+      "title": "JavaScript",
+      "children": [
+        {
+          "title": "Tutorial",
+          "children": [
+            {
+              "title": "ES6",
+              "children": [
+                {
+                  "id": "8489d084-26de-5892-996d-2b2616eb7477",
+                  "title": "Let vs Var vs Const",
+                  "youtubeId": "NCwa_xi0Uuc",
+                  "start": 105,
+                  "stop": 339
+                },
+                {
+                  "id": "b14d3494-f65b-52fa-baad-53523cd7c0ee",
+                  "title": "Objects",
+                  "youtubeId": "NCwa_xi0Uuc",
+                  "start": 339,
+                  "stop": 506
+                },
+                {
+                  "id": "9e0ca0ea-8c44-5968-bece-f39be44d446c",
+                  "title": "The this Keyword",
+                  "youtubeId": "NCwa_xi0Uuc",
+                  "start": 506,
+                  "stop": 677
+                },
+                {
+                  "id": "5ce86d0d-f97f-5e18-84f5-4c33785f0b10",
+                  "title": "Binding this",
+                  "youtubeId": "NCwa_xi0Uuc",
+                  "start": 677,
+                  "stop": 835
+                },
+                {
+                  "id": "0cdd4179-54c2-5bb6-b0c3-83bbb15d0508",
+                  "title": "Arrow Functions",
+                  "youtubeId": "NCwa_xi0Uuc",
+                  "start": 835,
+                  "stop": 1092
+                },
+                {
+                  "id": "4ccdfba7-e8ea-5664-bd48-542b964296cf",
+                  "title": "Arrow Functions and this",
+                  "youtubeId": "NCwa_xi0Uuc",
+                  "start": 1092,
+                  "stop": 1349
+                },
+                {
+                  "id": "10fe2b9f-38d5-5d0c-be22-75295094cb92",
+                  "title": "Array.map Method",
+                  "youtubeId": "NCwa_xi0Uuc",
+                  "start": 1349,
+                  "stop": 1566
+                },
+                {
+                  "id": "11a46139-4e6f-5f88-9f54-ef8847b6b9df",
+                  "title": "Object Destructuring",
+                  "youtubeId": "NCwa_xi0Uuc",
+                  "start": 1566,
+                  "stop": 1717
+                },
+                {
+                  "id": "63199cce-daad-5a7c-b37a-6545c8677a8a",
+                  "title": "Spread Operator",
+                  "youtubeId": "NCwa_xi0Uuc",
+                  "start": 1717,
+                  "stop": 1961
+                },
+                {
+                  "id": "12fba4da-7ef6-5793-8fc8-90135154f08d",
+                  "title": "Classes",
+                  "youtubeId": "NCwa_xi0Uuc",
+                  "start": 1961,
+                  "stop": 2188
+                },
+                {
+                  "id": "441561e8-b681-59b3-b1fc-ad0f4826c92e",
+                  "title": "Inheritance",
+                  "youtubeId": "NCwa_xi0Uuc",
+                  "start": 2188,
+                  "stop": 2433
+                },
+                {
+                  "id": "b6f1a981-72c4-52f5-ab42-7bb9066f9ae1",
+                  "title": "Modules",
+                  "youtubeId": "NCwa_xi0Uuc",
+                  "start": 2433,
+                  "stop": 2685
+                },
+                {
+                  "id": "ad0a811a-49bb-50be-b0c4-7b0adee7363b",
+                  "title": "Named and Default Exports",
+                  "youtubeId": "NCwa_xi0Uuc",
+                  "start": 2685,
+                  "stop": 3004
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

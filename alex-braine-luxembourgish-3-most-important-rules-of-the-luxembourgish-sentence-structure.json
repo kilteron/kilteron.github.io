@@ -1,0 +1,144 @@
+{
+  "id": "a0229b74-636c-5742-b642-275216bd0286",
+  "url": "/alex-braine/luxembourgish/3-most-important-rules-of-the-luxembourgish-sentence-structure",
+  "title": "Sentence structure",
+  "cards": 78,
+  "createdAt": 1528003583,
+  "author": "Luxembourgish with Anne",
+  "youtubeId": "HJW3L7JeMPU",
+  "source": "https://www.youtube.com/watch?v=HJW3L7JeMPU",
+  "children": [
+    {
+      "title": "Luxembourgish",
+      "children": [
+        {
+          "title": "Grammar",
+          "children": [
+            {
+              "title": "Sentence structure",
+              "children": [
+                {
+                  "id": "5f56d162-5f0e-5662-bb4c-c155025847be",
+                  "title": "I learn Luxembourgish today.",
+                  "description": "Ech léieren haut Lёtzebuergesch.",
+                  "start": "74.5",
+                  "stop": "78.7",
+                  "youtubeId": "HJW3L7JeMPU",
+                  "avatar": 1
+                },
+                {
+                  "id": "b9bced8e-b707-5677-8095-d076916bb61d",
+                  "title": "Today I learn Luxembourgish.",
+                  "description": "Haut léieren ech Lёtzebuergesch.",
+                  "start": "88.3",
+                  "stop": "91.9",
+                  "youtubeId": "HJW3L7JeMPU",
+                  "avatar": 1
+                },
+                {
+                  "id": "45141981-287b-50c0-b2d0-ae3878a775b8",
+                  "title": "Tonight I learn Luxembourgish",
+                  "description": "Haut den Owend léieren ech Lёtzebuergesch.",
+                  "start": "123.3",
+                  "stop": "127.7",
+                  "youtubeId": "HJW3L7JeMPU",
+                  "avatar": 1
+                },
+                {
+                  "id": "43d1a9ea-c96f-5ad5-83dc-a21614089fcc",
+                  "title": "When?",
+                  "description": "Time - Wéini?",
+                  "start": "173.4",
+                  "stop": "174.3",
+                  "youtubeId": "HJW3L7JeMPU",
+                  "avatar": 1
+                },
+                {
+                  "id": "8ad1ab0e-9517-5348-9897-6c5025e0b2f4",
+                  "title": "How?",
+                  "description": "Manner - Wéi?",
+                  "start": "180.0",
+                  "stop": "180.9",
+                  "youtubeId": "HJW3L7JeMPU",
+                  "avatar": 1
+                },
+                {
+                  "id": "7074c647-28f6-5705-8c57-4e534b615b8b",
+                  "title": "Where?",
+                  "description": "Place - Wou?",
+                  "start": "187.4",
+                  "stop": "188.0",
+                  "youtubeId": "HJW3L7JeMPU",
+                  "avatar": 1
+                },
+                {
+                  "id": "f4d833cb-d787-5ba5-9f2a-13ac3705279b",
+                  "title": "Tom is coming home by train today.",
+                  "description": "Den Tom kёnnt haut mam Zuch heem.",
+                  "start": "219.7",
+                  "stop": "223.4",
+                  "youtubeId": "HJW3L7JeMPU",
+                  "avatar": 1
+                },
+                {
+                  "id": "d4249d38-bd4a-57a3-b8e4-3cad73b9f3fd",
+                  "title": "I go to work by car every day.",
+                  "description": "Ech ginn all Dag mam Auto op d'Aarbecht.",
+                  "start": "259.5",
+                  "stop": "265.6",
+                  "youtubeId": "HJW3L7JeMPU",
+                  "avatar": 1
+                },
+                {
+                  "id": "ab7007d3-0057-5874-8543-4ccb2fced56a",
+                  "title": "to drive home",
+                  "description": "heemfueren",
+                  "start": "315.5",
+                  "stop": "316.7",
+                  "youtubeId": "HJW3L7JeMPU",
+                  "avatar": 1
+                },
+                {
+                  "id": "822ff94b-c389-5cbf-a71f-225ea434fc00",
+                  "title": "to want, to can...",
+                  "description": "wёllen, kёnnen...",
+                  "start": "325.6",
+                  "stop": "327.3",
+                  "youtubeId": "HJW3L7JeMPU",
+                  "avatar": 1
+                },
+                {
+                  "id": "837d6225-8c3d-581c-9df6-eaa281842835",
+                  "title": "My mom usually drives home at 6 o'clock.",
+                  "description": "Meng Mamm fiert normalerweis um 6 Auer heem.",
+                  "start": "347.7",
+                  "stop": "352.5",
+                  "youtubeId": "HJW3L7JeMPU",
+                  "avatar": 1
+                },
+                {
+                  "id": "5a18230f-53a9-5452-aea7-aa572f11606c",
+                  "title": "My mom wants to drives home at 6 o'clock everyday.",
+                  "description": "Meng Mamm wёll all Dag um 6 Auer heemfueren.",
+                  "start": "372.8",
+                  "stop": "377.8",
+                  "youtubeId": "HJW3L7JeMPU",
+                  "avatar": 1
+                },
+                {
+                  "id": "fbcf1872-0779-54b0-924b-fd9f2d1b8018",
+                  "title": "My mom drove home at 6 o'clock today.",
+                  "description": "Meng Mamm ass haut um 6 Auer heemfuer.",
+                  "start": "398.1",
+                  "stop": "404.4",
+                  "youtubeId": "HJW3L7JeMPU",
+                  "avatar": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

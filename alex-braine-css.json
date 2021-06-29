@@ -1,0 +1,38 @@
+{
+  "creator": "Alex Braine",
+  "title": "CSS",
+  "url": "/alex-braine/css",
+  "type": "kit",
+  "navigation": [
+    {
+      "title": "CSS",
+      "url": "/alex-braine/css",
+      "children": [
+        {
+          "title": "Tutorial",
+          "url": "/alex-braine/css/zero-to-hero",
+          "children": [
+            {
+              "title": "Zero to Hero",
+              "url": "/alex-braine/css/zero-to-hero"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "collections": [
+    {
+      "id": "8d8fe22c-1ca3-5109-8916-82ddba649379",
+      "url": "/alex-braine/css/zero-to-hero",
+      "title": "CSS Tutorial - Zero to Hero",
+      "cards": 68,
+      "youtubeViews": 1226601,
+      "youtubeLikes": 28357,
+      "createdAt": 1571239016,
+      "source": "https://www.youtube.com/watch?v=1Rs2ND1ryYc",
+      "author": "freeCodeCamp.org",
+      "youtubeId": "1Rs2ND1ryYc"
+    }
+  ]
+}

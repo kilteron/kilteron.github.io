@@ -1,0 +1,76 @@
+{
+  "id": "95ecb68d-1a00-53b6-b92b-dc96a95ec23e",
+  "url": "/alex-braine/javascript/higher-order-functions-and-arrays",
+  "title": "Higher Order Functions and Arrays",
+  "cards": 7,
+  "createdAt": 1515855958,
+  "author": "Traversy Media",
+  "source": "https://www.youtube.com/watch?v=rRgD1yVwIvE",
+  "youtubeId": "rRgD1yVwIvE",
+  "children": [
+    {
+      "title": "JavaScript",
+      "children": [
+        {
+          "title": "Course",
+          "children": [
+            {
+              "title": "Higher Order Functions and Arrays",
+              "children": [
+                {
+                  "id": "27f16ade-15fd-59ed-8d3f-0682aca09ad2",
+                  "title": "Intro",
+                  "youtubeId": "rRgD1yVwIvE",
+                  "start": 0,
+                  "stop": 200
+                },
+                {
+                  "id": "1adf016f-2f8a-538d-8ee3-1da663e37c4e",
+                  "title": "ForEach()",
+                  "youtubeId": "rRgD1yVwIvE",
+                  "start": 200,
+                  "stop": 321
+                },
+                {
+                  "id": "ceed8884-6ab5-58bb-8843-95172404875b",
+                  "title": "Filter()",
+                  "youtubeId": "rRgD1yVwIvE",
+                  "start": 321,
+                  "stop": 940.5
+                },
+                {
+                  "id": "34fa5404-7cdf-5678-ac2a-7b42b05393a2",
+                  "title": "Map()",
+                  "youtubeId": "rRgD1yVwIvE",
+                  "start": 940.5,
+                  "stop": 1265
+                },
+                {
+                  "id": "d506f81a-9a34-533a-b65c-59ee8fabd70e",
+                  "title": "Sort()",
+                  "youtubeId": "rRgD1yVwIvE",
+                  "start": 1265,
+                  "stop": 1550
+                },
+                {
+                  "id": "888600ea-865d-5d74-bc67-a0f85b52fabd",
+                  "title": "Reduce()",
+                  "youtubeId": "rRgD1yVwIvE",
+                  "start": 1550,
+                  "stop": 1855
+                },
+                {
+                  "id": "4a2f4670-2ffe-55c5-8551-74c557a9bd0d",
+                  "title": "Extra",
+                  "youtubeId": "rRgD1yVwIvE",
+                  "start": 1865,
+                  "stop": 2020
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

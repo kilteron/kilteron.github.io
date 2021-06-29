@@ -1,0 +1,146 @@
+{
+  "id": "f1518d80-d034-5e2d-94a2-24dda040c027",
+  "url": "/alex-braine/javascript/OOP",
+  "title": "OOP in JavaScript",
+  "cards": 17,
+  "createdAt": 1522369846,
+  "author": "Programming with Mosh",
+  "source": "https://www.youtube.com/watch?v=PFmuCDHHpwk",
+  "youtubeId": "PFmuCDHHpwk",
+  "children": [
+    {
+      "title": "JavaScript",
+      "children": [
+        {
+          "title": "Course",
+          "children": [
+            {
+              "title": "OOP",
+              "children": [
+                {
+                  "id": "59a7ab8d-12a0-50df-afdd-738271da8d4f",
+                  "title": "What is OOP?",
+                  "youtubeId": "PFmuCDHHpwk",
+                  "start": 0,
+                  "stop": 106
+                },
+                {
+                  "id": "d812166e-5342-5ca6-83f2-20b5552a4369",
+                  "title": "Four Pillars of OOP",
+                  "youtubeId": "PFmuCDHHpwk",
+                  "start": 106,
+                  "stop": 530
+                },
+                {
+                  "id": "6ef69a76-382e-557b-b1b8-fd1b33adbd59",
+                  "title": "Setting Up the Development Environment",
+                  "youtubeId": "PFmuCDHHpwk",
+                  "start": 530,
+                  "stop": 667
+                },
+                {
+                  "id": "b8e3642f-b13a-5e33-94a7-4fe9f37e9952",
+                  "title": "Objects",
+                  "youtubeId": "PFmuCDHHpwk",
+                  "start": 667,
+                  "stop": 713
+                },
+                {
+                  "id": "4dad55cc-eb20-5090-9793-5a6c1083cf8b",
+                  "title": "Object Literals",
+                  "youtubeId": "PFmuCDHHpwk",
+                  "start": 713,
+                  "stop": 898
+                },
+                {
+                  "id": "555a543c-1936-59c0-a801-a09a304456a7",
+                  "title": "Factories",
+                  "youtubeId": "PFmuCDHHpwk",
+                  "start": 898,
+                  "stop": 1070
+                },
+                {
+                  "id": "c915b1d6-bb5f-5504-905b-0189fd11ed0b",
+                  "title": "Constructors",
+                  "youtubeId": "PFmuCDHHpwk",
+                  "start": 1070,
+                  "stop": 1407
+                },
+                {
+                  "id": "69677dea-0b46-517c-877e-e8cc2c16d911",
+                  "title": "Constructor Property",
+                  "youtubeId": "PFmuCDHHpwk",
+                  "start": 1407,
+                  "stop": 1553
+                },
+                {
+                  "id": "0eaca003-4ec8-5608-9bb9-0089e9d6b794",
+                  "title": "Functions are Objects",
+                  "youtubeId": "PFmuCDHHpwk",
+                  "start": 1553,
+                  "stop": 1869
+                },
+                {
+                  "id": "e0c56860-fa0c-59b6-9959-2abdd946c61f",
+                  "title": "Value vs Reference Types",
+                  "youtubeId": "PFmuCDHHpwk",
+                  "start": 1869,
+                  "stop": 2220
+                },
+                {
+                  "id": "d9dc28a5-1061-57ab-884e-5737c94dc050",
+                  "title": "Adding or Removing Properties",
+                  "youtubeId": "PFmuCDHHpwk",
+                  "start": 2220,
+                  "stop": 2454
+                },
+                {
+                  "id": "55ddf00a-22a2-5e03-a5b0-32330fe1aaf5",
+                  "title": "Enumerating Properties",
+                  "youtubeId": "PFmuCDHHpwk",
+                  "start": 2454,
+                  "stop": 2625
+                },
+                {
+                  "id": "6fd486a7-c0ee-5228-99d2-44d46a2e8e23",
+                  "title": "Abstraction",
+                  "youtubeId": "PFmuCDHHpwk",
+                  "start": 2625,
+                  "stop": 2868
+                },
+                {
+                  "id": "32cedfeb-7f63-5847-8bf2-d85ce70147ff",
+                  "title": "Private Properties and Methods",
+                  "youtubeId": "PFmuCDHHpwk",
+                  "start": 2868,
+                  "stop": 3115
+                },
+                {
+                  "id": "5dde63bd-1505-5943-a605-a75d523f7211",
+                  "title": "Getters and Setters",
+                  "youtubeId": "PFmuCDHHpwk",
+                  "start": 3115,
+                  "stop": 3452
+                },
+                {
+                  "id": "c5094390-a2f8-53d0-8e22-117793c455ac",
+                  "title": "Exercise",
+                  "youtubeId": "PFmuCDHHpwk",
+                  "start": 3452,
+                  "stop": 3582
+                },
+                {
+                  "id": "8aaa5974-9e1e-516b-a7ea-9ce3785e58ab",
+                  "title": "Solution",
+                  "youtubeId": "PFmuCDHHpwk",
+                  "start": 3582,
+                  "stop": 3768
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

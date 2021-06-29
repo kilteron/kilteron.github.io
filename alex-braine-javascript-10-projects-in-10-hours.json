@@ -1,0 +1,104 @@
+{
+  "id": "caed42a2-09e3-515d-b4d3-636070aa0ea3",
+  "url": "/alex-braine/javascript/building-7-games",
+  "title": "10 projects",
+  "cards": 11,
+  "createdAt": 1599066006,
+  "author": "Florin Pop",
+  "source": "https://www.youtube.com/watch?v=dtKciwk_si4",
+  "youtubeId": "dtKciwk_si4",
+  "children": [
+    {
+      "title": "JavaScript",
+      "children": [
+        {
+          "title": "Tutorial",
+          "children": [
+            {
+              "title": "10 projects",
+              "children": [
+                {
+                  "id": "15dbe2ff-10d3-535f-aad5-bc226114e52a",
+                  "title": "Intro",
+                  "youtubeId": "dtKciwk_si4",
+                  "start": 0,
+                  "stop": 72
+                },
+                {
+                  "id": "2bbe9004-cc5f-5369-acb6-93581853c43b",
+                  "title": "Countdown Timer",
+                  "youtubeId": "dtKciwk_si4",
+                  "start": 72,
+                  "stop": 1935
+                },
+                {
+                  "id": "658e82fe-cd8d-5a35-afc2-d6d4f398b5c8",
+                  "title": "Quiz App",
+                  "youtubeId": "dtKciwk_si4",
+                  "start": 1935,
+                  "stop": 5000
+                },
+                {
+                  "id": "272c91ef-a803-58bf-a17c-7888b64fab6e",
+                  "title": "Recipe App",
+                  "youtubeId": "dtKciwk_si4",
+                  "start": 5000,
+                  "stop": 11997
+                },
+                {
+                  "id": "d746e494-1400-5672-a80a-fffa53b10c23",
+                  "title": "Notes App",
+                  "youtubeId": "dtKciwk_si4",
+                  "start": 11997,
+                  "stop": 15035
+                },
+                {
+                  "id": "2328219c-5b3b-5706-8eff-5920144272b6",
+                  "title": "ToDo App",
+                  "youtubeId": "dtKciwk_si4",
+                  "start": 15035,
+                  "stop": 17174
+                },
+                {
+                  "id": "7a771439-81c7-5e7c-ae6f-16eab26805d3",
+                  "title": "Movies App",
+                  "youtubeId": "dtKciwk_si4",
+                  "start": 17174,
+                  "stop": 20395
+                },
+                {
+                  "id": "20d002f4-5599-5472-afd1-5e43ecef9365",
+                  "title": "GitHub Profiles",
+                  "youtubeId": "dtKciwk_si4",
+                  "start": 20395,
+                  "stop": 23610
+                },
+                {
+                  "id": "ceca02e6-635f-5e69-bb98-a665a6d9be55",
+                  "title": "Drawing App",
+                  "youtubeId": "dtKciwk_si4",
+                  "start": 23610,
+                  "stop": 26380
+                },
+                {
+                  "id": "0123c200-4b36-5dba-8dcc-d44fa3ab4122",
+                  "title": "Password Generator",
+                  "youtubeId": "dtKciwk_si4",
+                  "start": 26380,
+                  "stop": 29405
+                },
+                {
+                  "id": "f445b598-1e4b-563d-b7f7-c5ec09dacaaf",
+                  "title": "Weather App",
+                  "youtubeId": "dtKciwk_si4",
+                  "start": 29405,
+                  "stop": 33428
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

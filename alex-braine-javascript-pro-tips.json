@@ -1,0 +1,82 @@
+{
+  "id": "87a7947d-be1d-58e5-8bc0-094a524881a8",
+  "url": "/alex-braine/javascript/pro-tips",
+  "title": "JavaScript Pro Tips",
+  "cards": 7,
+  "createdAt": 1538074609,
+  "author": "Fireship",
+  "source": "https://www.youtube.com/watch?v=Mus_vwhTCq0",
+  "youtubeId": "Mus_vwhTCq0",
+  "children": [
+    {
+      "title": "JavaScript",
+      "children": [
+        {
+          "title": "Tips",
+          "children": [
+            {
+              "title": "Pro Tips",
+              "children": [
+                {
+                  "id": "228ff6ed-1212-5730-b767-43b3102603ad",
+                  "title": "Intro",
+                  "youtubeId": "Mus_vwhTCq0",
+                  "start": 0,
+                  "stop": 51
+                },
+                {
+                  "id": "d6db9a18-9210-5006-b8c3-ccba2786611e",
+                  "title": "Debugging with console.log",
+                  "youtubeId": "Mus_vwhTCq0",
+                  "documentation": "https://github.com/codediodeio/code-this-not-that-js/blob/master/console-log.js",
+                  "start": 51,
+                  "stop": 159
+                },
+                {
+                  "id": "ab834780-fc74-5b31-bb9c-b501084210be",
+                  "title": "Destructuring",
+                  "youtubeId": "Mus_vwhTCq0",
+                  "documentation": "https://github.com/codediodeio/code-this-not-that-js/blob/master/destructuring.js",
+                  "start": 159,
+                  "stop": 239
+                },
+                {
+                  "id": "f5aaed14-840d-5cc6-9d2e-471b3c610f14",
+                  "title": "Template literals",
+                  "youtubeId": "Mus_vwhTCq0",
+                  "documentation": "https://github.com/codediodeio/code-this-not-that-js/blob/master/template-literals.js",
+                  "start": 239,
+                  "stop": 367
+                },
+                {
+                  "id": "cc2a4d8d-40c3-53a3-a545-7703d368ccb6",
+                  "title": "Spread syntax",
+                  "youtubeId": "Mus_vwhTCq0",
+                  "documentation": "https://github.com/codediodeio/code-this-not-that-js/blob/master/spread-syntax.js",
+                  "start": 367,
+                  "stop": 499
+                },
+                {
+                  "id": "62031802-5b71-5e9c-8140-fb04ceab7493",
+                  "title": "Loops",
+                  "youtubeId": "Mus_vwhTCq0",
+                  "documentation": "https://github.com/codediodeio/code-this-not-that-js/blob/master/loops.js",
+                  "start": 499,
+                  "stop": 618
+                },
+                {
+                  "id": "a78d9b01-0a36-56c5-8447-6ed5e16c7c7a",
+                  "title": "async/await",
+                  "youtubeId": "Mus_vwhTCq0",
+                  "documentation": "https://github.com/codediodeio/code-this-not-that-js/blob/master/async-await.js",
+                  "start": 618,
+                  "stop": 756
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

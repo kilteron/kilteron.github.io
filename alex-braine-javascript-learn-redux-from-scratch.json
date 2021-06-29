@@ -1,0 +1,258 @@
+{
+  "id": "ce7da1e8-bf86-5f86-9a98-d96f3c11f8cd",
+  "url": "/alex-braine/javascript/learn-redux-from-scratch",
+  "title": "Redux from Scratch",
+  "cards": 33,
+  "createdAt": 1587398413,
+  "author": "Programming with Mosh",
+  "source": "https://www.youtube.com/watch?v=poQXNp9ItL4",
+  "youtubeId": "poQXNp9ItL4",
+  "children": [
+    {
+      "title": "JavaScript",
+      "children": [
+        {
+          "title": "Course",
+          "children": [
+            {
+              "title": "Redux from Scratch",
+              "children": [
+                {
+                  "id": "27f16ade-15fd-59ed-8d3f-0682aca09ad2",
+                  "title": "Introduction",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 0,
+                  "stop": 62
+                },
+                {
+                  "id": "1adf016f-2f8a-538d-8ee3-1da663e37c4e",
+                  "title": "What is Redux?",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 62,
+                  "stop": 200
+                },
+                {
+                  "id": "ceed8884-6ab5-58bb-8843-95172404875b",
+                  "title": "Pros and Cons of Redux",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 200,
+                  "stop": 529
+                },
+                {
+                  "id": "34fa5404-7cdf-5678-ac2a-7b42b05393a2",
+                  "title": "Is Redux for You?",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 529,
+                  "stop": 678
+                },
+                {
+                  "id": "d506f81a-9a34-533a-b65c-59ee8fabd70e",
+                  "title": "Setting Up the Development Environment",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 678,
+                  "stop": 787
+                },
+                {
+                  "id": "888600ea-865d-5d74-bc67-a0f85b52fabd",
+                  "title": "Course Structure",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 787,
+                  "stop": 932
+                },
+                {
+                  "id": "4a2f4670-2ffe-55c5-8551-74c557a9bd0d",
+                  "title": "Function Programming",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 932,
+                  "stop": 959
+                },
+                {
+                  "id": "7ec6eba7-b0c3-5dbb-a358-33d4d5777c01",
+                  "title": "What is Functional Programming?",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 959,
+                  "stop": 1045
+                },
+                {
+                  "id": "bb90e4a5-2563-5017-aa2e-45fdd6f34e3b",
+                  "title": "Functions as First-Class Citizens",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 1045,
+                  "stop": 1233
+                },
+                {
+                  "id": "759a7bcd-998e-5084-bf78-d67a36a0ac42",
+                  "title": "Higher-order Functions",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 1233,
+                  "stop": 1326
+                },
+                {
+                  "id": "2d4a8aa2-4bef-567d-be7f-5a9eec00e3b9",
+                  "title": "Functional Composition",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 1326,
+                  "stop": 1545
+                },
+                {
+                  "id": "1e795a03-4e16-55f4-af93-39917aa91637",
+                  "title": "Composing and Piping",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 1545,
+                  "stop": 1688
+                },
+                {
+                  "id": "bd2b3c80-c0ee-5888-b6bd-63e1d6e7aecd",
+                  "title": "Currying",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 1688,
+                  "stop": 2057
+                },
+                {
+                  "id": "90e680a7-b630-5d68-9ac0-835e8bbfd2ca",
+                  "title": "Pure Functions",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 2057,
+                  "stop": 2228
+                },
+                {
+                  "id": "c5fcd442-a5ed-5f53-a33e-d6baced73f5f",
+                  "title": "Immutability",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 2228,
+                  "stop": 2482
+                },
+                {
+                  "id": "825e0dc3-761a-5e1d-890b-a9ffdcd36d83",
+                  "title": "Updating Objects",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 2482,
+                  "stop": 2756
+                },
+                {
+                  "id": "9e3d85d5-bed3-5eab-9691-b68143c5982c",
+                  "title": "Updating Arrays",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 2756,
+                  "stop": 2991
+                },
+                {
+                  "id": "1a2ba6c4-08b5-5d1a-8195-7042562a69af",
+                  "title": "Enforcing Immutability",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 2991,
+                  "stop": 3056
+                },
+                {
+                  "id": "1b83299f-0c70-5139-bacd-42ea48134a51",
+                  "title": "Immutable.js",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 3056,
+                  "stop": 3276
+                },
+                {
+                  "id": "b75b0a3f-5cf1-5cc4-98a5-2bb49c915183",
+                  "title": "Immer",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 3276,
+                  "stop": 3450
+                },
+                {
+                  "id": "35f2aa30-31b5-5e84-bdc9-a6f82a0c8744",
+                  "title": "Redux Intro",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 3450,
+                  "stop": 3475
+                },
+                {
+                  "id": "b1bc0e3f-e3ff-519d-a244-7b791a17d03e",
+                  "title": "Redux Architecture",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 3475,
+                  "stop": 3778
+                },
+                {
+                  "id": "dfdb4dc5-b9dc-5466-8300-917b011353c0",
+                  "title": "Your First Redux Application",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 3778,
+                  "stop": 3883
+                },
+                {
+                  "id": "95d17f47-544e-5a78-83ba-8839a82d6b3e",
+                  "title": "Designing the Store",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 3883,
+                  "stop": 3970
+                },
+                {
+                  "id": "d1cb7348-5096-5e31-be06-781915d11613",
+                  "title": "Defining the Actions",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 3970,
+                  "stop": 4177
+                },
+                {
+                  "id": "6962b136-f87d-5680-b5cf-f3b12e7eb487",
+                  "title": "Creating a Reducer",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 4177,
+                  "stop": 4550
+                },
+                {
+                  "id": "982913ce-46e1-5764-9715-58c23b84aa89",
+                  "title": "Creating the Store",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 4550,
+                  "stop": 4636
+                },
+                {
+                  "id": "4840b60d-e381-5ce1-a066-30b6678b17a6",
+                  "title": "Dispatching Actions",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 4636,
+                  "stop": 4802
+                },
+                {
+                  "id": "431962e1-da0a-5404-af75-24c613ec4177",
+                  "title": "Subscribing to the Store",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 4802,
+                  "stop": 4930
+                },
+                {
+                  "id": "ae5f3caa-8458-5e48-984c-e0cd6eb5bedd",
+                  "title": "Action Types",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 4930,
+                  "stop": 5163
+                },
+                {
+                  "id": "ee51f264-457d-51f3-9899-a7d2dd2fc0d6",
+                  "title": "Action Creators",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 5163,
+                  "stop": 5341
+                },
+                {
+                  "id": "0813c9db-1e67-5e90-abce-03d70c90891a",
+                  "title": "Exercise",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 5341,
+                  "stop": 5358
+                },
+                {
+                  "id": "43463b75-1741-5475-87cc-28bfca2ddfc8",
+                  "title": "Solution",
+                  "youtubeId": "poQXNp9ItL4",
+                  "start": 5358,
+                  "stop": 5692
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

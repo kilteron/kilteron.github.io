@@ -1,0 +1,114 @@
+{
+  "id": "6157571e-5e70-55f8-bed0-6352ecf3ffb9",
+  "url": "/alex-braine/javascript/data-structures-and-algorithms-for-beginners",
+  "title": "Data Structures and Algorithms",
+  "cards": 11,
+  "createdAt": 1536084977,
+  "author": "freeCodeCamp.org",
+  "source": "https://www.youtube.com/watch?v=t2CEgPsws3U",
+  "youtubeId": "t2CEgPsws3U",
+  "children": [
+    {
+      "title": "JavaScript",
+      "children": [
+        {
+          "title": "Course",
+          "children": [
+            {
+              "title": "Data Structures and Algorithms",
+              "children": [
+                {
+                  "id": "8166c22d-fe59-5c23-a950-1b7d18b75e58",
+                  "title": "Stacks",
+                  "youtubeId": "t2CEgPsws3U",
+                  "laboratory": "https://codepen.io/beaucarnes/pen/yMBGbR?editors=0012",
+                  "start": 21,
+                  "stop": 543
+                },
+                {
+                  "id": "324ab902-ebf6-5473-a33b-ee1cbb8f9763",
+                  "title": "Sets",
+                  "youtubeId": "t2CEgPsws3U",
+                  "laboratory": "https://codepen.io/beaucarnes/pen/QpaQRG?editors=0012",
+                  "start": 543,
+                  "stop": 1164
+                },
+                {
+                  "id": "2958219f-0609-5121-8581-b518377b7f79",
+                  "title": "Queues & Priority Queues",
+                  "youtubeId": "t2CEgPsws3U",
+                  "laboratory": "https://codepen.io/beaucarnes/pen/QpaQRG?editors=0012",
+                  "start": 1164,
+                  "stop": 1563
+                },
+                {
+                  "id": "f92da462-57a1-5df7-b099-378800074232",
+                  "title": "Binary Search Tree",
+                  "youtubeId": "t2CEgPsws3U",
+                  "laboratory": "https://codepen.io/beaucarnes/pen/ryKvEQ?editors=0011",
+                  "start": 1563,
+                  "stop": 2374
+                },
+                {
+                  "id": "a62f25a1-9562-5d46-8dc1-c75de70948a4",
+                  "title": "Binary Search Tree: Traversal & Height",
+                  "youtubeId": "t2CEgPsws3U",
+                  "laboratory": "https://codepen.io/beaucarnes/pen/ryKvEQ?editors=0011",
+                  "start": 2374,
+                  "stop": 3199
+                },
+                {
+                  "id": "ab3e8c81-e487-5efe-9e2c-35972b8582a7",
+                  "title": "Hash Tables",
+                  "youtubeId": "t2CEgPsws3U",
+                  "laboratory": "https://codepen.io/beaucarnes/pen/VbYGMb?editors=0012",
+                  "start": 3199,
+                  "stop": 3784
+                },
+                {
+                  "id": "4e504efe-a289-5ada-adde-d1d583c3e74a",
+                  "title": "Linked List",
+                  "youtubeId": "t2CEgPsws3U",
+                  "laboratory": "https://codepen.io/beaucarnes/pen/ybOvBq?editors=0011",
+                  "start": 3784,
+                  "stop": 4499
+                },
+                {
+                  "id": "aadfaf41-b0cf-5235-af3b-8afede626c91",
+                  "title": "Trie",
+                  "youtubeId": "t2CEgPsws3U",
+                  "laboratory": "https://codepen.io/beaucarnes/pen/mmBNBd?editors=0011",
+                  "start": 4499,
+                  "stop": 5249
+                },
+                {
+                  "id": "f6ca8621-8307-5e6e-a450-ec25497db030",
+                  "title": "Heap (max and min)",
+                  "youtubeId": "t2CEgPsws3U",
+                  "laboratory": "https://codepen.io/beaucarnes/pen/JNvENQ?editors=0010",
+                  "start": 5249,
+                  "stop": 6127
+                },
+                {
+                  "id": "5f1483ac-a72c-5b55-8cee-ece72932e131",
+                  "title": "Graphs: adjacency list, adjacency matrix, incidence matrix",
+                  "youtubeId": "t2CEgPsws3U",
+                  "start": 6127,
+                  "stop": 6405
+                },
+                {
+                  "id": "11dfd400-a704-5d4f-8d69-3ad642926ffc",
+                  "title": "Graphs: breadth-first search",
+                  "youtubeId": "t2CEgPsws3U",
+                  "laboratory": "https://codepen.io/beaucarnes/pen/XgrXvw?editors=0012",
+                  "start": 6405,
+                  "stop": 6774
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

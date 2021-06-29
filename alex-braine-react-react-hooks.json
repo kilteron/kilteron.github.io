@@ -1,0 +1,147 @@
+{
+  "id": "5ebf19f2-9265-53a0-bec7-da40dbbdaf75",
+  "url": "/alex-braine/react/react-hooks",
+  "title": "10 React Hooks",
+  "cards": 12,
+  "createdAt": 1610994026,
+  "author": "Fireship",
+  "youtubeId": "TNhaISOUy6Q",
+  "source": "https://www.youtube.com/watch?v=TNhaISOUy6Q",
+  "children": [
+    {
+      "title": "React",
+      "children": [
+        {
+          "title": "Course",
+          "children": [
+            {
+              "title": "Hooks",
+              "children": [
+                {
+                  "id": "89ccefd0-1ae9-5757-a179-a6db53caab98",
+                  "title": "useState",
+                  "youtubeId": "TNhaISOUy6Q",
+                  "start": 142,
+                  "stop": 227.7,
+                  "gistId": "22e3cfc0e2ae5b1871499347c91f6c9e",
+                  "gistFile": "useState.js",
+                  "documentation": "https://reactjs.org/docs/hooks-reference.html#usestate"
+                },
+                {
+                  "id": "cb7605b8-1f77-5c31-ad55-33b0d389e928",
+                  "title": "useEffect",
+                  "youtubeId": "TNhaISOUy6Q",
+                  "start": 230.7,
+                  "stop": 353.6,
+                  "gistId": "22e3cfc0e2ae5b1871499347c91f6c9e",
+                  "gistFile": "useEffect.js",
+                  "documentation": "https://reactjs.org/docs/hooks-reference.html#useeffect"
+                },
+                {
+                  "id": "4e737a66-9997-5ae7-98d8-6f68e9177f73",
+                  "title": "useEffect with deps",
+                  "youtubeId": "TNhaISOUy6Q",
+                  "start": 318,
+                  "stop": 353.6,
+                  "gistId": "22e3cfc0e2ae5b1871499347c91f6c9e",
+                  "gistFile": "useEffectDeps.js",
+                  "documentation": "https://reactjs.org/docs/hooks-reference.html#conditionally-firing-an-effect"
+                },
+                {
+                  "id": "10e98f90-a425-56d9-8dbe-321971163530",
+                  "title": "useContext",
+                  "youtubeId": "TNhaISOUy6Q",
+                  "start": 357.5,
+                  "stop": 418.3,
+                  "gistId": "22e3cfc0e2ae5b1871499347c91f6c9e",
+                  "gistFile": "useContext.js",
+                  "documentation": "https://reactjs.org/docs/hooks-reference.html#usecontext"
+                },
+                {
+                  "id": "55fdce0a-fda5-55ed-b149-6ae9552dd83d",
+                  "title": "useRef",
+                  "youtubeId": "TNhaISOUy6Q",
+                  "start": 421.3,
+                  "stop": 476,
+                  "gistId": "22e3cfc0e2ae5b1871499347c91f6c9e",
+                  "gistFile": "useRef.js",
+                  "documentation": "https://reactjs.org/docs/hooks-reference.html#useref"
+                },
+                {
+                  "id": "1d42d2ef-69a0-5746-baf6-0175b13dd923",
+                  "title": "useRef for DOM",
+                  "youtubeId": "TNhaISOUy6Q",
+                  "start": 451,
+                  "stop": 476,
+                  "gistId": "22e3cfc0e2ae5b1871499347c91f6c9e",
+                  "gistFile": "useRefAndDom.js",
+                  "documentation": "https://reactjs.org/docs/hooks-reference.html#useref"
+                },
+                {
+                  "id": "2a3bda7f-8fc8-5347-ac15-0a16ea04f0fa",
+                  "title": "useReducer",
+                  "youtubeId": "TNhaISOUy6Q",
+                  "start": 480.1,
+                  "stop": 567,
+                  "gistId": "22e3cfc0e2ae5b1871499347c91f6c9e",
+                  "gistFile": "useReducer.js",
+                  "documentation": "https://reactjs.org/docs/hooks-reference.html#usereducer"
+                },
+                {
+                  "id": "2a92752c-b7f4-5b63-8546-a8e8b12b22d2",
+                  "title": "useMemo",
+                  "youtubeId": "TNhaISOUy6Q",
+                  "start": 568.5,
+                  "stop": 608.5,
+                  "gistId": "22e3cfc0e2ae5b1871499347c91f6c9e",
+                  "gistFile": "useMemo.js",
+                  "documentation": "https://reactjs.org/docs/hooks-reference.html#usememo"
+                },
+                {
+                  "id": "67b32cc9-934a-5359-9d25-b8bbdc348827",
+                  "title": "useCallback",
+                  "youtubeId": "TNhaISOUy6Q",
+                  "start": 615.6,
+                  "stop": 639.5,
+                  "gistId": "22e3cfc0e2ae5b1871499347c91f6c9e",
+                  "gistFile": "useCallback.js",
+                  "documentation": "https://reactjs.org/docs/hooks-reference.html#usecallback"
+                },
+                {
+                  "id": "663f28e8-b283-59b1-aea8-b8f481cbfcdc",
+                  "title": "useImperativeHandle",
+                  "youtubeId": "TNhaISOUy6Q",
+                  "start": 643.8,
+                  "stop": 675.5,
+                  "gistId": "22e3cfc0e2ae5b1871499347c91f6c9e",
+                  "gistFile": "useImperativeHandle.js",
+                  "documentation": "https://reactjs.org/docs/hooks-reference.html#useimperativehandle"
+                },
+                {
+                  "id": "84d4b697-5779-5a2f-9856-d896b12e8378",
+                  "title": "useLayoutEffect",
+                  "youtubeId": "TNhaISOUy6Q",
+                  "start": 680,
+                  "stop": 700.6,
+                  "gistId": "22e3cfc0e2ae5b1871499347c91f6c9e",
+                  "gistFile": "useLayoutEffect.js",
+                  "documentation": "https://reactjs.org/docs/hooks-reference.html#uselayouteffect"
+                },
+                {
+                  "id": "aeb4b107-728e-5434-bd73-565389244423",
+                  "title": "useDebugValue",
+                  "youtubeId": "TNhaISOUy6Q",
+                  "start": 705,
+                  "stop": 780,
+                  "gistId": "22e3cfc0e2ae5b1871499347c91f6c9e",
+                  "gistFile": "useDebugValue.js",
+                  "documentation": "https://reactjs.org/docs/hooks-reference.html#usedebugvalue"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

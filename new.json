@@ -1,0 +1,81 @@
+{
+  "creator": "Alex Braine",
+  "title": "React",
+  "url": "/alex-braine/react",
+  "type": "kit",
+  "collections": [
+    {
+      "id": "81a06294-5c28-5188-a066-37f8331ace23",
+      "url": "/alex-braine/react/react-js-crash-course-2021",
+      "title": "React JS Crash Course 2021",
+      "cards": 32,
+      "youtubeViews": 646168,
+      "youtubeLikes": 19386,
+      "youtubeCreatedAt": 582662,
+      "createdAt": 1610996471,
+      "source": "https://www.youtube.com/watch?v=w7ejDZ8SWv8",
+      "author": "Traversy Media",
+      "youtubeId": "w7ejDZ8SWv8"
+    },
+    {
+      "id": "54e5e48d-dc35-5913-a373-ec3479ab9c06",
+      "url": "/alex-braine/react/code-15-react-projects",
+      "title": "Code 15 React Projects - Complete Course",
+      "cards": 91,
+      "youtubeViews": 298770,
+      "youtubeLikes": 10239,
+      "createdAt": 1603805656,
+      "source": "https://www.youtube.com/watch?v=a_7Z7C_JCyo",
+      "author": "freeCodeCamp.org",
+      "youtubeId": "a_7Z7C_JCyo"
+    },
+    {
+      "id": "84157dae-cbfb-59ad-b04e-755004461825",
+      "url": "/alex-braine/react/material-ui",
+      "title": "Material UI React Tutorial",
+      "cards": 12,
+      "youtubeViews": 166932,
+      "youtubeLikes": 5540,
+      "createdAt": 1602251797,
+      "source": "https://www.youtube.com/watch?v=vyJU9efvUtQ",
+      "author": "Traversy Media",
+      "youtubeId": "vyJU9efvUtQ"
+    },
+    {
+      "id": "5ebf19f2-9265-53a0-bec7-da40dbbdaf75",
+      "url": "/alex-braine/react/react-hooks",
+      "title": "10 React Hooks Explained",
+      "cards": 12,
+      "youtubeViews": 208062,
+      "youtubeLikes": 13146,
+      "createdAt": 1610994026,
+      "source": "https://www.youtube.com/watch?v=TNhaISOUy6Q",
+      "author": "Fireship",
+      "youtubeId": "TNhaISOUy6Q"
+    },
+    {
+      "id": "2b742e4b-9f9b-5fa4-ad64-dd1b82a21033",
+      "url": "/alex-braine/react/react-website-using-styled-components",
+      "title": "React Website using Styled Components",
+      "cards": 25,
+      "youtubeViews": 208493,
+      "youtubeLikes": 7574,
+      "createdAt": 1601755280,
+      "source": "https://www.youtube.com/watch?v=Nl54MJDR2p8",
+      "author": "Brian Design",
+      "youtubeId": "Nl54MJDR2p8"
+    },
+    {
+      "id": "21bf1d51-14ca-513e-90fe-1a28a8af1a34",
+      "url": "/alex-braine/react/react-admin-crash-course",
+      "title": "React Admin Crash Course",
+      "cards": 12,
+      "youtubeViews": 121457,
+      "youtubeLikes": 4275,
+      "createdAt": 1602079767,
+      "source": "https://www.youtube.com/watch?v=HRmdj-HpJyE",
+      "author": "Traversy Media",
+      "youtubeId": "HRmdj-HpJyE"
+    }
+  ]
+}

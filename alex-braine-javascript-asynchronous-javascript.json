@@ -1,0 +1,146 @@
+{
+  "id": "5b30fd93-b69f-5bff-82ac-18edf4cc772a",
+  "url": "/alex-braine/javascript/asynchronous-javascript",
+  "title": "Asynchronous JavaScript",
+  "cards": 17,
+  "createdAt": 1609040285,
+  "author": "Akshay Saini",
+  "source": "https://www.youtube.com/watch?v=8zKuNo4ay8E",
+  "youtubeId": "8zKuNo4ay8E",
+  "children": [
+    {
+      "title": "JavaScript",
+      "children": [
+        {
+          "title": "Tutorial",
+          "children": [
+            {
+              "title": "Asynchronous JavaScript",
+              "children": [
+                {
+                  "id": "111",
+                  "title": "Introduction",
+                  "youtubeId": "8zKuNo4ay8E",
+                  "start": 0,
+                  "stop": 40
+                },
+                {
+                  "id": "111",
+                  "title": "How JS Engine Executes the Code using Call Stack",
+                  "youtubeId": "8zKuNo4ay8E",
+                  "start": 40,
+                  "stop": 205
+                },
+                {
+                  "id": "111",
+                  "title": "Main Job of the Call Stack",
+                  "youtubeId": "8zKuNo4ay8E",
+                  "start": 205,
+                  "stop": 231
+                },
+                {
+                  "id": "111",
+                  "title": "How does JavaScript perform async tasks",
+                  "youtubeId": "8zKuNo4ay8E",
+                  "start": 231,
+                  "stop": 276
+                },
+                {
+                  "id": "111",
+                  "title": "Behind the Scenes in Browser",
+                  "youtubeId": "8zKuNo4ay8E",
+                  "start": 276,
+                  "stop": 455
+                },
+                {
+                  "id": "111",
+                  "title": "Web APIs in JS",
+                  "youtubeId": "8zKuNo4ay8E",
+                  "start": 455,
+                  "stop": 723
+                },
+                {
+                  "id": "111",
+                  "title": "How setTimeout Works behind the scenes in Browsers",
+                  "youtubeId": "8zKuNo4ay8E",
+                  "start": 723,
+                  "stop": 969
+                },
+                {
+                  "id": "111",
+                  "title": "Event Loop & CallBack Queue in JS",
+                  "youtubeId": "8zKuNo4ay8E",
+                  "start": 969,
+                  "stop": 1139
+                },
+                {
+                  "id": "111",
+                  "title": "How Event Listeners Work in JS",
+                  "youtubeId": "8zKuNo4ay8E",
+                  "start": 1139,
+                  "stop": 1423
+                },
+                {
+                  "id": "111",
+                  "title": "More about Event Loop",
+                  "youtubeId": "8zKuNo4ay8E",
+                  "start": 1423,
+                  "stop": 1502
+                },
+                {
+                  "id": "111",
+                  "title": "Why do we need Event Loop",
+                  "youtubeId": "8zKuNo4ay8E",
+                  "start": 1502,
+                  "stop": 1649
+                },
+                {
+                  "id": "111",
+                  "title": "How fetch() function works",
+                  "youtubeId": "8zKuNo4ay8E",
+                  "start": 1649,
+                  "stop": 1826
+                },
+                {
+                  "id": "111",
+                  "title": "MicroTask Queue in JS",
+                  "youtubeId": "8zKuNo4ay8E",
+                  "start": 1826,
+                  "stop": 2161
+                },
+                {
+                  "id": "111",
+                  "title": "What are MicroTasks in JS?",
+                  "youtubeId": "8zKuNo4ay8E",
+                  "start": 2161,
+                  "stop": 2315
+                },
+                {
+                  "id": "111",
+                  "title": "Starvation of Functions in Callback Queue",
+                  "youtubeId": "8zKuNo4ay8E",
+                  "start": 2315,
+                  "stop": 2388
+                },
+                {
+                  "id": "111",
+                  "title": "Teaser of the Next Video",
+                  "youtubeId": "8zKuNo4ay8E",
+                  "start": 2388,
+                  "stop": 2453
+                },
+                {
+                  "id": "111",
+                  "title": "Thank you for watching Namaste JavaScript",
+                  "youtubeId": "8zKuNo4ay8E",
+                  "start": 2453,
+                  "stop": 2504
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

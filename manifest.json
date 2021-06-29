@@ -1,0 +1,28 @@
+{
+  "short_name": "Kiteron",
+  "name": "Kiteron",
+  "icons": [
+    {
+      "src": "favicon256.ico",
+      "sizes": "256x256",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/?1",
+  "display_override": ["standalone"],
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3b86f7",
+  "background_color": "#3b86f7"
+}

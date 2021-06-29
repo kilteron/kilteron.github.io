@@ -1,0 +1,1053 @@
+{
+  "id": "a0229b74-636c-5742-b642-275216bd0286",
+  "url": "/alex-braine/luxembourgish/10-most-used-luxembourgish-verbs",
+  "title": "10 Most used verbs",
+  "cards": 78,
+  "createdAt": 1528003583,
+  "author": "Luxembourgish with Anne",
+  "youtubeId": "kyrygTc0q3s",
+  "source": "https://www.youtube.com/watch?v=kyrygTc0q3s",
+  "children": [
+    {
+      "title": "Luxembourgish",
+      "children": [
+        {
+          "title": "Words",
+          "children": [
+            {
+              "title": "10 Most used verbs",
+              "children": [
+                {
+                  "id": "2d3f8d4a-173e-5394-b1e2-3688951d9d02",
+                  "title": "to be",
+                  "description": "sinn",
+                  "start": "72.8",
+                  "stop": "73.3",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "6a6a37fc-c5be-5c60-b72c-a8e5a33d030b",
+                  "title": "",
+                  "description": "ech sinn",
+                  "start": "91.8",
+                  "stop": "92.7",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "8ab9abed-da1e-5371-ad7c-a2dc3d1ec2cc",
+                  "title": "you are",
+                  "description": "du bass",
+                  "start": "94.6",
+                  "stop": "95.3",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "e9d52afb-9c60-57ba-84cc-d40150156a46",
+                  "title": "he is",
+                  "description": "hien ass",
+                  "start": "99.4",
+                  "stop": "100.3",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "b17dfa09-bb5a-54b0-94f5-9a36148dac9b",
+                  "title": "she is",
+                  "description": "hatt/si ass",
+                  "start": "103.6",
+                  "stop": "105.3",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "297c8962-26fb-52d8-9249-d2651331b9b1",
+                  "title": "we are",
+                  "description": "mir sinn",
+                  "start": "110.9",
+                  "stop": "111.8",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "b6f26c1c-eabb-512c-b36d-e5ce130aaf1d",
+                  "title": "you are",
+                  "description": "dir/Dir sidd",
+                  "start": "115.1",
+                  "stop": "115.8",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "fb123421-641f-589f-8d1c-a488227f7ff0",
+                  "title": "they are",
+                  "description": "si sinn",
+                  "start": "119.2",
+                  "stop": "120.2",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "1838b750-4a5f-5756-9648-0501f75e9feb",
+                  "title": "I was",
+                  "description": "ech war",
+                  "start": "150.9",
+                  "stop": "151.9",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "c248e20c-65ac-5423-b201-0c1ec0ad23af",
+                  "title": "I am at home.",
+                  "description": "Ech sinn doheem.",
+                  "start": "157.6",
+                  "stop": "159.2",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "e979900c-f659-52df-a83e-140a5dca3fee",
+                  "title": "The weather was lovely here yesterday.",
+                  "description": "Gёschter war hei wonnerschéint Wieder.",
+                  "start": "165.9",
+                  "stop": "169.4",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "a56e6f26-ae5d-5fed-9657-89a8df1a6cc8",
+                  "title": "to have",
+                  "description": "hunn",
+                  "start": "179.1",
+                  "stop": "180.0",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "ad95f325-cfa6-5387-8d25-a91183147192",
+                  "title": "I have",
+                  "description": "ech hunn",
+                  "start": "191.3",
+                  "stop": "192.1",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "5e5e7896-743e-54b4-8124-2aacf9e50eba",
+                  "title": "",
+                  "description": "du hues",
+                  "start": "194.3",
+                  "stop": "195.2",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "d396fe81-503c-5ca1-8505-7c948770839c",
+                  "title": "",
+                  "description": "hien huet",
+                  "start": "197.9",
+                  "stop": "198.9",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "7b7397c5-ad25-573b-9b44-6f38c35d8bef",
+                  "title": "",
+                  "description": "hatt/si huet",
+                  "start": "201.2",
+                  "stop": "203.0",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "1138d2ea-f297-550d-b62d-d90ad104ce8d",
+                  "title": "",
+                  "description": "mir hunn",
+                  "start": "204.8",
+                  "stop": "205.7",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "73947572-9ffb-5333-ae4c-4de321f2a6f4",
+                  "title": "",
+                  "description": "dir/Dir hutt",
+                  "start": "207.8",
+                  "stop": "208.7",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "92cf0f33-9fe6-5744-a0ca-3037b37c10ae",
+                  "title": "",
+                  "description": "si hunn",
+                  "start": "210.6",
+                  "stop": "211.7",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "7abf0692-fb50-5e04-944e-37e004cef9a0",
+                  "title": "I had",
+                  "description": "ech hat",
+                  "start": "220.9",
+                  "stop": "222.5",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "05dd9b73-827e-5fb6-8d0a-777b6c4ec7c7",
+                  "title": "",
+                  "description": "",
+                  "start": "",
+                  "stop": "",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "b64aa328-9783-5935-9f70-6370a938364e",
+                  "title": "We have a dog and two cats.",
+                  "description": "Mir hunn en Hond an zwou Kazen.",
+                  "start": "227.4",
+                  "stop": "230.0",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "b6360d71-1872-517c-ab5f-d296be46c8b4",
+                  "title": "We had nice weather on vacation.",
+                  "description": "Mir hate gutt Wieder an der Vakanz.",
+                  "start": "239.6",
+                  "stop": "241.8",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "c4947e54-57e8-53e6-b113-2e15b4c95e00",
+                  "title": "to go",
+                  "description": "goen",
+                  "start": "254.2",
+                  "stop": "255.0",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "321bbb9c-b9e7-52be-8ee8-5c1977fee747",
+                  "title": "I go",
+                  "description": "ech ginn",
+                  "start": "263.4",
+                  "stop": "264.6",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "2eb62282-b989-50a2-87f7-e868d8ef09ca",
+                  "title": "",
+                  "description": "du gees",
+                  "start": "266.6",
+                  "stop": "268.1",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "7cf27d52-9d19-51f9-b97c-3867e7ef9c97",
+                  "title": "",
+                  "description": "hien geet",
+                  "start": "271.9",
+                  "stop": "273.4",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "21386ce5-ab7b-51bf-9f92-4a646b0d4101",
+                  "title": "",
+                  "description": "hatt/si geet",
+                  "start": "275.6",
+                  "stop": "277.4",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "0f114001-ad65-5c7d-b7b0-ad55cbd01143",
+                  "title": "",
+                  "description": "mir ginn",
+                  "start": "279.7",
+                  "stop": "280.6",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "b6ab3b92-80bf-51d6-9717-48dac4675200",
+                  "title": "",
+                  "description": "dir/Dir gitt",
+                  "start": "283.7",
+                  "stop": "23.6",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "3dfd0167-83a3-588c-a547-baddbb466314",
+                  "title": "",
+                  "description": "si ginn",
+                  "start": "285.8",
+                  "stop": "286.9",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "7023ea99-9fa7-51bd-a08a-857c3ce1619a",
+                  "title": "I went / I've gone",
+                  "description": "ech si(nn) gaang",
+                  "start": "306.8",
+                  "stop": "308.5",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "4cf014ef-5870-5e73-ba61-ef29eaa357f7",
+                  "title": "I go to work by walking.",
+                  "description": "Ech ginn zu Fouss schaffen.",
+                  "start": "313.9",
+                  "stop": "315.9",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "7de1443e-8b04-5fb4-a61c-6188e64e93ca",
+                  "title": "We went to the swimming pool.",
+                  "description": "Ech ginn an s'Schwämm gaang.",
+                  "start": "324.3",
+                  "stop": "326.2",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "598d55d8-82ec-583a-83fb-8f8b2bc1cbeb",
+                  "title": "to be able to / can",
+                  "description": "kёnnen",
+                  "start": "340.7",
+                  "stop": "341.2",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "ffc6c4e3-04ea-51fb-8795-b8c19e4ea487",
+                  "title": "I can",
+                  "description": "ech kann",
+                  "start": "366.0",
+                  "stop": "367.2",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "fe510e24-326a-5d47-a66a-b46586aea5df",
+                  "title": "",
+                  "description": "du kanns",
+                  "start": "368.6",
+                  "stop": "369.9",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "5f6fb6d4-b815-5922-9494-0a7fbe0f3510",
+                  "title": "",
+                  "description": "hien kann",
+                  "start": "371.8",
+                  "stop": "373.3",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "bbf6ee00-b612-571e-a82e-c40efdb21b9f",
+                  "title": "",
+                  "description": "hatt/si kann",
+                  "start": "375.2",
+                  "stop": "376.9",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "a7ae727b-4184-5c21-955a-0294e3d0b194",
+                  "title": "",
+                  "description": "mir kёnnen",
+                  "start": "378.8",
+                  "stop": "380.2",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "1d8c9cd2-878f-5452-8bf7-9ec84e626c0d",
+                  "title": "",
+                  "description": "dir/Dir kёnnt",
+                  "start": "382.4",
+                  "stop": "383.7",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "3e0369f1-4d1c-5fc2-857c-bef465a142f8",
+                  "title": "",
+                  "description": "si kёnnen",
+                  "start": "385.5",
+                  "stop": "386.9",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "8f44d4cb-a7ab-52e5-99d8-c482661d72d3",
+                  "title": "I could",
+                  "description": "ech konnt",
+                  "start": "396.5",
+                  "stop": "397.9",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "762287f7-4b18-5bb0-8fd8-67268836c840",
+                  "title": "I can bake very well.",
+                  "description": "Ech kann immens gutt baken.",
+                  "start": "402.8",
+                  "stop": "405.0",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "b2471290-a3d0-5d34-8466-8004d78ccdfb",
+                  "title": "The children couldn't go out.",
+                  "description": "D'Kanner konnten net erausgoen.",
+                  "start": "412.7",
+                  "stop": "415.3",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "206dc5eb-ee24-5f08-a248-3bde533ae8fc",
+                  "title": "to make/do",
+                  "description": "maachen",
+                  "start": "423.7",
+                  "stop": "424.7",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "e8f41e23-22d1-5563-85c7-7a9e45d9a131",
+                  "title": "",
+                  "description": "ech maachen",
+                  "start": "432.8",
+                  "stop": "434.3",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "4e38b6c3-4ded-575d-987c-84f88a91be82",
+                  "title": "",
+                  "description": "du méchs",
+                  "start": "436.2",
+                  "stop": "437.6",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "f5d94a56-77a1-5e9c-81bb-4b5b3c6e3c6b",
+                  "title": "",
+                  "description": "hien mécht",
+                  "start": "441.0",
+                  "stop": "442.3",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "38f65f15-6411-56fe-8e50-ec54c1923080",
+                  "title": "",
+                  "description": "hatt/si mécht",
+                  "start": "444.1",
+                  "stop": "446.0",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "469c79f6-d36b-5cd9-9b7e-4fe35b872027",
+                  "title": "",
+                  "description": "",
+                  "start": "",
+                  "stop": "",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "a5d6061f-7a13-5534-8205-cfe689249fb3",
+                  "title": "",
+                  "description": "",
+                  "start": "",
+                  "stop": "",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "e59b694b-a92d-5bb9-8525-e32f59ef8725",
+                  "title": "",
+                  "description": "mir maachen",
+                  "start": "447.2",
+                  "stop": "448.5",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "59b41e74-7958-5abc-b76f-98b9ee18a584",
+                  "title": "",
+                  "description": "dir/Dir maacht",
+                  "start": "450.7",
+                  "stop": "452.2",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "dc937334-e795-5ae2-bf77-dd00b27bfcab",
+                  "title": "",
+                  "description": "si maachen",
+                  "start": "453.9",
+                  "stop": "455.6",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "f38a322a-81b3-5357-a29c-54cc9c994f83",
+                  "title": "I made / I've made",
+                  "description": "ech hu(nn) gemaach",
+                  "start": "466.5",
+                  "stop": "467.9",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "73501ec3-2b57-5e4b-bd8f-7621791bef5f",
+                  "title": "I don't do mush sports.",
+                  "description": "Ech maachen net vill Sport.",
+                  "start": "474.6",
+                  "stop": "476.6",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "668d1a2f-27d8-530a-a567-bb4ab35ea900",
+                  "title": "What have you done last weekend?",
+                  "description": "Wat hutt dir de leschte Weekend gemaach?",
+                  "start": "484.4",
+                  "stop": "486.9",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "72bc13f7-6038-5fe2-8a4c-907a88ee1505",
+                  "title": "to become",
+                  "description": "ginn",
+                  "start": "495.6",
+                  "stop": "496.3",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "8e64085a-3213-519a-bb23-6f3c03808ad0",
+                  "title": "I become",
+                  "description": "ech ginn",
+                  "start": "513.3",
+                  "stop": "514.4",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "cd3b1d42-9579-568d-a208-190ac93d3ec7",
+                  "title": "",
+                  "description": "du gёss",
+                  "start": "516.8",
+                  "stop": "517.9",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "a33f442b-6e8f-50c3-a72e-0742f3f1cfa0",
+                  "title": "",
+                  "description": "hien gёtt",
+                  "start": "521.5",
+                  "stop": "522.7",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "fa0aebb6-0ef8-505f-9261-5ade8ef6864f",
+                  "title": "",
+                  "description": "hatt/si gёtt",
+                  "start": "524.0",
+                  "stop": "525.7",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "fee82743-d44d-5117-9b65-e6018c46574f",
+                  "title": "",
+                  "description": "mir ginn",
+                  "start": "527.4",
+                  "stop": "528.5",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "51cb3ca3-b93a-5ad7-850a-8977c198ba6b",
+                  "title": "",
+                  "description": "dir/Dir gitt",
+                  "start": "530.0",
+                  "stop": "531.3",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "78b9b8c7-0701-5b4a-814b-a7fe6191b21f",
+                  "title": "",
+                  "description": "si ginn",
+                  "start": "532.7",
+                  "stop": "534.1",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "091c7d10-0895-5059-a0cb-693e1a730b29",
+                  "title": "I've become",
+                  "description": "ech si(nn) ginn",
+                  "start": "538.6",
+                  "stop": "539.8",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "0bfcc654-8e68-5a7d-9295-7d47743e9451",
+                  "title": "I will be (become) 30 years old in May.",
+                  "description": "Ech ginn am Mee 30 Joer al.",
+                  "start": "549.1",
+                  "stop": "551.5",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "7f095329-75e8-548e-9d2d-4bc6935d5558",
+                  "title": "He has become thin.",
+                  "description": "Hien ass dёnn ginn.",
+                  "start": "560.6",
+                  "stop": "562.3",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "58e7c15f-2c08-5383-ba89-ee84375162b9",
+                  "title": "to want",
+                  "description": "wellen",
+                  "start": "567.7",
+                  "stop": "568.5",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "10bb9d67-5d59-5e83-a89d-83ca5061d52c",
+                  "title": "I want",
+                  "description": "ech wёll",
+                  "start": "574.7",
+                  "stop": "576.0",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "b7a94273-d288-5830-9c2c-c1505c40e1f4",
+                  "title": "",
+                  "description": "du wёlls",
+                  "start": "577.4",
+                  "stop": "578.7",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "736bf0ee-af4a-579e-9a3b-47a2326c96f8",
+                  "title": "",
+                  "description": "hien wёll(t)",
+                  "start": "580.0",
+                  "stop": "582.8",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "71853a0f-7115-511a-a1ac-68edd8f0db8f",
+                  "title": "",
+                  "description": "hatt/si wёll(t)",
+                  "start": "585.2",
+                  "stop": "588.4",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "12a674ca-17b2-5566-bcb8-4d240955f960",
+                  "title": "",
+                  "description": "mir wёllen",
+                  "start": "589.4",
+                  "stop": "590.6",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "cb68f06a-c02e-59d0-a6d0-92482738e0d4",
+                  "title": "",
+                  "description": "dir/Dir wёllt",
+                  "start": "592.4",
+                  "stop": "593.6",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "48804e78-5ad2-5002-8495-cd41abf67dcc",
+                  "title": "",
+                  "description": "si wёllen",
+                  "start": "595.2",
+                  "stop": "596.4",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "843dd8b6-24fa-5b53-926b-e741d1bae4d2",
+                  "title": "I wanted",
+                  "description": "ech wollt",
+                  "start": "605.5",
+                  "stop": "606.6",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "85aa3b87-5193-516a-bb13-977d1f8bd66c",
+                  "title": "I want to learn Spanish.",
+                  "description": "Ech wёll Spuenesch léieren",
+                  "start": "610.0",
+                  "stop": "612.0",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "9b805858-34f1-525d-bc13-ec0a7b71a4db",
+                  "title": "She didn't want to come with us to the cinema.",
+                  "description": "Hatt wollt net mat eis an de Kino kommen.",
+                  "start": "618.7",
+                  "stop": "621.0",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "2c97ad7d-237b-5875-a545-9f3e5a497e80",
+                  "title": "to come",
+                  "description": "kommen",
+                  "start": "632.7",
+                  "stop": "633.4",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "4908fe39-c9d2-53e5-81d9-e7d0b1c523df",
+                  "title": "",
+                  "description": "ech kommen",
+                  "start": "639.0",
+                  "stop": "640.2",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "646b2022-802c-5308-98a4-5693ba2b3f91",
+                  "title": "",
+                  "description": "du kёnns",
+                  "start": "641.3",
+                  "stop": "642.6",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "516f10d5-598d-58a1-9684-142ff9ea4a5a",
+                  "title": "",
+                  "description": "hien kёnnt",
+                  "start": "644.4",
+                  "stop": "646.3",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "d2b995e1-e059-54ec-947f-97179e54cee8",
+                  "title": "",
+                  "description": "hatt/si kёnnt",
+                  "start": "647.1",
+                  "stop": "649.0",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "bdc605db-1086-5d4f-99a2-854bec0050b1",
+                  "title": "",
+                  "description": "mir lommen",
+                  "start": "650.2",
+                  "stop": "651.5",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "15db66ac-c809-58bd-ba5c-82e9ba5e7ee6",
+                  "title": "",
+                  "description": "dir/Dir kommt",
+                  "start": "652.9",
+                  "stop": "654.2",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "209727cf-f0d6-5759-962d-d1b23dd9c8e9",
+                  "title": "",
+                  "description": "si kommen",
+                  "start": "655.3",
+                  "stop": "656.4",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "5f454904-c1f7-5db4-9a91-db7b7dce50a5",
+                  "title": "I came / I've come",
+                  "description": "ech si(nn) komm",
+                  "start": "665.0",
+                  "stop": "666.0",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "9e0896e6-2d04-5aeb-bcb7-258bcc2067cd",
+                  "title": "I'm coming from England.",
+                  "description": "Ech kommen aus England.",
+                  "start": "671.3",
+                  "stop": "673.4",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "ca8196ab-0a55-55f6-a6f9-26c3a3c217b9",
+                  "title": "I came too late to work.",
+                  "description": "Ech sinn ze spéit op d'Aarbecht komm.",
+                  "start": "679.8",
+                  "stop": "682.0",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "34ae4456-9c6c-5808-a067-b59aa30c6343",
+                  "title": "to must",
+                  "description": "mussen",
+                  "start": "690.3",
+                  "stop": "691.0",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "2fa7cc6a-6e89-534a-9575-a69a1050ff6f",
+                  "title": "",
+                  "description": "ech muss",
+                  "start": "697.4",
+                  "stop": "698.5",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "fc110278-8a71-5383-974a-0ade91f3ea51",
+                  "title": "",
+                  "description": "du muss",
+                  "start": "700.1",
+                  "stop": "701.2",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "378ae9ae-319c-58cd-9b24-0985efb1da75",
+                  "title": "",
+                  "description": "hien muss",
+                  "start": "702.5",
+                  "stop": "703.6",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "723889f6-abce-5d4d-9bbb-792df6186e92",
+                  "title": "",
+                  "description": "hatt/si muss",
+                  "start": "704.6",
+                  "stop": "706.3",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "ffc7105f-9ad5-5631-a0d5-44b8dacf02a8",
+                  "title": "",
+                  "description": "mir mussen",
+                  "start": "707.2",
+                  "stop": "708.5",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "6abbd824-403e-5819-bcde-f0cc2fc329b1",
+                  "title": "",
+                  "description": "dir/Dir musst",
+                  "start": "709.5",
+                  "stop": "710.7",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "b08b7853-bd29-5ac2-ba38-15eb260be53e",
+                  "title": "",
+                  "description": "si mussen",
+                  "start": "711.3",
+                  "stop": "712.6",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "2200d11d-826b-50b0-ac35-27317702a68f",
+                  "title": "I had to",
+                  "description": "ech hu(nn) mussen / missen",
+                  "start": "728.7",
+                  "stop": "732.1",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "4f6b0444-9f8c-5397-81f7-792388d31283",
+                  "title": "I have to learn Luxembourgish today.",
+                  "description": "Ech muss haut Lёtzebuergesch léieren.",
+                  "start": "740.1",
+                  "stop": "742.1",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "b55091c5-56bb-5d0c-b0f2-3cf01ec4b028",
+                  "title": "We had to take the train.",
+                  "description": "Mir hunn den Zuch huele mussen.",
+                  "start": "750.5",
+                  "stop": "752.4",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "09919d5a-4bb7-5ad7-9c63-66b571ed1705",
+                  "title": "to say / to tell",
+                  "description": "soen",
+                  "start": "763.5",
+                  "stop": "764.3",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "0409b280-a70c-50e7-933a-04d97e71fc75",
+                  "title": "",
+                  "description": "ech soen",
+                  "start": "770.6",
+                  "stop": "771.9",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "7a94e81f-a9be-50d9-a832-3979b481009b",
+                  "title": "",
+                  "description": "du sees",
+                  "start": "773.6",
+                  "stop": "774.8",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "c5ce5f32-9bc0-5b81-a9b7-7eb8a8cd7806",
+                  "title": "",
+                  "description": "hien seet",
+                  "start": "776.4",
+                  "stop": "777.8",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "49fd9ca7-2618-5a3a-8d41-30a15282904e",
+                  "title": "",
+                  "description": "hatt/si seet",
+                  "start": "778.9",
+                  "stop": "780.8",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "47523839-3399-5c9f-9418-5ce24260184c",
+                  "title": "",
+                  "description": "mir soen",
+                  "start": "781.9",
+                  "stop": "782.9",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "91edafea-7d80-59b6-bbef-de46163cddd3",
+                  "title": "",
+                  "description": "dir/Dir sot",
+                  "start": "784.2",
+                  "stop": "785.5",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "87543c0d-06a5-54c1-b2c3-04f522bb8bc8",
+                  "title": "",
+                  "description": "si soen",
+                  "start": "786.3",
+                  "stop": "787.8",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "94c4e180-9b35-59ff-afe1-a8a331c27391",
+                  "title": "",
+                  "description": "",
+                  "start": "",
+                  "stop": "",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "535cb5c9-399f-5bf2-8152-873f08d69a06",
+                  "title": "I said / I've said",
+                  "description": "ech hu(nn) gesot",
+                  "start": "793.7",
+                  "stop": "794.7",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "4a197e7e-2a45-56cf-96d9-d3530488cac0",
+                  "title": "I have to tell you something",
+                  "description": "Ech muss dir eppes soen.",
+                  "start": "799.8",
+                  "stop": "801.6",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                },
+                {
+                  "id": "cb9e93ab-9d09-535a-a51e-f810f6b63db4",
+                  "title": "What did she say?",
+                  "description": "Wat huet hatt gesot?",
+                  "start": "807.9",
+                  "stop": "809.6",
+                  "youtubeId": "kyrygTc0q3s",
+                  "avatar": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
